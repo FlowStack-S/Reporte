@@ -2016,13 +2016,13 @@ La Gestión de Configuración de Software (SCM, por sus siglas en inglés) es un
 
 ### 5.1.1. Software Development Environment Configuration.
 
-**Directrices de Desarrollo para Horizon**
+**Directrices de Desarrollo para ScrumFlow**
 
-En esta sección, presentaremos las convenciones y prácticas recomendadas que hemos adoptado en HTML, CSS y JavaScript para el desarrollo de Horizon, nuestro software innovador dirigido a startups del sector del desarrollo de software. Estas directrices están orientadas a asegurar una estructura coherente, facilitar la mantenibilidad del código y optimizar la funcionalidad de nuestra plataforma para la gestión de proyectos e iniciativas. A continuación, detallaremos cómo aplicamos estas prácticas en cada una de las tecnologías utilizadas.
+En esta sección, presentaremos las convenciones y prácticas recomendadas que hemos adoptado en HTML, CSS y JavaScript para el desarrollo de ScrumFlow, nuestro software innovador dirigido a startups del sector del desarrollo de software. Estas directrices están orientadas a asegurar una estructura coherente, facilitar la mantenibilidad del código y optimizar la funcionalidad de nuestra plataforma para la gestión de proyectos e iniciativas. A continuación, detallaremos cómo aplicamos estas prácticas en cada una de las tecnologías utilizadas.
 
 **Definición de Requisitos**
 
-Antes de iniciar el desarrollo, es crucial definir claramente los requisitos de Horizon. Estos requisitos incluyen las funcionalidades clave que deseamos proporcionar, tales como:
+Antes de iniciar el desarrollo, es crucial definir claramente los requisitos de ScrumFlow. Estos requisitos incluyen las funcionalidades clave que deseamos proporcionar, tales como:
 
 - **Automatización de Tareas:** Implementación de herramientas que optimicen y automaticen tareas repetitivas para mejorar la eficiencia.
 - **Gestión de Información Robusta:** Uso de bases de datos para una administración efectiva de la información del proyecto.
@@ -2031,7 +2031,7 @@ Antes de iniciar el desarrollo, es crucial definir claramente los requisitos de 
 
 **Elección de la Tecnología**
 
-Con base en los requisitos, hemos seleccionado las siguientes tecnologías para Horizon:
+Con base en los requisitos, hemos seleccionado las siguientes tecnologías para ScrumFlow:
 
 - **Frontend:** Angular para una interfaz de usuario dinámica y receptiva, que permita una interacción fluida con las herramientas de gestión y análisis.
 
@@ -2069,7 +2069,7 @@ Con base en los requisitos, hemos seleccionado las siguientes tecnologías para 
 - **Descripción:** Cascade Styles Sheet maneja el diseño visual de la landing page.
 - **Enlace:** https://www.w3schools.com/css/default.asp
 
-Con Horizon, buscamos no solo ofrecer herramientas de gestión de proyectos eficientes, sino también actuar como un socio estratégico para las startups, facilitando su crecimiento y éxito en el competitivo mercado tecnológico.
+Con ScrumFlow, buscamos no solo ofrecer herramientas de gestión de proyectos eficientes, sino también actuar como un socio estratégico para las startups, facilitando su crecimiento y éxito en el competitivo mercado tecnológico.
 
 ### 5.1.2. Source Code Management.
 
@@ -2210,9 +2210,164 @@ Dentro del menú de ajustes, elegimos la opción "Pages".
 En la sección de GitHub Pages, escogemos la rama principal (main) en el menú desplegable de la sección "Branch" y guardamos la configuración presionando el botón "Save".
 Después de unos momentos, recibiremos el enlace a nuestro sitio web publicado en GitHub Pages.
 
-### 5.2 Landing Page, Services & Applications Implementation.
+### 5.2 Product Implementation & Deployment
 
 El desarrollo, testeo y despliegue de nuestra landing page es importante para que nuestros clientes puedan acceder a la información sobre nuestra empresa y producto a través de una interfaz con diseño responsivo, navegación intuitiva y solo con información relevante. Esta primera etapa nos permite crear un diseño conceptual sobre la estética que nuestra aplicación completa y lista para su uso. Estas etapas nos ayudaran a dar una primera impresión a los clientes para validar ideas e identificar problemas que se deben solucionar.
+
+### 5.2.1 Sprint Backlogs
+
+El **primer sprint** marcó el inicio del trabajo bajo la metodología ágil Scrum, centrado en la colaboración y en la entrega incremental de valor. Durante este período se realizaron reuniones para consolidar al equipo, asignar responsabilidades y planificar el desarrollo funcional de la Landing Page, alineada con los principios de usabilidad y diseño responsive.
+
+#### Sprint Planning 1
+
+Previo al desarrollo del sprint, se llevó a cabo una sesión de planificación para definir el alcance, seleccionar las **user stories** y establecer quién se haría cargo de cada tarea. Esta reunión fue clave para alinear al equipo y garantizar que todos tuvieran una comprensión clara de los objetivos, prioridades y entregables.
+
+| Sprint # | Sprint 1 |
+|----------|----------|
+| **Sprint Planning Background** ||
+| **Fecha** | 16/04/2025 |
+| **Hora** | 12:00 p.m. |
+| **Lugar** | Reunión virtual vía Discord |
+| **Preparado por** | Joaquin Rivadeneyra |
+| **Participantes** | Joaquin Rivadeneyra, Nelson Serrano, Sergio Gomez, Joaquin Carbajal, Diego Ramirez |
+| **Sprint Goal & User Stories** ||
+| **Sprint 1 Goal** | Desarrollar y desplegar la Landing Page desde el repositorio de GitHub, asegurando una experiencia de usuario efectiva, visualmente atractiva y funcional. El objetivo se considerará cumplido cuando todas las tareas estén marcadas como "Done" en Trello. |
+| **Sprint 1 Velocity** | — |
+| **Story Points Totales** | 19 |
+
+El backlog del primer sprint estuvo enfocado en las funcionalidades principales de la Landing Page. Las historias de usuario fueron descompuestas en tareas específicas y asignadas a los miembros del equipo para su desarrollo. La gestión del sprint se realizó a través de **Trello**, permitiendo un seguimiento claro y colaborativo del progreso.
+
+| Sprint # | Sprint 1 |
+|----------|----------|
+
+| User Story | Title | ID | Title | Description | Estimation(Hours) | Assigned To| Status(To-do /InProcess / To-Review/Done) |
+|------------|--------------------|----------|------------------|-------------|---------------------|-------------|--------|
+| US01 | Vista general de beneficios | TA001 | Sección de beneficios | Crear diseño visual de los beneficios clave de ScrumFlow. | 1h | Joaquin Carbajal | Done |
+|  |  | TA002 | Estilización CSS | Aplicar estilos personalizados y diseño responsivo. | 2h | Joaquin Carbajal | Done |
+|  |  | TA003 | Interactividad básica | Añadir efectos hover y animaciones. | 1h | Joaquin Carbajal | Done |
+|  |  | TA004 | Compatibilidad cross-browser | Verificar comportamiento en distintos navegadores. | 1h | Joaquin Carbajal | Done |
+|  |  | TA005 | Subida de cambios | Cargar la sección al repositorio de GitHub. | 2h | Joaquin Carbajal | Done |
+
+| US02 | Enlaces a redes sociales | TA006 | Agregar enlaces sociales | Insertar íconos interactivos de redes. | 1h | Diego Ramirez | Done |
+|  |  | TA007 | Diseño de íconos CSS | Estilizar los íconos de forma personalizada. | 2h | Diego Ramirez | Done |
+|  |  | TA008 | Validación de enlaces | Verificar redirección a las plataformas correctas. | 1h | Diego Ramirez | Done |
+|  |  | TA009 | Efectos de hover | Implementar feedback visual. | 2h | Diego Ramirez | Done |
+|  |  | TA010 | Commit de tareas | Subir cambios y verificar en la página. | 2h | Diego Ramirez | Done |
+
+| US03 | Registro simple | TA011 | Formulario de registro | Crear formulario básico de registro. | 1h | Nelson Serrano | Done |
+|  |  | TA012 | Estilos del formulario | Aplicar clases personalizadas en CSS. | 2h | Nelson Serrano | Done |
+|  |  | TA013 | Validación básica JS | Comprobación de campos obligatorios. | 1h | Nelson Serrano | Done |
+|  |  | TA014 | Pruebas funcionales | Evaluar con distintos casos de uso. | 2h | Nelson Serrano | Done |
+|  |  | TA015 | Subida al repositorio | Cargar el formulario completo. | 1h | Nelson Serrano | Done |
+
+| US04 | Enlace de inicio de sesión | TA016 | Enlace visible en topbar | Insertar link a login en posición destacada. | 1h | Nelson Serrano | Done |
+|  |  | TA017 | Mejora de visibilidad móvil | Asegurar legibilidad en móviles. | 1h | Nelson Serrano | Done |
+|  |  | TA018 | Animación al hacer clic | Agregar feedback visual en clic. | 1h | Nelson Serrano | Done |
+|  |  | TA019 | Pruebas en dispositivos | Comprobar compatibilidad responsive. | 1h | Nelson Serrano | Done |
+|  |  | TA020 | Confirmación de subida | Verificar cambios subidos al repo. | 1h | Nelson Serrano | Done |
+
+| US05 | Sección “Acerca de nosotros” | TA021 | Misión y visión | Desarrollar contenido institucional. | 2h | Joaquin Rivadeneyra | Done |
+|  |  | TA022 | Ajustes visuales | Aplicar tipografías y colores adecuados. | 1h | Joaquin Rivadeneyra | Done |
+|  |  | TA023 | Imagen representativa | Insertar ícono o gráfico relevante. | 1h | Joaquin Rivadeneyra | Done |
+|  |  | TA024 | Responsive testing | Verificar en distintas resoluciones. | 1h | Joaquin Rivadeneyra | Done |
+|  |  | TA025 | Push final | Subir archivos correspondientes. | 1h | Joaquin Rivadeneyra | Done |
+
+| US06 | Menú de navegación | TA026 | Diseño del menú | Estructurar navegación entre secciones. | 1h | Nelson Serrano | Done |
+|  |  | TA027 | Estilos CSS personalizados | Aplicar resaltado de sección activa. | 1h | Nelson Serrano | Done |
+|  |  | TA028 | Scroll animado JS | Agregar desplazamiento suave. | 1h | Nelson Serrano | Done |
+|  |  | TA029 | Accesibilidad | Validar uso con teclado y screen reader. | 1h | Nelson Serrano | Done |
+|  |  | TA030 | Subida al repo | Confirmar funcionamiento general. | 1h | Nelson Serrano | Done |
+
+| US07 | Preguntas frecuentes | TA031 | Implementar sección FAQ | Crear listado de preguntas frecuentes. | 1h | Sergio Gomez | Done |
+|  |  | TA032 | Estilos personalizados | Asegurar buena lectura. | 1h | Sergio Gomez | Done |
+|  |  | TA033 | Interactividad con JS | Agregar colapsado dinámico. | 1h | Sergio Gomez | Done |
+|  |  | TA034 | Pruebas funcionales | Evaluar en navegadores. | 1h | Sergio Gomez | Done |
+|  |  | TA035 | Subida de archivos | Commit final al repo. | 1h | Sergio Gomez | Done |
+
+| US08 | Formulario de contacto | TA036 | Crear formulario de contacto | Generar inputs de nombre, correo, mensaje. | 1h | Joaquin Carbajal | Done |
+|  |  | TA037 | Diseño visual | Aplicar estilos CSS. | 1h | Joaquin Carbajal | Done |
+|  |  | TA038 | Validación básica | JS para campos requeridos. | 1h | Joaquin Carbajal | Done |
+|  |  | TA039 | Test de funcionamiento | Pruebas manuales. | 1h | Joaquin Carbajal | Done |
+|  |  | TA040 | Commit final | Subida al repositorio. | 1h | Joaquin Carbajal | Done |
+
+### 5.2.2 Implemented Landing Page Evidence
+
+La Landing Page de ScrumFlow fue diseñada para presentar:
+
+- El propósito del producto.
+- Los planes de suscripción.
+- Beneficios y características clave.
+- Un diseño responsivo y accesible.
+
+Se usaron tecnologías como **HTML, CSS, JavaScript** y fue publicada con **GitHub Pages**.  
+El código fuente quedó disponible en el repositorio y las capturas de pantalla fueron archivadas como evidencia del avance.
+
+### 5.2.3 Implemented Frontend-Web Application Evidence
+
+El frontend fue desarrollado con un enfoque modular, utilizando frameworks como React o Angular (según decisión del equipo).
+
+Incluye:
+
+- Componentes reutilizables.
+- Enrutamiento con `Router`.
+- Integración con la API para manejo de usuarios, tareas y notificaciones.
+- Diseño responsive y accesible.
+
+El estado del desarrollo puede verificarse en el repositorio correspondiente, junto a imágenes de pruebas y despliegue en Firebase.
+
+### 5.2.4 Implemented Native-Mobile Application Evidence
+
+Se inició una versión móvil nativa de ScrumFlow enfocada en facilitar:
+
+- La visualización de tareas.
+- El acceso a notificaciones.
+- Registro y autenticación rápida.
+
+Dependiendo del enfoque, se utilizó **React Native**, **Flutter** o tecnologías híbridas para acelerar el desarrollo. Se realizaron pruebas en emuladores Android y dispositivos físicos, documentando los avances con capturas.
+
+### 5.2.5 Implemented RESTful API and/or Serverless Backend Evidence
+
+El backend de ScrumFlow se desarrolló bajo una arquitectura RESTful.
+
+- Desarrollado con Node.js (Express), Java (Spring Boot), o tecnologías equivalentes.
+- Endpoints organizados por recurso (`/users`, `/tasks`, `/subscriptions`, etc.).
+- Seguridad implementada mediante tokens JWT.
+- Soporte para operaciones CRUD completas.
+
+Evidencia del backend:
+
+- Repositorio con la estructura del proyecto.
+- Capturas de uso con Postman o Swagger.
+- Despliegue en servidor o servicio cloud (Heroku, Firebase Functions, etc.).
+
+### 5.2.6 RESTful API Documentation
+
+La API de ScrumFlow fue documentada para facilitar su comprensión y uso por parte del frontend.
+
+Se utilizó:
+
+- **Swagger UI** para documentación interactiva.
+- **Postman** para la definición de colecciones de pruebas.
+
+La documentación incluye:
+
+- Métodos disponibles (`GET`, `POST`, `PUT`, `DELETE`).
+- Parámetros requeridos.
+- Ejemplos de request y response.
+- Mensajes de error y códigos HTTP asociados.
+
+### 5.2.7 Team Collaboration Insights
+
+La colaboración fue un pilar clave en el éxito del proyecto:
+
+- **Trello** se utilizó para la gestión de tareas y visualización del progreso.
+- **GitHub** facilitó el trabajo colaborativo, integrando Pull Requests, code reviews y gestión de issues.
+- **Google Meet** permitió reuniones diarias de sincronización y planificación semanal.
+- Se promovió una cultura de feedback constructivo y trabajo en equipo.
+
+Este enfoque garantizó eficiencia, calidad y adaptabilidad a lo largo de todos los sprints de desarrollo.
+
+---
 
 ### 5.2.1 . Sprint 1
 
