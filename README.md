@@ -1,40 +1,49 @@
-# Horizon
-
-Product: ManageWise
-
-# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
-
 <p align="center">
-  <img src="assets/images/upc-logo.png">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+<br><img src="assets/images/upc-logo.png"></img><br>  
+    <strong>Ingeniería de Software - 202501</strong><br>
+    <br>
+    <strong>Diseño de Experimentos de Ingeniería de Software - 1ASI0732</strong><br>  
+    <br>
+    <strong>Profesor: Juan Carlos Tinoco Licas
+</strong><br>
+    <br> <strong>INFORME DE TRABAJO FINAL - TB1 </strong> 
+</p>
+<p align="center">
+    <strong>Startup: FlowStack </strong><br>
+    <strong>Producto: ScrumFlow </strong>
 </p>
 
-## Ingenieria de Software
-
-## 5to ciclo
-
-## Desarrollo de Aplicaciones Open Source
-
-### **Sección:** WS53
-
-### **Profesor:** Juan Antonio Flores Moroco
-
-### Informe de Trabajo Final
-
-### "Horizon"
-
-### "ManageWise"
-
-### **Integrantes:**
-
-- Estefano Oscar Jaque Peña - u202225466
-- Diego Rolin Acuña Tomas - u202221436
-- John Telesforo Arevalo Meza - u202117377
-- Valentino Sandoval Paiva - u20211a962
-- Sergio André Gómez Vallejos - u20221d401
-
-### Agosto, 2024
-
-### Url del proyecto: https://github.com/Horizon-ManageWise/Horizon
+<h3 align="center" >Team Members:</h3>
+<div>
+    <table align="center">
+        <tr>
+            <th style="text-align:center;">Member</th>
+            <th style="text-align:center;">Code</th>
+        </tr>
+        <tr>
+            <td>Christian Renato Espinoza Saenz</td>
+            <td>U202213208</td>
+        </tr>
+        <tr>
+            <td>Julio Esteban Elsner De La Torre Ugarte</td>
+            <td>U202111654</td>
+        </tr>
+        <tr>
+            <td>Joaquin David Rivadeneyra Ramos</td>
+            <td>U202211846</td>
+        </tr>
+        <tr>
+            <td>Alvaro Felipe Pinto Fuentes Rivera</td>
+            <td>U202213384</td>
+        </tr>
+        <tr>
+            <td> Nelson Elías Serrano Ircañaupa</td>
+            <td>U202214733</td>
+        </tr>
+    </table>
+</div>
+<br>
 
 ## Registro de Versiones del Informe
 
@@ -85,11 +94,6 @@ TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cu
 
 ![alt text](assets/TB1-image/commitslandingnet.jpeg)
 
-- Estefano Oscar Jaque Peña: 1
-- John Telesforo Arevalo Meza: 10
-- Valentino Sandoval Paiva: 1
-- Sergio André Gómez Vallejos: 8
-
 <br>**Issues**
 
 ![alt text](assets/TB1-image/issue.png)
@@ -101,11 +105,6 @@ TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cu
 ![alt text](assets/TB1-new/commitall1.jpeg)
 
 ![alt text](assets/TB1-image/commitsreport3.jpeg)
-
-- Estefano Oscar Jaque Peña: 55
-- John Telesforo Arevalo Meza: 40
-- Valentino Sandoval Paiva: 59
-- Sergio André Gómez Vallejos: 13
 
 TB1:<br>
 |Integrante|Tarea Asignada|
