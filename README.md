@@ -1592,155 +1592,154 @@ El formulario de inicio de sesión se adapta a la pantalla del dispositivo, perm
 
 </p>
 
-### 4.4. Web Applications UX/UI Design
+### 4.4. Mobile Applications UX/UI Design
 
-#### 4.4.1. Web Applications Wireframes
+#### 4.4.1. Mobile Applications Wireframes
 
-En esta parte se explorará el diseño de la experiencia que tendrán los usuarios al interactuar con la aplicación web. Tanto la ubicación de elementos, como las fuentes y colores, están pensados para ofrecer al usuario una experiencia visualmente atractia y fluida.
+En esta parte se explorará el diseño de la experiencia que tendrán los usuarios al interactuar con la aplicación móvil. Tanto la ubicación de elementos, como las fuentes y colores, están pensados para ofrecer al usuario una experiencia visualmente atractia y fluida.
 
 <p align="center">
 
-La sección de Proyectos es la principal, en donde el usuario podrá visualizar los diferentes proyectos que ha creado y en caso desearlo, crear uno nuevo. Además de contar con una breve descripción de la app general.  
-<img src="assets/images/wireframes/Home.png">
-<br>
-<br>
-
 En la sección Backlog, el usuario podrá visualizar el product backlog y puede crear un sprint backlog, añadiendo backlog items a este. Además cuenta con una vista Backlog items, en donde en caso tener permisos, puede gestionar estos.
-<img src="assets/images/wireframes/backlog.png">
+<br>
+<img src="assets/images/wireframeBacklog.jpg">
 <br>
 Vista Backlog Items
-<img src="assets/images/wireframes/backlog-items.png">
+<br>
+<img src="assets/images/wireframeBacklogItems.jpg">
+<br>
+Vista para añadir un backlog
+<br>
+<img src="assets/images/wireframeAddBacklog.jpg">
+<br>
+Vista para añadir un item al backlog
+<br>
+<img src="assets/images/wireframeAddBacklogItem.jpg">
 <br>
 <br>
 
 En la sección Members, el usuario visualiza a los diferentes miembros del equipo, puediendo añadir mas en caso desearlo. Además en caso seleccionar Groups, podrá gestionar estos.
-<img src="assets/images/wireframes/members.png">
 <br>
-Vista Groups
-<img src="assets/images/wireframes/members-groups.png">
+<img src="assets/images/wireframeMembers.jpg">
+<br>
+Vista para añadir un miembro.
+<br>
+<img src="assets/images/wireframeAddMember.jpg">
 <br>
 <br>
 
 En la sección de Statistics, el usuario podrá visualizar diferentes datos estadísticos sobre el proyecto y en caso seleccionar Timeline, podra ver el cronograma de este.
-<img src="assets/images/wireframes/statistics.png">
 <br>
-Vista Timeline
-<img src="assets/images/wireframes/statistics-timeline.png">
+<img src="assets/images/wireframeStatistics.jpg">
 <br>
 <br>
 
 En la sección Meeting el usuario podrá visualizar si se encuentra activa alguna reunión e ingresar a esta.
-<img src="assets/images/wireframes/meeting.png">
+<br>
+<img src="assets/images/wireframeMeeting.jpg">
 <br>
 <br>
 
 En la sección Issues, el usuario crear reportes sobre incidencias, además de visualizar los ya existentes.Ademas ,puede añadir eventos dentro del historial de eventos de cambios para el issue , de esta manera mantiene informado a los miembros.
-<img src="assets/images/wireframes/issues.png">
+<br>
+<img src="assets/images/wireframeIssues.jpg">
 <br>
 <br>
 
 En la sección Board, el usuario será capaz visualizar un tablero scrum, en donde podrá visualizar quién es el encargado de cada item, además de, en caso de tener permisos, poder editar el estado de los items.
-<img src="assets/images/wireframes/board.png">
+<br>
+<img src="assets/images/wireframeBoard.jpg">
 <br>
 Vista de Miembros asignados
-<img src="assets/images/wireframes/board-members.png">
+<br>
+<img src="assets/images/wireframeBoardMembers.jpg">
 <br>
 
 </p>
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
-##### User goal: Registrar un nuevo usuario
-
-<p align="center"><img src="assets/images/wireflow1.png"></p>
-
-##### User goal: Iniciar sesión
-
-<p align="center"><img src="assets/images/wireflow2.png"></p>
-
 ##### User goal: Acceso a meeting
 
-<p align="center"><img src="assets/images/wireflow/Wireflow-.png"></p>
+<p align="center"><img src="assets/images/AccesoAlMeeting.png"></p>
 
 ##### User goal: Agregar un nuevo miembro
 
-<p align="center"><img src="assets/images/wireflow/Wireflow-(1).png"></p>
-
-##### User goal: Crear un nuevo grupo
-
-<p align="center"><img src="assets/images/wireflow/Wireflow-(2).png"></p>
+<p align="center"><img src="assets/images/AgregarNuevoMiembro.png"></p>
 
 ##### User goal: Crear un nuevo backlog item
 
-<p align="center"><img src="assets/images/wireflow//Wireflow-(3).png"></p>
+<p align="center"><img src="assets/images/CrearNuevoBacklogItem.png"></p>
 
-##### User goal: Editar un backlog item
+##### User goal: Agregar user story a un sprint
 
-<p align="center"><img src="assets/images/wireflow/Wireflow-(4).png"></p>
-
-##### User goal: Eliminar un backlog item
-
-<p align="center"><img src="assets/images/wireflow/Wireflow-(5).png"></p>
-
-##### User goal: Crear un sprint
-
-<p align="center"><img src="assets/images/wireflow/Wireflow-(6).png"></p>
+<p align="center"><img src="assets/images/AgregarUserStorySprint.png"></p>
 
 ##### User goal: Acceder a metricas del proyecto
 
-<p align="center"><img src="assets/images/wireflow/Wireflow-(7).png"></p>
-
-##### User goal: Acceder a la timeline del proyecto
-
-<p align="center"><img src="assets/images/wireflow/Wireflow-(8).png"></p>
+<p align="center"><img src="assets/images/AccederMetricasProyecto.png"></p>
 
 ##### User goal: Acceder al tablero scrum
 
-<p align="center"><img src="assets/images/wireflow/Wireflow-(9).png"></p>
+<p align="center"><img src="assets/images/AccederTableroScrum.png"></p>
 
 ##### User goal: Acceder a Issues
 
-<p align="center"><img src="assets/images/wireflow/Wireflow-(10).png"></p>
+<p align="center"><img src="assets/images/AccederIssues.png"></p>
 
-##### User goal: Eliminar un backlog item
+##### User goal: Acceder a los miembros de un board
 
-<p align="center"><img src="assets/images/wireflow/Wireflow-(5).png"></p>
+<p align="center"><img src="assets/images/AccederBoardMembers.png"></p>
 
-#### 4.4.3. Web Applications Mock-ups
+#### 4.4.3. Mobile Applications Mock-ups
 
-Los siguientes mockups ofrecen una vista previa del diseño y estructural visual de la aplicación web antes de su desarrollo final. Gracias a estos mockups podemos visualizar como se dispondrán los diferentes elementos en la interaz, garantizando que el diseño sea claro e intuitivo.
+Los siguientes mockups ofrecen una vista previa del diseño y estructural visual de la aplicación móvil antes de su desarrollo final. Gracias a estos mockups podemos visualizar como se dispondrán los diferentes elementos en la interaz, garantizando que el diseño sea claro e intuitivo.
 
 <p align="center">
 
 La sección de Statistics es fundamental, en donde el product Owner y Scrum Master podrá visualizar las estadisticas en base a los sprints de las historias de usuario. Tanto tambien se podrá saber si el sprint se esta elaborando bien en temas de avance.
 <br>
-<img src="assets/images/mockups/statistics.png">
+<img src="assets/images/mockupStatistics.jpg">
 <br>
-En en el apartado Estado de TimeLine, en lo cual el product Owner y Scrum Master podrá colocar en que tiempo se completo las historias de usuario en en esquema del tiempo por sprints.
-<img src="assets/images/mockups/timeline.png">
 <br>
 En la sección Backlog permite gestionar y mover historias de usuario entre el product backlog y el sprint backlog, con la opción de iniciar sprints una vez las historias estén listas.
-<img src="assets/images/mockups/backlog.png">
+<br>
+<img src="assets/images/mockupBacklog.jpg">
+<br>
+<img src="assets/images/mockupAddBacklog.jpg">
+<br>
+<img src="assets/images/mockupBacklogItems.jpg">
+<br>
+<img src="assets/images/mockupAddBacklogItem.jpg">
+<br>
 <br>
 En la sección Board permite gestionar visualmente las User Stories, moviéndolas entre las columnas TO DO, IN PROGRESS, y DONE, con opciones para agregar, editar, eliminar y filtrar las tareas por prioridad.
-<img src="assets/images/mockups/board.png">
 <br>
-<img src="assets/images/mockups/board-members.png">
+<img src="assets/images/mockupBoard.jpg">
+<br>
+<img src="assets/images/mockupBoardMembers.jpg">
 <br>
 <br>
 En en el apartado Meeting, el Scrum Master o el Product Owner se registrara las reuniones y se podra planificar a que dia y hora estara dicha reunion.
-<img src="assets/images/mockups/meeting.png">
+<br>
+<img src="assets/images/mockupMeetings.jpg">
 <br>
 <br>
 
 La sección Members permite al project manager gestionar el equipo de desarrollo, invitando, removiendo miembros y asignándolos a grupos de trabajo, facilitando la colaboración en tareas específicas.
-<img src="assets/images/mockups/members-users.png">
+<br>
+<img src="assets/images/mockupMembers.jpg">
 <br>
 <br>
-<img src="assets/images/mockups/members-groups.png">
+<img src="assets/images/mockupAddMember.jpg">
 <br>
 <br>
 
+La sección Issues permite visualizar las incidencias creadas.
+<br>
+<img src="assets/images/mockupIssues.jpg">
+<br>
+<br>
 </p>
 
 #### 4.4.4. Web Applications User Flow Diagrams
