@@ -1275,6 +1275,91 @@ La principal estética tanto de la página web como de la aplicación será mini
 
 - Se facilitarán enlaces a recursos visuales, como imágenes de marca y gráficos, para que el equipo pueda acceder a ellos de manera sencilla. Además, se incluirán enlaces de descarga para las fuentes y archivos de diseño utilizados en el sitio web.
 
+### 4.1.3. Mobile Style Guidelines.
+
+En esta sección definiremos los estándares de diseño y experiencia de usuario para las aplicaciones móviles, garantizando coherencia visual y funcional en cada plataforma (iOS y Android), mientras se respetan las convenciones nativas de cada sistema operativo.
+
+### 4.1.3.1. iOS Style Guidelines.
+Los principios principales claves que se utilizaran será el seguimiento de las pautas para la interfaz humana de Apple, priorizando la claridad, deferencia al contenido y profundidad visual.
+
+**Componentes principales:**
+
+- Navegación:
+o	Barra superior (Navigation Bar): Título centrado o alineado a la izquierda, con botones de acción a la derecha (ej: "Guardar").
+o	Tab Bar inferior: Máximo 5 íconos con etiquetas textuales para secciones principales (ej: "Inicio", "Perfil").
+
+-	Interacción:
+o	Botones: Usar el estilo plano (flat) con bordes redondeados (radio de 12px). Tamaño mínimo recomendado: 44x44px.
+o	Feedback táctil: Animaciones sutiles (ej: opacity change al presionar).
+
+- Tipografía:
+o	Fuente primaria: San Francisco (SF Pro) con pesos semibold para títulos y regular para cuerpo.
+o	Tamaños:
+	Títulos: 17pt (dinámicos con Dynamic Type).
+	Texto cuerpo: 15pt.
+
+- Colores y Espaciado:
+o	Paleta: Asegurar contraste mínimo de 4.5:1 para accesibilidad.
+o	Espaciado: Múltiplos de 8px (ej: 16px entre secciones).
+
+-	Iconografía:
+o	Usar SF Symbols para mantener coherencia con el ecosistema iOS.
+
+### 4.1.3.2. Android Style Guidelines.
+
+Las pautas que se utilizarán para los dispositivos Android estarán alineadas con las pautas Material Design 3 de Google, enfatizando en la jerarquía, movimiento intuitivo y personalización.
+
+### Componentes principales
+### 1. Navegación
+
+**App Bar (Barra superior):**
+- **Título**: Alineado a la izquierda
+
+- **Acciones**: Menú de overflow (`⋮`)
+
+**Bottom Navigation Bar:**
+
+- **Estilo**: Similar a iOS
+
+- **Características:**
+  - Con elevación (sombra)
+  - Sin bordes redondeados pronunciados
+
+### 2. Interacción
+**Botones:**
+- **Tipo**:
+  - `Contained` (relleno): Acciones primarias
+  - `Outlined` (borde): Acciones secundarias
+- **Tamaño mínimo**: 48×48 dp
+
+- **Feedback táctil:** 
+  - **Efecto**: Ripple al tocar
+
+### 3. Tipografía
+**Fuentes**
+
+- **Primaria:** Roboto o Material Symbols
+
+**Tamaños**
+- **Títulos**: 16sp (_scalable pixels_)
+- **Texto cuerpo**: 14sp
+
+### 4. Colores y Elevación
+**Paleta**
+- Basada en **Material Theming:**
+
+  - Color primario
+  - Color secundario
+  - Color de acento
+
+**Elevación**
+- Sombras sutiles para jerarquía (ej: 4dp para cards)
+
+### 5. Iconografía
+- **Tipo**: Material Icons
+
+- **Estilo**: Relleno sólido
+
 ### 4.2. Information Architecture
 
 #### 4.2.1. Organization Systems
