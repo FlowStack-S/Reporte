@@ -1282,28 +1282,54 @@ En esta sección definiremos los estándares de diseño y experiencia de usuario
 ### 4.1.3.1. iOS Style Guidelines.
 Los principios principales claves que se utilizaran será el seguimiento de las pautas para la interfaz humana de Apple, priorizando la claridad, deferencia al contenido y profundidad visual.
 
-**Componentes principales:**
+### Componentes principales
 
-- Navegación:
-o	Barra superior (Navigation Bar): Título centrado o alineado a la izquierda, con botones de acción a la derecha (ej: "Guardar").
-o	Tab Bar inferior: Máximo 5 íconos con etiquetas textuales para secciones principales (ej: "Inicio", "Perfil").
+### 1. Navegación
+**Navigation Bar (Barra superior)**
+- **Título**: Centrado o alineado a izquierda
 
--	Interacción:
-o	Botones: Usar el estilo plano (flat) con bordes redondeados (radio de 12px). Tamaño mínimo recomendado: 44x44px.
-o	Feedback táctil: Animaciones sutiles (ej: opacity change al presionar).
+- **Botones de acción**: Posicionados a la derecha (ej: "Guardar")
 
-- Tipografía:
-o	Fuente primaria: San Francisco (SF Pro) con pesos semibold para títulos y regular para cuerpo.
-o	Tamaños:
-	Títulos: 17pt (dinámicos con Dynamic Type).
-	Texto cuerpo: 15pt.
+**Tab Bar (Barra inferior)**
+- **Máximo 5 ítems**: Iconos con etiquetas textuales
 
-- Colores y Espaciado:
-o	Paleta: Asegurar contraste mínimo de 4.5:1 para accesibilidad.
-o	Espaciado: Múltiplos de 8px (ej: 16px entre secciones).
 
--	Iconografía:
-o	Usar SF Symbols para mantener coherencia con el ecosistema iOS.
+### 2. Interacción
+**Botones**
+- **Estilo**: Plano (Flat) con bordes redondeados
+  - Radio de esquina: 12px
+
+- **Tamaño mínimo**: 44×44px
+
+**Feedback táctil**
+- **Animación**: Cambio de opacidad (opacity change) al presionar
+
+### 3. Tipografía
+**Fuentes**
+- **Primaria**: SF Pro (San Francisco)
+  - Semibold para títulos
+
+  - Regular para texto cuerpo
+
+**Tamaños**
+- **Títulos**: 17pt (compatible con Dynamic Type)
+
+- **Texto cuerpo**: 15pt
+
+### 4. Colores y Espaciado
+**Paleta de colores**
+- **Contraste mínimo**: 4.5:1 (para accesibilidad)
+
+**Sistema de espaciado**
+- **Base**: Múltiplos de 8px
+  - Ejemplo: 16px entre secciones
+
+### 5. Iconografía
+
+- **Sistema**: SF Symbols
+- **Ventajas**:
+  - Integración nativa con iOS
+  - Coherencia visual garantizada
 
 ### 4.1.3.2. Android Style Guidelines.
 
