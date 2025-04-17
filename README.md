@@ -22,8 +22,8 @@
             <th style="text-align:center;">Code</th>
         </tr>
         <tr>
-            <td>Christian Renato Espinoza Saenz</td>
-            <td>U202213208</td>
+            <td>Joaquín Alonso Carbajal Pozzo</td>
+            <td>U202121881</td>
         </tr>
         <tr>
             <td>Julio Esteban Elsner De La Torre Ugarte</td>
