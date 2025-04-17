@@ -41,6 +41,10 @@
             <td> Nelson Elías Serrano Ircañaupa</td>
             <td>U202214733</td>
         </tr>
+        <tr>
+            <td> Sergio André Gómez Vallejos</td>
+            <td>U20221D401</td>
+        </tr>
     </table>
   <h3 align="center" >Abril 2025</h3>
 </div>
