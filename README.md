@@ -1911,7 +1911,7 @@ El prototipo de la aplicación busca ofrecer una experiencia intuitiva para la g
 Link del prototipo ANDROID: https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webapp-managewis?node-id=895-3850&t=cPtRuC7DIAjH3TtW-1&scaling=scale-down&content-scaling=fixed&page-id=571%3A4620&starting-point-node-id=593%3A8064
 
 <br>
-Link del prototipo IOS: https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webapp-managewis?node-id=895-3850&t=cPtRuC7DIAjH3TtW-1&scaling=scale-down&content-scaling=fixed&page-id=571%3A4620&starting-point-node-id=593%3A8064
+Link del prototipo IOS: https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webapp-managewis?node-id=914-5218&t=6PlodlDP9yoVs4YT-1&scaling=scale-down&content-scaling=fixed&page-id=571%3A4620&starting-point-node-id=593%3A8064
 
 <br>
 
