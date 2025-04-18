@@ -1908,9 +1908,12 @@ La sección Issues permite visualizar las incidencias creadas.
 
 El prototipo de la aplicación busca ofrecer una experiencia intuitiva para la gestión de proyectos. Las principales decisiones de interacción se centraron en la accesibilidad, permitiendo a usuarios seleccionados, en este caso los líderes, crear, editar y visualizar tareas fácilmente. Además, secciones como Proyectos, Herramientas, Seguridad y Reportes están diseñadas para asegurar una navegación clara y eficiente, optimizando la colaboración y el seguimiento del progreso en tiempo real.
 
-Link del prototipo: https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webapp-managewis?page-id=571%3A4620&node-id=593-8064&node-type=canvas&viewport=322%2C241%2C0.19&t=y2voS4erht03K4To-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=593%3A8064
-<br>
+Link del prototipo ANDROID: https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webapp-managewis?node-id=895-3850&t=cPtRuC7DIAjH3TtW-1&scaling=scale-down&content-scaling=fixed&page-id=571%3A4620&starting-point-node-id=593%3A8064
 
+<br>
+Link del prototipo IOS: https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webapp-managewis?node-id=895-3850&t=cPtRuC7DIAjH3TtW-1&scaling=scale-down&content-scaling=fixed&page-id=571%3A4620&starting-point-node-id=593%3A8064
+
+<br>
 
 ### 4.5.1 Android Mobile Applications Prototyping
 
