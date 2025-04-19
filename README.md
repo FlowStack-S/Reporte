@@ -34,10 +34,6 @@
             <td>U202211846</td>
         </tr>
         <tr>
-            <td>Alvaro Felipe Pinto Fuentes Rivera</td>
-            <td>U202213384</td>
-        </tr>
-        <tr>
             <td> Nelson Elías Serrano Ircañaupa</td>
             <td>U202214733</td>
         </tr>
@@ -723,20 +719,20 @@ La entrevista con Nora reveló aspectos importantes sobre la gestión y flujo de
 
 1.  Entrevista 1: <br>
     Datos del entrevistado <br>
-    Nombre: Fabricio <br>
-    Apellidos: Caysedo Salvador<br>
-    Edad: 19 <br>
-    Distrito: San Martin de Porres <br>
+    Nombre: Jeremy <br>
+    Apellidos: Salazar Quispe <br>
+    Edad: 20 <br>
+    Distrito: San Juan de Lurigancho <br>
 
-![Foto de entrevista](./assets/images/Entrevista-Fabricio.png)
+![Foto de entrevista](./assets/images/EntrevistaDiseno.JPG)
 
-URL: [Link de entrevista](https://drive.google.com/file/d/1uXZ6G0zsHYuDO0gdae2g7U5mKxVTHGnG/view?usp=sharing "Entrevista 1")
+URL: [Link de entrevista](https://drive.google.com/file/d/1rvNIL9t2l7MhaoPOetmItBENwyhUJbqT/view?usp=sharing "Entrevista 1")
 
-Inicio: 0:38<br>
-Duracion: 6:52
+Inicio: 0:01<br>
+Duracion: 4:52
 
 Resumen:<br>
-La entrevista con Fabricio proporcionó información valiosa sobre como un integrante del equipo de desarrollo realiza sus actividades y sus principales desafios. Fabricio nos comenta que la diferencia de pensamientos es un gran problema para un flujo de trabajo continuo y la colaboración. El no ha tenido malas experiencias con otras herramientas gracias a la capacitacion de las mismas. Por otro lado, el considera que la falta de herramientas innovadoras limita el trabajo en equipo, ya que es fundamental conocer un registro de lo avanzado por cada miembro. Así mismo, El cree que las herramientas actualizadas que promueven la gestion y la colaboración deberian ser muy precisas y fiables , pues algunas herramientas tienen fallas. El espera que las herramientas de gestion sean flexibles para adaptarlas a cada modelo de negocio de cada empresa.
+La entrevista con Jeremy brindó información relevante sobre su rol dentro del equipo de desarrollo y los desafíos que enfrenta. Jeremy señala que una de las principales dificultades es la diferencia de criterios entre los miembros, lo cual afecta negativamente la continuidad del flujo de trabajo y la colaboración. Afortunadamente, gracias a la capacitación recibida, no ha tenido malas experiencias con otras herramientas. Sin embargo, considera que la ausencia de herramientas innovadoras puede obstaculizar el trabajo en equipo, ya que es crucial contar con un registro claro del progreso de cada integrante. Además, opina que las herramientas modernas para la gestión y colaboración deben ser altamente confiables y precisas, ya que algunas presentan fallos. Finalmente, resalta la importancia de que estas soluciones sean lo suficientemente flexibles como para adaptarse a los distintos modelos de negocio de cada empresa.
 
 2.  Entrevista 2: <br>
     Datos del entrevistado <br>
@@ -2258,9 +2254,8 @@ Con ScrumFlow, buscamos no solo ofrecer herramientas de gestión de proyectos ef
 
 En esta sección, nuestro equipo detalla los métodos y la estructura organizativa para gestionar los cambios en el código fuente utilizando GitHub como plataforma de control de versiones. Hemos configurado un repositorio remoto en GitHub para almacenar el código fuente y facilitar la colaboración entre los miembros del equipo. Los URLs de los repositorios son los siguientes:
 
-- **Landing Page**: https://github.com/Horizon-ManageWise/LandingPage.git
-- **Frontend Web Applications**: https://github.com/Horizon-ManageWise/Frontend-Web-Applications.git
-- **Backend Web Applications**: https://github.com/Horizon-ManageWise/Backend-Web-Applications.git
+- **Frontend Web Applications**: https://github.com/FlowStack-S/Frontend-Web-Application
+- **Backend Web Applications**: https://github.com/FlowStack-S/managewise-backend
 
 **Estructura del Repositorio**
 
@@ -2379,7 +2374,7 @@ En los siguientes pasos se explicará cómo llevar a cabo la implementación de 
 **Deploy con GitHub Pages:**
 En primer lugar, accedemos al repositorio de GitHub donde se encuentra nuestro proyecto y luego navegamos hacia la configuración del repositorio.
 
-![Settings](assets/images/settings.png)
+![Settings](assets/images/reporteFlowStack.jpg)
 
 Dentro del menú de ajustes, elegimos la opción "Pages".
 ![Settings](assets/images/image.png)
@@ -2394,6 +2389,8 @@ Después de unos momentos, recibiremos el enlace a nuestro sitio web publicado e
 ### 5.2 Product Implementation & Deployment
 
 El desarrollo, testeo y despliegue de nuestra landing page es importante para que nuestros clientes puedan acceder a la información sobre nuestra empresa y producto a través de una interfaz con diseño responsivo, navegación intuitiva y solo con información relevante. Esta primera etapa nos permite crear un diseño conceptual sobre la estética que nuestra aplicación completa y lista para su uso. Estas etapas nos ayudaran a dar una primera impresión a los clientes para validar ideas e identificar problemas que se deben solucionar.
+
+![deploy](assets/images/deploy_tb1.png)
 
 ### 5.2.1 Sprint Backlogs
 
@@ -2475,18 +2472,49 @@ La Landing Page de ScrumFlow fue diseñada para presentar:
 Se usaron tecnologías como **HTML, CSS, JavaScript** y fue publicada con **GitHub Pages**.  
 El código fuente quedó disponible en el repositorio y las capturas de pantalla fueron archivadas como evidencia del avance.
 
+<p align="center">
+  <img src="assets/images/Execution-Evidence-for-Sprint-Review-1.png">
+  <br>
+  Vista general de la Landing Page, destacando el diseño limpio y moderno que permite a los usuarios navegar fácilmente por la información.
+</p>
+
+<p align="center">
+  <img src="assets/images/Execution-Evidence-for-Sprint-Review-2.png">
+  <br>
+  Sección de beneficios clave del producto, mostrando cómo se presentan de manera atractiva y accesible para atraer a los usuarios.
+</p>
+
+<p align="center">
+  <img src="assets/images/Execution-Evidence-for-Sprint-Review-3.png">
+  <br>
+  Sección de preguntas frecuentes, organizada por categorías, donde los usuarios pueden encontrar respuestas rápidas a sus dudas sobre el uso de la plataforma y área de contacto, mostrando el formulario que permite a los usuarios enviar mensajes directamente al equipo de soporte, facilitando la comunicación.
+</p>
+
+<p align="center">
+  <img src="assets/images/Execution-Evidence-for-Sprint-Review-4.png">
+  <br>
+  Diseño del formulario de iniciar sesión, que garantiza de forma sencilla acceder a la aplicación web.
+</p>
+
+<p align="center">
+  <img src="assets/images/Execution-Evidence-for-Sprint-Review-5.png">
+  <br>
+  Diseño del formulario de registro, que enfatiza la simplicidad y la facilidad de uso, asegurando que los nuevos usuarios puedan registrarse sin complicaciones.
+</p>
+
 ### 5.2.3 Implemented Frontend-Web Application Evidence
 
 El frontend fue desarrollado con un enfoque modular, utilizando frameworks como React o Angular (según decisión del equipo).
 
-Incluye:
+![alt text](assets/images/bounded-context-task.jpg)
 
-- Componentes reutilizables.
-- Enrutamiento con `Router`.
-- Integración con la API para manejo de usuarios, tareas y notificaciones.
-- Diseño responsive y accesible.
+![alt text](assets/images/create-task2.png)
 
-El estado del desarrollo puede verificarse en el repositorio correspondiente, junto a imágenes de pruebas y despliegue en Firebase.
+![alt text](assets/images/ManageWiseCalendar2.png)
+
+![alt text](assets/images/exevidencJaque.jpg)
+
+![alt text](assets/images/BC-member/ManageWise-members-1.png)
 
 ### 5.2.4 Implemented Native-Mobile Application Evidence
 
@@ -2496,31 +2524,66 @@ Se inició una versión móvil nativa de ScrumFlow enfocada en facilitar:
 - El acceso a notificaciones.
 - Registro y autenticación rápida.
 
-Dependiendo del enfoque, se utilizó **React Native**, **Flutter** o tecnologías híbridas para acelerar el desarrollo. Se realizaron pruebas en emuladores Android y dispositivos físicos, documentando los avances con capturas.
+<img width=300px src="assets/images/Mockup-MobileWebBrowser-Menu.png">
+
+<img width=300px src="assets/images/Mockup-MobileWebBrowser.png">
+
+<img width=300px src="assets/images/Mockup-MobileWebBrowser-Resgistro.png">
+
+<img width=300px src="assets/images/Mockup-MobileWebBrowser-InicioSesion.png">
 
 ### 5.2.5 Implemented RESTful API and/or Serverless Backend Evidence
 
 El backend de ScrumFlow se desarrolló bajo una arquitectura RESTful.
 
-- Desarrollado con Node.js (Express), Java (Spring Boot), o tecnologías equivalentes.
-- Endpoints organizados por recurso (`/users`, `/tasks`, `/subscriptions`, etc.).
+- Desarrollado con Java (Spring Boot).
+- Endpoints organizados por recurso.
 - Seguridad implementada mediante tokens JWT.
 - Soporte para operaciones CRUD completas.
 
 Evidencia del backend:
 
-- Repositorio con la estructura del proyecto.
-- Capturas de uso con Postman o Swagger.
-- Despliegue en servidor o servicio cloud (Heroku, Firebase Functions, etc.).
+**BACKEND EVIDENCE**
+
+![alt text](assets/TF/is8.png)
+
+Post:
+Se puede añadir y dentro de esto se genera las validaciones del existsBy para que no se cree un mismo issue asignado a un mismo SPRINT 
+y la validacion del PATRON ACL fetchMemberIdByFullName para que no se genere un Issue el Sprint asociado no ha sido creado,de la misma manera con Member que debe ser creado previamente para poder nombrar al creador del issue y al que se le asigna el Issue(fetchMemberIdByFullName) ademas que no se puede crear un Issue si
+no se ha puesto el estado y prioridad de manera correcta , por ele LOW o TO_DO
+
+![alt text](assets/TF/fetchissue.png)
+
+![alt text](assets/TF/is9.png)
+
+Get:
+Se puede obtener todos los issues
+![alt text](assets/TF/is10.png)
+
+Put:
+Se puede actualizar y se valida los existBy ademas de el uso del patron ACL para la validacion del member existente 
+
+![alt text](assets/TF/updissu.png)
+
+![alt text](assets/TF/putissue.jpg)
+
+geteventbyIssuId:
+Se puede obtener el evento generado y se puede visualizar segun el id que insertes.
+![alt text](assets/TF/getevent.jpg)
+
+post event:
+Se puede añadir el evento en base al id del issue que ya fue creado, para la creacion de este evento tambien se usa la validacion con fetch que viene 
+![alt text](assets/TF/eventpsot.jpg)
 
 ### 5.2.6 RESTful API Documentation
 
 La API de ScrumFlow fue documentada para facilitar su comprensión y uso por parte del frontend.
 
-Se utilizó:
+![alt text](assets/TF/ep5.png)
 
-- **Swagger UI** para documentación interactiva.
-- **Postman** para la definición de colecciones de pruebas.
+![alt text](assets/TF/ep6.png)
+
+![alt text](assets/TF/ep7.png)
 
 La documentación incluye:
 
@@ -2539,6 +2602,8 @@ La colaboración fue un pilar clave en el éxito del proyecto:
 - Se promovió una cultura de feedback constructivo y trabajo en equipo.
 
 Este enfoque garantizó eficiencia, calidad y adaptabilidad a lo largo de todos los sprints de desarrollo.
+
+![alt text](assets/images/Insigths.jpg)
 
 ---
 
