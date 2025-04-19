@@ -26,10 +26,6 @@
             <td>U202121881</td>
         </tr>
         <tr>
-            <td>Julio Esteban Elsner De La Torre Ugarte</td>
-            <td>U202111654</td>
-        </tr>
-        <tr>
             <td>Joaquin David Rivadeneyra Ramos</td>
             <td>U202211846</td>
         </tr>
