@@ -41,6 +41,10 @@
             <td> Sergio André Gómez Vallejos</td>
             <td>U20221D401</td>
         </tr>
+        <tr>
+          <td>Diego Miguel Ramirez Ortega</td>
+          <td>U202123548</td>
+        </tr>
     </table>
   <h3 align="center" >Abril 2025</h3>
 </div>
@@ -341,7 +345,7 @@ Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las
 |---------------------------|--------------------------------------------------|-------------------------------------|
 | Elsner De La Torre Ugarte (u202111654) | Mi nombre es Julio Elsner De La Torre Ugarte, tengo 19 años y soy estudiante de la carrera de ingeniería de software. Con anterioridad ya he tenido experiencia con el tipo de trabajos que conllevan trabajo grupal y que busca una solución a alguna problemática. En mi opinión, soy bastante hábil extrayendo información de algún problema lo cual mejora el trabajo conjunto en grupo y la organización en general. | ![Foto1](images/JulioElsner.png)                |
 | Rivadeneyra Ramos, Joaquin David (U202211846) | Soy Joaquin Rivadeneyra, tengo 19 años y actualmente estoy cursando el 5to ciclo de la carrera de Ingeniería de Software. Me considero una persona comunicativa y abierta a nuevas ideas, lo que me permite tener una buena relación con los demás miembros del equipo y fomentar un ambiente de trabajo colaborativo. | ![Foto3](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/9299c70a-dcd0-4be9-85b4-54f2ccb67eb7)               |
-| Espinoza Saenz, Christian Renato (U202213208) | Mi nombre es Christian Espinoza, soy un estudiante de 19 años que cursa el 6to ciclo de la carrera Ingeniería de Software. Poseo ideas únicas e innovadoras para que el trabajo logre sobresalir. Tengo experiencia en la creación de distintos tipos de diagramas, editar diferentes tipos de multimedia como videos, y un conocimiento general en programación de C++, HTML, CSS y SQL, que será beneficioso para el proyecto.| ![Foto4](https://i.postimg.cc/1RCVXhbj/foto.jpg/8ad1bb6d-e043-494f-b687-a3d5f02d2ab9)               |
+| Ramirez Ortega, Diego Miguel (U202123548) | Mi nombre es Diego Ramirez, tengo 21 años y estoy estudiando la carrera de Ingeniería de Software. Tengo conocimiento en C++, python y edición de vídeo. Estoy comprometido a completar las tareas que se me asignen a tiempo y apoyar en lo que pueda en el proyecto..| ![Foto4](./assets/perfilIntegrantes/diego-ramirez.png)               |
 | Pinto Fuentes Rivera Alvaro (U202213384)   | Hola, mi nombre es Alvaro, soy un estudiante del quinto ciclo de la carrera Ingeniería de Software. Me gusta mucho leer, sobretodo el género de fantasía y ciencia ficción, mi frase favorita de un libro es el credo "Vida antes que muerte, fuerza antes que debilidad y viaje antes que destino", también soy un gran fan del cine y pasó la mayor parte de mi tiempo libre escribiendo por diversión. Poseo un nivel bueno de programación en los lenguajes de C# y C++, creo que podré resultar de gran ayuda durante el desarrollo del proyecto, así como podré brindar ideas creativas para el equipo. | ![Foto5](images/fotoAlvaro.jpg)                 |
 | Nelson Elías Serrano (U202214733) | Me llamo Nelson Serrano, estudiante de Ingeniería de Software con el código estudiantil U202214733. Mi carrera se basa en crear soluciones digitales e innovadoras para distintas problemáticas del mundo real . Las habilidades en las que puedo aportar en el grupo son dominio y práctica de lenguajes de programación como C++ y python, documentación de proyectos y metodologías ágiles y conocimientos básicos de base de datos. | ![img.png](images/img.png)![](Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.006.png)   |
 
