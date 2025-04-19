@@ -2603,7 +2603,9 @@ La colaboración fue un pilar clave en el éxito del proyecto:
 
 Este enfoque garantizó eficiencia, calidad y adaptabilidad a lo largo de todos los sprints de desarrollo.
 
-![alt text](assets/images/Insigths.jpg)
+![Insights](./assets/images/in1.jpg)
+
+![Insights](./assets/images/in2.jpg)
 
 ---
 
