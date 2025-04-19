@@ -724,7 +724,7 @@ La entrevista con Nora reveló aspectos importantes sobre la gestión y flujo de
     Edad: 20 <br>
     Distrito: San Juan de Lurigancho <br>
 
-![Foto de entrevista](./assets/images/EntrevistaDiseno.JPG)
+![Foto de entrevista](./assets/images/EntrevistaDiseno.jpg)
 
 URL: [Link de entrevista](https://drive.google.com/file/d/1rvNIL9t2l7MhaoPOetmItBENwyhUJbqT/view?usp=sharing "Entrevista 1")
 
