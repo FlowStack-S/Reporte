@@ -2506,13 +2506,15 @@ Se inició una versión móvil nativa de ScrumFlow enfocada en facilitar:
 - El acceso a notificaciones.
 - Registro y autenticación rápida.
 
-<img width=300px src="assets/images/Mockup-MobileWebBrowser-Menu.png">
-
-<img width=300px src="assets/images/Mockup-MobileWebBrowser.png">
-
-<img width=300px src="assets/images/Mockup-MobileWebBrowser-Resgistro.png">
-
-<img width=300px src="assets/images/Mockup-MobileWebBrowser-InicioSesion.png">
+<div align="center">
+  <img width="300px" src="assets/images/Mockup-MobileWebBrowser-Menu.png">
+  <br><br>
+  <img width="300px" src="assets/images/Mockup-MobileWebBrowser.png">
+  <br><br>
+  <img width="300px" src="assets/images/Mockup-MobileWebBrowser-Resgistro.png">
+  <br><br>
+  <img width="300px" src="assets/images/Mockup-MobileWebBrowser-InicioSesion.png">
+</div>
 
 ### 5.2.5 Implemented RESTful API and/or Serverless Backend Evidence
 
