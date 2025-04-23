@@ -718,20 +718,20 @@ La entrevista con Jeremy brindó información relevante sobre su rol dentro del 
 
 2.  Entrevista 2: <br>
     Datos del entrevistado <br>
-    Nombre: Agustín<br>
-    Apellidos: Aguilar Lindo<br>
-    Edad: 21 <br>
-    Distrito: San Borja <br>
+    Nombre: Leandro<br>
+    Apellidos: Medina Cervantes<br>
+    Edad: 23 <br>
+    Distrito: Villa María <br>
 
-![alt text](assets/images/Entrevista-Agustin.png)
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/6ab13b7e-dc49-4564-8001-4f2fa7aa0617" />
 
-URL: [Link de entrevista](https://drive.google.com/file/d/1GgzFpXSX2uaFr_GiZCo5utxRtd5Z-t24/view?usp=sharing "Entrevista 2")
+URL: [Click para ver entrevista](https://www.youtube.com/watch?v=_RbKISOL-Qo)
 
 Inicio: 0:10<br>
-Duracion: 6:45
+Duracion: 4:58
 
 Resumen:<br>
-La entrevista a Agustín nos cuenta de primera mano la experiencia como practicante y como las herramientas de gestión actuales influyen. Nos cuenta que su líder de proyecto, para seguir las metodologías Agiles, programa muchas reuniones donde en muchas se redunda en los mismos temas, y el preferiría otra forma de comunicación, problema que podría solucionarse con un programa de gestión. Menciona que una herramienta habitual es GitHub, pero lo considera poco intuitivo y difícil de dominar. Cree firmemente que es necesario una herramienta que ponga más atención en la interfaz de usuario, y a la facilidad de personalizarla.
+La entrevista a Leandro nos cuenta de primera mano la experiencia como practicante y como las herramientas de gestión actuales influyen. Nos cuenta que su líder de proyecto, para seguir las metodologías Ágiles, programa muchas reuniones donde en muchas se redunda en los mismos temas, y el preferiría otra forma de comunicación, problema que podría solucionarse con un programa de gestión. Menciona que una herramienta habitual es GitHub, pero lo considera poco intuitivo y difícil de dominar. Cree firmemente que es necesario una herramienta que ponga más atención en la interfaz de usuario, y a la facilidad de personalizarla.
 
 3.  Entrevista 3: <br>
     Datos del entrevistado <br>
