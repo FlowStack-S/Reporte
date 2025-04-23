@@ -1992,18 +1992,17 @@ Link del video: https://drive.google.com/drive/folders/12NAEuYcQpbOkQ6pO8YS2SoGi
 
 ![alt text](assets/images/domain-driven/ComponentsDiagram.png)
 
-### 4.7. Software Object-Oriented Design
+### 4.9. Software Object-Oriented Design
 
-#### 4.7.1. Class Diagrams
+#### 4.9.1. Class Diagrams
+Los diagramas de clases ofrecen una vista gráfica de cómo está organizada la aplicación. Al mostrar las clases junto con sus propiedades, funciones y conexiones entre sí, permiten a los desarrolladores entender y ajustar el sistema con mayor facilidad. Son herramientas clave tanto en la etapa de diseño e implementación como durante las pruebas y el mantenimiento del software.
 
 ![alt text](assets/TB1-image/diagramclass.png)
 
 LINK diagrama de clases:
 https://lucid.app/lucidchart/a8574ee7-c46c-4f80-ab16-b2b91cd5abde/edit?viewport_loc=941%2C706%2C2376%2C1266%2CHWEp-vi-RSFO&invitationId=inv_aaac668a-b1fb-479d-93c9-5c7af375894a
 
-### 4.8. Database Design
-
-### 4.7.1. Database Dictionary
+#### 4.9.2. Class Dictionary
 
 Este es el formato que deberán seguir nuestras colecciones en MongoDB para replicar nuestras entidades de la base de datos.
 
@@ -2161,8 +2160,9 @@ Descripción: Colección de los miembros de un proyecto.
 | projectId | int | Identificador unico de un proyecto |
 | memberId | varchar(150) | Identificador unico de un miembro |
 
-#### 4.8.2. Database Diagram
+### 4.10. Database Design 
 
+#### 4.10.1 Database Diagram.
 Para la elección de cómo relacionar las entidades, primero nos basamos en buscar tablas principales. Por ejemplo, en el sistema de gestión de proyectos, las entidades principales incluyen Clientes, Empleados, Proyectos, Tareas y Requisitos. Basándonos en ellas como punto de partida es que se nos hizo más sencillo y lógico la relación con las otras entidades. Esto nos ayudó a modelar eficazmente los datos y asegurar la coherencia de la información en nuestra aplicación.
 
 ![alt text](assets/images/HorizonDBVF.png)
