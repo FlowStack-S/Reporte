@@ -63,11 +63,11 @@
 
 |  URL de la organización del proyecto  |          URL del repositorio del reporte          |
 | :-----------------------------------: | :-----------------------------------------------: | 
-| https://github.com/Horizon-ManageWise | https://github.com/Horizon-ManageWise/Horizon.git |
+| https://github.com/FlowStack-S | https://github.com/FlowStack-S/Reporte.git |
 
 | URL del repositorio del backend | URL del repositorio del Frontend| URL del repositorio de la landing page |
 |  :-----------------------------------------------: | :-----------------------------------------------: |:-----------------------------------------------:|
-| https://github.com/Horizon-ManageWise/managewise-backend | https://github.com/Horizon-ManageWise/Frontend-Web-Application | https://github.com/Horizon-ManageWise/LandingPage |
+| https://github.com/FlowStack-ManageWise/managewise-backend | https://github.com/FlowStack-S/Frontend-Web-Application | https://github.com/FlowStack-S/LandingPage |
 
 **URL FRONTEND Y BACKEND DESPLEGADO**: https://frontend-test-managewise.vercel.app/sign-in
 
@@ -76,26 +76,11 @@
 **URL BACKEND**: https://managewise-ffbua6fpfmbteaeq.brazilsouth-01.azurewebsites.net/api/v1/
 
 
-TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/Horizon-ManageWise. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/Horizon-ManageWise/Horizon.git, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/Horizon-ManageWise/LandingPage.git . Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes. En este Trabajo final nos encargamos de conectar los bounded context y conectar cada uno con su frontend.
+TF1: Se han realizado todas las tareas asignadas para la entrega del TF1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/FlowStack-ManageWise. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/FlowStack-ManageWise/FlowStack.git, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/FlowStack-S/LandingPage.git . Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes. En este Trabajo final nos encargamos de conectar los bounded context y conectar cada uno con su frontend.
 
-<br>**Vista de commits: Landing page:**  
-![alt text](assets/TB1-new/landingc1.jpeg)
 
-![alt text](assets/TB1-new/landingc2.jpeg)
 
-![alt text](assets/TB1-image/commitslandingnet.jpeg)
 
-<br>**Issues**
-
-![alt text](assets/TB1-image/issue.png)
-
-<br>**Report:**
-
-![alt text](assets/TB1-new/commitsall2.jpeg)
-
-![alt text](assets/TB1-new/commitall1.jpeg)
-
-![alt text](assets/TB1-image/commitsreport3.jpeg)
 
 TB1:<br>
 | Integrante                          | Tarea Asignada                                                                                                                                                                                                                                                                                                                                                                                       |
@@ -303,7 +288,7 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 ### 1.1.1. Descripción de la Startup
 
-Horizon es una startup innovadora creada por estudiantes de la Facultad de Ingeniería de la Universidad Privada de Ciencias Aplicadas (UPC).
+FlowStack es una startup innovadora creada por estudiantes de la Facultad de Ingeniería de la Universidad Privada de Ciencias Aplicadas (UPC).
 Las empresas emergentes en el sector del desarrollo de software enfrentan una serie de desafíos únicos, entre los cuales se destaca la carencia de herramientas eficaces para gestionar proyectos e iniciativas.
 Esta falta de recursos puede limitar el crecimiento y la capacidad de estas empresas para competir en un mercado cada vez más exigente.
 Con el objetivo de proporcionar un apoyo significativo a estas startups, estamos desarrollando un software que no solo mejorará la eficiencia en la gestión de iniciativas, sino que también fomentará una cultura de innovación y adaptabilidad.
@@ -397,7 +382,7 @@ Los costos operativos también se ven incrementados significativamente. Un anál
 
 ### 1.2.2. Lean UX Process
 
-El proceso Lean UX se adapta especialmente bien a startups como Horizon que buscan crear soluciones innovadoras y efectivas en el mercado. Este enfoque se caracteriza por su agilidad y centrado en el usuario, lo que significa que estamos constantemente buscando validar nuestras ideas y prototipos con los usuarios para garantizar que estamos abordando sus necesidades de manera adecuada.
+El proceso Lean UX se adapta especialmente bien a startups como FlowStack que buscan crear soluciones innovadoras y efectivas en el mercado. Este enfoque se caracteriza por su agilidad y centrado en el usuario, lo que significa que estamos constantemente buscando validar nuestras ideas y prototipos con los usuarios para garantizar que estamos abordando sus necesidades de manera adecuada.
 
 ### 1.2.2.1. Lean UX Problem Statements
 
@@ -553,7 +538,7 @@ Para poder tener un análisis completo sobre nuestro modelo de negocio además d
 
 | Nombre de <br>los Startups <br> o Empresas | | Nuestra startup| Competidor 1| Competidor 2| Competidor 3|
 | -- | -- | -- | -- | -- | -- |
-| Perfil                                     | Overview                                                      | Horizon <br> ![Logo Horizon](assets/images/imagesTB1/managewiselogo.png)                                                                                                                                                                                         | Wrike <br> ![Logo Wrike](assets/images/imagesTB1/wrikelogo.png)                                                                                                                                                                                                                                                  | Trello <br> ![Logo Trello](assets/images/imagesTB1/trellologo.png)                                                                                                                                 | ClickUp <br> ![Logo Click Up](assets/images/imagesTB1/clickuplogo.png)                                                                                                                                            |
+| Perfil                                     | Overview                                                      | FlowStack <br> ![Logo FlowStack](assets/images/imagesTB1/managewiselogo.png)                                                                                                                                                                                         | Wrike <br> ![Logo Wrike](assets/images/imagesTB1/wrikelogo.png)                                                                                                                                                                                                                                                  | Trello <br> ![Logo Trello](assets/images/imagesTB1/trellologo.png)                                                                                                                                 | ClickUp <br> ![Logo Click Up](assets/images/imagesTB1/clickuplogo.png)                                                                                                                                            |
 |                                            | Ventaja competitiva:<br>¿Qué valor ofrece<br> a los clientes? | Proporciona una interfaz intuitiva <br>y fácil de usar, en la que Lo usan<br> antes, durante y después del<br> Ciclo de Vida del Desarrollo de<br> Software.                                                                                                     | ofrece análisis predictivos,<br> automatización avanzada y <br>herramientas de colaboración <br>que permiten a los equipos<br> mejorar la productividad y <br>la visibilidad del proyecto<br> en tiempo real.                                                                                                    | Proporciona una interfaz <br>intuitiva y fácil de usar,<br> ideal para equipos pequeños<br> y startups que buscan <br>simplicidad en la gestión <br>de tareas.                                     | Proporciona una solución <br>altamente personalizable <br>que puede adaptarse a <br>diferentes necesidades <br>empresariales, integrando <br>gestión de tareas, tiempo <br>y recursos en una sola <br>plataforma. |
 | Perfil de Marketing                        | Mercado Objetivo                                              | Startups de tecnología que buscan<br> mejorar la eficiencia y la colaboración<br> en sus equipos de desarrollo                                                                                                                                                   | Empresas medianas a grandes,<br> así como equipos de proyectos <br>complejos que requieren <br>integración y colaboración <br>avanzadas.                                                                                                                                                                         | Equipos pequeños, startups<br> y empresas que necesitan <br>una herramienta <br>de gestión de proyectos <br>visual y simple.                                                                       | Startups, pequeñas y medianas <br>empresas que buscan una <br>herramienta flexible y completa <br>para la gestión de proyectos.                                                                                   |
 |                                            | Estrategias de Marketing                                      | Uso de marketing digital dirigido<br> a comunidades tecnológicas, con <br> pruebas gratuitas y asociaciones<br> estratégicas                                                                                                                                     | Wrike se posiciona como una <br>herramienta robusta y flexible <br>para equipos que necesitan <br>mejorar la eficiencia operativa <br>y la gestión de proyectos. <br>Su estrategia incluye <br>demostraciones personalizadas <br>y un enfoque en las <br>integraciones con otras <br>herramientas empresariales. | Se enfoca en la simplicidad <br>y la accesibilidad, <br>promocionando su facilidad <br>de uso y la posibilidad de <br>integrarse con herramientas <br>populares como Slack y <br>Google Workspace. | Se posiciona como una alternativa<br> más económica y todo-en-uno a <br>las herramientas tradicionales de <br>gestión de proyectos, con un <br>fuerte enfoque en la personalización<br> y la escalabilidad.       |
@@ -584,7 +569,7 @@ Segmentos encontrados:
 Antes de poder realizar las entrevistas, consideramos prudente poder concretar un análisis previo para poder realizar las entrevistas de una mejor manera. Es por ello, que para cada uno de nuestros segmentos proponemos estas preguntas para poder conocer un poco más sobre nuestro público objetivo.
 
 Preguntas :
-preguntas ordenadas para entrevistar a los dos segmentos objetivos de la startup "Horizon":
+preguntas ordenadas para entrevistar a los dos segmentos objetivos de la startup "FlowStack":
 
 **Segmento: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento (Product Owner y Scrum Master)**
 
@@ -947,7 +932,7 @@ EPICS:
 |EP05|Administración de Colaboradores y Roles|Como Scrum Master, quiero invitar a nuevos usuarios, asignar roles específicos y permitir que los usuarios vean información personal para que pueda gestionar eficientemente el acceso al proyecto, garantizar que cada miembro del equipo tenga las autorizaciones adecuadas y asegurar que la información de contacto de todos esté actualizada.|
 |EP06|Gestión de User Stories y Sprints en el Timeline|Como Scrum Master y Product Owner, quiero gestionar las User Stories y los Sprints en un timeline interactivo para facilitar la planificación y seguimiento del progreso del equipo. Esto permitirá organizar las tareas en columnas correspondientes a los Sprints, visualizar estadísticas del rendimiento del equipo y descargar gráficos en formato PNG, mejorando así la toma de decisiones y la comunicación.|
 |EP07|Gestión de Incidencias|Como equipo de desarrollo, queremos implementar un sistema de gestión de incidencias completo y eficiente, para poder rastrear, priorizar y resolver los problemas y mejoras de manera colaborativa y transparente, mejorando así la calidad del producto y la satisfacción del cliente.|
-|EP08|Desarrollo de Funcionalidades de la Aplicación|Como equipo de desarrollo, queremos implementar un sistema robusto para gestionar las funcionalidades de ManageWise Horizon, que incluya la creación, edición y eliminación de videoconferencias, la gestión de miembros y notificaciones, y el seguimiento del historial de eventos. Esto nos permitirá mejorar la colaboración y la comunicación dentro del equipo, garantizando un acceso eficiente y transparente a los recursos y asegurando una experiencia de usuario óptima.|
+|EP08|Desarrollo de Funcionalidades de la Aplicación|Como equipo de desarrollo, queremos implementar un sistema robusto para gestionar las funcionalidades de ManageWise FlowStack, que incluya la creación, edición y eliminación de videoconferencias, la gestión de miembros y notificaciones, y el seguimiento del historial de eventos. Esto nos permitirá mejorar la colaboración y la comunicación dentro del equipo, garantizando un acceso eficiente y transparente a los recursos y asegurando una experiencia de usuario óptima.|
 
 
 | User Storiy ID | Título| Descripción| Criterios de Aceptación| Relacionado con(Epic ID) |     
@@ -993,7 +978,7 @@ EPICS:
 | US39 | Ver reporte de una incidencia | Como miembro del equipo, quiero ver un reporte detallado de una incidencia específica, para comprender completamente su contexto, resolución y acciones tomadas. | Escenario 1: Reporte completo.<br>Dado que el usuario selecciona una incidencia de la lista, cuando accede al reporte de dicha incidencia, entonces se muestra un reporte completo que incluye una descripción detallada del problema, el historial completo de cambios de la incidencia, el estado actual de la incidencia y las asignaciones de la incidencia a diferentes miembros del equipo con sus respectivas fechas de asignación. | EP07 |
 | US40 | Ver historial de una incidencia | Como miembro del equipo, quiero ver un historial completo de una incidencia, incluyendo todos los cambios, comentarios y archivos adjuntos, para entender su evolución y resolución. | Escenario 1: Visualización del Historial de Eventos del Issue.<br>Dado que soy un miembro del equipo con acceso a un issue, cuando visualizo el detalle del issue, entonces puedo ver un historial de todos los eventos asociados, incluyendo quién los creó, la fecha y una descripción. | EP07 |
 | US41 | Creación automática de los eventos creación y asignación del issue | Como miembro del equipo, quiero que automáticamente al llenar el reporte del issue que quiero agregar, automáticamente se añadan los eventos creación y asignación del issue. | Escenario 1: Creación automática del evento de creación del issue.<br>Dado que soy un miembro del equipo, cuando creo un nuevo issue, entonces se genera automáticamente un evento de creación, registrando la fecha, el creador y una descripción.<br>Escenario 2: Creación automática del evento de asignación del issue.<br>Dado que soy un miembro del equipo, cuando asigno el issue a otro miembro, entonces se genera automáticamente un evento de asignación, registrando la fecha, el miembro asignado y una descripción. | EP07 |
-| US42 | Filtrar incidencias por Sprint y Prioridad | Como miembro del equipo, quiero poder filtrar las incidencias por el Sprint al que están asociadas y por su Prioridad, para poder visualizar solo aquellas que son relevantes para mi trabajo. | Escenario 1: Filtro por Sprint.<br>Dado que estoy en la sección de Issues, cuando selecciono un Sprint en el filtro de búsqueda, entonces solo se muestran las incidencias que están asociadas a ese Sprint en la lista de incidencias.<br>Escenario 2: Filtro por Prioridad.<br>Dado que estoy en la sección de Issues, cuando selecciono un nivel de Prioridad en el filtro de búsqueda (Alta, Media, Baja), entonces solo se muestran las incidencias con esa prioridad en la lista de incidencias.<br>Escenario 3: Filtro combinado.<br>Dado que estoy en la sección de Issues, cuando selecciono tanto un Sprint como un nivel de Prioridad en el filtro de búsqueda, entonces solo se muestran las incidencias que cumplen ambos criterios en la lista de incidencias. | EP07 || TS-43   | Configurar Entorno de Desarrollo para ManageWise Horizon   | Como desarrollador, quiero configurar un entorno de desarrollo para ManageWise Horizon, para asegurar que todos los miembros del equipo tengan un ambiente consistente y funcional para trabajar en el proyecto.                                                        | Given que se dispone de la documentación del entorno, when se realiza la configuración, then todos los miembros del equipo deben poder clonar el repositorio y ejecutar la aplicación sin errores. Además, se debe verificar la instalación de las dependencias necesarias y la configuración correcta del sistema.               | EP-08     |
+| US42 | Filtrar incidencias por Sprint y Prioridad | Como miembro del equipo, quiero poder filtrar las incidencias por el Sprint al que están asociadas y por su Prioridad, para poder visualizar solo aquellas que son relevantes para mi trabajo. | Escenario 1: Filtro por Sprint.<br>Dado que estoy en la sección de Issues, cuando selecciono un Sprint en el filtro de búsqueda, entonces solo se muestran las incidencias que están asociadas a ese Sprint en la lista de incidencias.<br>Escenario 2: Filtro por Prioridad.<br>Dado que estoy en la sección de Issues, cuando selecciono un nivel de Prioridad en el filtro de búsqueda (Alta, Media, Baja), entonces solo se muestran las incidencias con esa prioridad en la lista de incidencias.<br>Escenario 3: Filtro combinado.<br>Dado que estoy en la sección de Issues, cuando selecciono tanto un Sprint como un nivel de Prioridad en el filtro de búsqueda, entonces solo se muestran las incidencias que cumplen ambos criterios en la lista de incidencias. | EP07 || TS-43   | Configurar Entorno de Desarrollo para ManageWise FlowStack   | Como desarrollador, quiero configurar un entorno de desarrollo para ManageWise FlowStack, para asegurar que todos los miembros del equipo tengan un ambiente consistente y funcional para trabajar en el proyecto.                                                        | Given que se dispone de la documentación del entorno, when se realiza la configuración, then todos los miembros del equipo deben poder clonar el repositorio y ejecutar la aplicación sin errores. Además, se debe verificar la instalación de las dependencias necesarias y la configuración correcta del sistema.               | EP-08     |
 | US43 | Iniciar sesión (Sign In) | Como miembro del equipo, quiero poder iniciar sesión en la aplicación con una cuenta ya creada, para así tener acceso a todos los recursos. | **Escenario 1: Inicio de sesión exitoso**<br> - **Dado** que estoy en la pantalla de inicio de sesión<br> - **Cuando** ingreso una cuenta ya creada con credenciales válidas y hago clic en "Iniciar sesión"<br> - **Entonces** debo ser redirigido a la página principal con acceso a los recursos disponibles en la plataforma.<br>**Escenario 2: Credenciales incorrectas**<br> - **Dado** que estoy en la pantalla de inicio de sesión<br> - **Cuando** ingreso credenciales incorrectas y hago clic en "Iniciar sesión"<br> - **Entonces** debo recibir un mensaje de error indicando que las credenciales son inválidas. | EP-05 |
 | US44 | Registro de usuario (Sign Up) | Como miembro del equipo, quiero poder crear una cuenta en la plataforma, para así poder guardar datos importantes y acceder al inicio de sesión. | **Escenario 1: Registro exitoso**<br> - **Dado** que estoy en la pantalla de registro<br> - **Cuando** ingreso un correo electrónico único y una contraseña válida y hago clic en "Registrarse"<br> - **Entonces** debo recibir una confirmación de registro y ser redirigido a la página de inicio de sesión.<br>**Escenario 2: Correo ya registrado**<br> - **Dado** que estoy en la pantalla de registro<br> - **Cuando** ingreso un correo electrónico que ya está registrado en la plataforma<br> - **Entonces** debo recibir un mensaje de error indicando que el correo ya está en uso. | EP-05 |
 
@@ -2165,7 +2150,7 @@ Descripción: Colección de los miembros de un proyecto.
 #### 4.10.1 Database Diagram.
 Para la elección de cómo relacionar las entidades, primero nos basamos en buscar tablas principales. Por ejemplo, en el sistema de gestión de proyectos, las entidades principales incluyen Clientes, Empleados, Proyectos, Tareas y Requisitos. Basándonos en ellas como punto de partida es que se nos hizo más sencillo y lógico la relación con las otras entidades. Esto nos ayudó a modelar eficazmente los datos y asegurar la coherencia de la información en nuestra aplicación.
 
-![alt text](assets/images/HorizonDBVF.png)
+![alt text](assets/images/FlowStackDBVF.png)
 
 ## Capítulo V: Product Implementation, Validation & Deploymentt
 
@@ -2208,7 +2193,7 @@ Con base en los requisitos, hemos seleccionado las siguientes tecnologías para 
 - **Control de Versiones:** Git, con repositorios en GitHub.
   - **Propósito:** Gestión de versiones y colaboración en el código.
   - **Ruta de descarga:** https://git-scm.com/
-  - **Repositorio:** https://github.com/Firtness/Horizon.git
+  - **Repositorio:** https://github.com/Firtness/FlowStack.git
 
 **Product UX/UI Design**
 
