@@ -676,7 +676,7 @@ La entrevista con María nos comenta que en su trabajo como líder de proyecto s
     Edad: 42 <br>
     Distrito: Pueblo Libre <br>
 
-![Entrevista Nora](assets/images/entrevista_Nora.png)
+![Entrevista Nora](assets/images/entrevista_Nora.jpg)
 
 URL: [Link de entrevista](https://drive.google.com/file/d/11xswJuEZQy51WRqAmZDu0KfjyF-6rV-F/view?usp=sharing "Entrevista 3")
 
@@ -729,7 +729,7 @@ La entrevista a Leandro nos cuenta de primera mano la experiencia como practican
     Edad: 22 <br>
     Distrito: San Miguel <br>
 
-![alt text](assets/images/entrevista_Rodrigo.png)
+![alt text](assets/images/entrevista_Rodrigo.jpg)
 
 URL: [Link de entrevista](https://drive.google.com/file/d/1aZ94C1wixcfQNa_dZCZSkIKiBnpPf91i/view?usp=sharing "Entrevista 3")
 
