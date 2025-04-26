@@ -642,9 +642,9 @@ Estas preguntas están diseñadas para llevar la conversación de manera lógica
    Edad: 23 <br>
    Distrito: San Martin de Porres <br>
 
-![Foto de entrevista](assets/images/S.png)
+![Foto de entrevista](assets/images/ENTREVISTA.png)
 
-URL: [Link de entrevista](https://drive.google.com/file/d/1WrxFb_8KqRk6mWSrgUbvFpkfpjyIU0vI/view?usp=sharing)
+URL: [Link de entrevista](https://youtu.be/lGBcCAqxEUc)
 
 Inicio: 0:00<br>
 Duracion: 8:24
