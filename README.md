@@ -376,7 +376,10 @@ Las personas llegaron a la situación de buscar una solución como ManageWise de
 **¿Cuánto cuesta este problema?**  
 La carencia de herramientas avanzadas para la gestión de proyectos en startups de desarrollo de software conlleva graves consecuencias.El Standish Group CHAOS Report 2020 revela que el 45% de los proyectos de software se retrasan significativamente, y aproximadamente el 19% se consideran fracasos completos debido a problemas en la gestión y falta de herramientas adecuadas.
 
-<img src="assets/images/2_H_estadistica.png" alt="alt text" style="display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+  <img src="assets/images/2_H_estadistica.png" alt="alt text">
+</div>
+
 
 
 Los costos operativos también se ven incrementados significativamente. Un análisis de Gartner indica que las empresas que no cuentan con herramientas adecuadas pueden enfrentar un aumento del 25% en sus costos operativos debido a ineficiencias. La insatisfacción con las herramientas actuales es alta, con un 40% de los equipos de desarrollo reportando descontento, según un estudio de Atlassian. Finalmente, un informe de Forrester revela que el 50% de las decisiones en proyectos de software se basan en datos insuficientes, lo que afecta la calidad de la toma de decisiones y el éxito general de los proyectos.
