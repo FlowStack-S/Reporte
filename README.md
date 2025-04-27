@@ -2638,5 +2638,5 @@ Anexo H:<br>https://lucid.app/lucidchart/1e63a43a-a627-478b-a4e2-397bbd5407b9/ed
 
 Anexo I:<br>https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webapp-managewis?page-id=1%3A2&node-id=118-122&node-type=CANVAS&viewport=-385%2C681%2C0.08&t=grI8nuvCu1Ox92G5-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=118%3A122
 
-Anexo Video del la aplicación web: <br>https://youtu.be/wM0rVK2WHug
+Anexo Video de la Aplicación Web: <br>https://youtu.be/wM0rVK2WHug
 
