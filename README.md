@@ -2154,7 +2154,7 @@ Descripción: Colección de los miembros de un proyecto.
 #### 4.10.1 Database Diagram.
 Para la elección de cómo relacionar las entidades, primero nos basamos en buscar tablas principales. Por ejemplo, en el sistema de gestión de proyectos, las entidades principales incluyen Clientes, Empleados, Proyectos, Tareas y Requisitos. Basándonos en ellas como punto de partida es que se nos hizo más sencillo y lógico la relación con las otras entidades. Esto nos ayudó a modelar eficazmente los datos y asegurar la coherencia de la información en nuestra aplicación.
 
-![alt text](assets/images/FlowStackDBVF.png)
+![alt text](assets/images/HorizonDBVF.png)
 
 ## Capítulo V: Product Implementation, Validation & Deploymentt
 
