@@ -2584,6 +2584,38 @@ Este enfoque garantizó eficiencia, calidad y adaptabilidad a lo largo de todos 
 
 Link del video About-the-Product : https://drive.google.com/file/d/1ZAdgJaqQmdNiadyITswMFlppex-lGx59/view?usp=sharing
 
+## Capítulo VI: Product Verification & Validation
+
+## 6.1. To-Be Scenario Mapping
+
+### 6.1.1 Core Entities Unit Tests
+
+### 6.1.1 Core Integration Tests
+
+### 6.1.1 Core Behavior-Driven Development
+
+### 6.1.1 Core System Tests
+
+## Capítulo VII: DevOps Practices
+
+## 7.1. ContinuousIntegration
+
+### 7.1.1 Tools and Practices
+
+### 7.1.2 Build & Test Suite Pipeline Components
+
+## 7.2. Continuous Delivery
+
+### 7.2.1 Tools and Practices
+
+### 7.2.2 Stages Deployment Pipeline Components
+
+## 7.3. Continuous deployment
+
+### 7.3.1 Tools and Practices
+
+### 7.3.2 Production Deployment Pipeline Components
+
 ### Conclusiones
 
 - **Joaquin David Rivadeneyra Ramos**:<br>
