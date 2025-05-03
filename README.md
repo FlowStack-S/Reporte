@@ -2604,9 +2604,19 @@ Link del video About-the-Product : https://drive.google.com/file/d/1ZAdgJaqQmdNi
 
 ### 7.1.2 Build & Test Suite Pipeline Components
 
-## 7.2. Continuous Delivery
+# 7.2. Continuous Delivery
 
-### 7.2.1 Tools and Practices
+## 7.2.1. Tools and Practices
+
+Para garantizar una entrega continua eficiente en **ManageWise**, utilizamos las siguientes herramientas y prácticas:
+
+### Herramientas Principales
+
+| Herramienta           | Función                                                                 | Imagen de Referencia |
+|-----------------------|-------------------------------------------------------------------------|----------------------|
+| **GitHub Actions**    | Automatización de pipelines CI/CD. Ejecuta pruebas y despliegues.       |  <img width="300px" src="assets/images/github.jpg"> |
+| **Docker**           | Contenerización de la aplicación para consistencia entre entornos.     |  <img width="300px" src="assets/images/docker.jpg"> |
+| **Postman**       | Pruebas API automatizadas :<br>- Colecciones de pruebas<br>- Tests E2E <br>- Integración con CI/CD  |  <img width="300px" src="assets/images/postman.jpg"> |
 
 ### 7.2.2 Stages Deployment Pipeline Components
 
