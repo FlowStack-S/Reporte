@@ -2614,11 +2614,38 @@ Para garantizar una entrega continua eficiente en **ManageWise**, utilizamos las
 
 | Herramienta           | Función                                                                 | Imagen de Referencia |
 |-----------------------|-------------------------------------------------------------------------|----------------------|
-| **GitHub Actions**    | Automatización de pipelines CI/CD. Ejecuta pruebas y despliegues.       |  <img width="300px" src="assets/images/github.jpg"> |
+| **GitHub**    | Repositorios sobre la aplicación para el despliegue de la apliación (FrontEnd y BackEnd)      |  <img width="300px" src="assets/images/github.jpg"> |
 | **Docker**           | Contenerización de la aplicación para consistencia entre entornos.     |  <img width="300px" src="assets/images/docker.jpg"> |
 | **Postman**       | Pruebas API automatizadas :<br>- Colecciones de pruebas<br>- Tests E2E <br>- Integración con CI/CD  |  <img width="300px" src="assets/images/postman.jpg"> |
+| **Swagger/OpenAPI**  | Documentación API interactiva<br>- Definir CRUD para cada endpoint<br>- Generación de endpoints | <img width="300px" src="assets/images/swagger.png"> |
+
+### Implementación Detallada
+**GitHub Repositories Deployment:**
+
+Se puede observar los repositorios del Front y del Back para el despligue de estos.
+<img src="assets/images/repositories.png">
+<br>
+
+**Swagger/OpenAPI:**
+
+Se puede observar el CRUD de un endpoint.
+<img src="assets/TF/is8.png">
+<br>
 
 ### 7.2.2 Stages Deployment Pipeline Components
+La implementación de Continuous Delivery (CD) en ManageWise se estructura en etapas automatizadas que garantizan la entrega rápida, segura y confiable del software. Cada etapa del pipeline de despliegue está diseñada para validar aspectos específicos del producto antes de su liberación a producción.
+
+## 7.2.2. Stages Deployment Pipeline Components
+
+| Etapa           | Herramientas                     | Objetivo/Proceso                                                                 | Imagen/Diagrama                          |
+|-----------------|----------------------------------|---------------------------------------------------------------------------------|------------------------------------------|
+| **1. Build**    | Maven (Java)<br>Angular CLI      | - Compilación de código fuente<br>- Generación de artefactos (.jar, bundles)<br>- Validación de sintaxis |<img width="300px" src="assets/images/maven.png"> |
+| **2. Test**     | JUnit<br>Postman<br>Cypress      | - Pruebas unitarias (80%+ cobertura)<br>- Pruebas de integración API<br>- Pruebas E2E | <img width="300px" src="assets/images/junit.png"> |
+| **4. Staging**  | Docker<br>GitHub Actions         | - Despliegue en entorno replica:<br>  • Contenedores (Backend+Frontend+MongoDB)<br>  • Script: `docker-compose-staging.yml` | <img width="300px" src="assets/images/docker.jpg">|
+| **5. QA/UAT**   | Jira<br>Checklist manual         | - Validación:<br>  • Usabilidad<br>  • Requisitos funcionales<br>  • Performance<br>- Aprobación mediante checklist | <img width="300px" src="assets/images/jira.png">|
+| **6. Production** | Microsoft Azure                | - Implementación Azul-Verde<br>- Reversión automática<br>- Comprobaciones de estado| <img width="300px" src="assets/images/azure.png"> |
+
+El pipeline de despliegue continuo de ManageWise integra herramientas estándar de la industria en un flujo automatizado que garantiza calidad y confiabilidad. Cada etapa valida aspectos críticos del software, desde la construcción inicial hasta el monitoreo en producción. La combinación de pruebas automatizadas y validación manual asegura que solo versiones estables lleguen a los usuarios finales. La estrategia Azul-Verde en Microsoft Azure minimiza riesgos durante despliegues, mientras que Docker proporciona consistencia entre entornos. Este enfoque sistemático reduce errores y acelera la entrega de valor.
 
 ## 7.3. Continuous deployment
 
