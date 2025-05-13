@@ -2505,70 +2505,71 @@ El frontend fue desarrollado con un enfoque modular, utilizando frameworks como 
 
 ### 5.2.4  Acuerdo de Servicio - SaaA
 
-Este **Acuerdo de Servicio SaaS** (“Acuerdo”) establece los derechos, responsabilidades y restricciones aplicables a los usuarios de la plataforma **ScrumFlow** (la “Plataforma”), un servicio de software basado en la nube (SaaS) destinado a la gestión de proyectos ágiles en equipos de desarrollo de software.
+Este **Acuerdo de Servicio SaaS**  establece los derechos, responsabilidades y restricciones aplicables a los usuarios de la plataforma **ScrumFlow**, un servicio de software basado en la nube (SaaS) destinado a la gestión de proyectos ágiles en equipos de desarrollo de software.
 
-## 1. Aceptación del Acuerdo
+#### 1. Aceptación del Acuerdo
 Al utilizar la Plataforma, el usuario (el “Usuario”) acepta los términos y condiciones de este Acuerdo, así como cualquier modificación que se pueda realizar en el futuro. Si el Usuario no está de acuerdo con alguno de los términos aquí establecidos, debe abstenerse de utilizar los servicios ofrecidos por **ScrumFlow**.
 
-## 2. Descripción del Servicio
+#### 2. Descripción del Servicio
 **ScrumFlow** ofrece una solución SaaS para la **gestión de proyectos ágiles**, diseñada para facilitar la planificación, ejecución, y monitoreo de las tareas dentro de equipos de desarrollo. La plataforma permite a los usuarios gestionar **backlogs**, **sprints**, **historias de usuario**, **integración continua** y demás herramientas relacionadas con metodologías ágiles.
 
-## 3. Derechos y Responsabilidades del Usuario
+#### 3. Derechos y Responsabilidades del Usuario
 
-### 3.1 Uso del Servicio
+##### 3.1 Uso del Servicio
 
 - **Licencia de Uso**: **ScrumFlow** otorga al Usuario una licencia no exclusiva e intransferible para utilizar la Plataforma exclusivamente para fines internos y de acuerdo con los términos de este Acuerdo.
 - **Acceso y Uso**: El Usuario es responsable de mantener la confidencialidad de su cuenta y credenciales de acceso, y acepta notificar de inmediato a **ScrumFlow** sobre cualquier uso no autorizado de su cuenta.
 
-### 3.2 Restricciones
-- El Usuario no podrá:  
+##### 3.2 Restricciones
+- El Usuario no podrá:
+  
   1. Copiar, modificar, distribuir, vender, alquilar, sublicenciar, o transferir la Plataforma de cualquier forma.
   2. Utilizar la Plataforma para actividades ilegales, inapropiadas o que violen las políticas de uso aceptable de **ScrumFlow**.
   3. Acceder a la Plataforma con fines no autorizados o que violen la seguridad de la red o infraestructura de **ScrumFlow**.
 
-## 4. Responsabilidades de **ScrumFlow**
+#### 4. Responsabilidades de **ScrumFlow**
 
-### 4.1 Provisión del Servicio
+##### 4.1 Provisión del Servicio
 
 **ScrumFlow** se compromete a proporcionar acceso continuo a la Plataforma, salvo en casos de mantenimiento programado o circunstancias fuera del control razonable de la empresa.
 
-### 4.2 Seguridad y Protección de Datos
+##### 4.2 Seguridad y Protección de Datos
 
 **ScrumFlow** implementa medidas de seguridad razonables para proteger los datos del Usuario. No obstante, **ScrumFlow** no puede garantizar la seguridad absoluta y el Usuario es responsable de realizar las copias de seguridad de los datos importantes que almacene en la Plataforma.
 
-### 4.3 Cumplimiento Normativo
+##### 4.3 Cumplimiento Normativo
 
 **ScrumFlow** cumplirá con las normativas de protección de datos aplicables, incluyendo el **Reglamento General de Protección de Datos (GDPR)** en la UE, y otras leyes locales de privacidad de datos. **ScrumFlow** no compartirá ni venderá los datos personales del Usuario a terceros sin su consentimiento expreso, salvo cuando lo exija la ley.
 
-## 5. Tarifas y Facturación
+#### 5. Tarifas y Facturación
 
-### 5.1 Precios
+##### 5.1 Precios
 El acceso a la Plataforma está sujeto a tarifas, las cuales serán detalladas en el sitio web de **ScrumFlow**. El Usuario deberá pagar las tarifas correspondientes a su suscripción o uso del servicio según el plan elegido.
 
-### 5.2 Facturación
+##### 5.2 Facturación
 Las facturas se emitirán mensualmente o anualmente, según lo acordado, y deben ser pagadas en su totalidad dentro del plazo indicado. Los pagos no serán reembolsables, excepto cuando la ley exija lo contrario.
 
-## 6. Duración y Terminación del Acuerdo
+#### 6. Duración y Terminación del Acuerdo
 
-### 6.1 Duración
+##### 6.1 Duración
 Este Acuerdo será efectivo desde el momento en que el Usuario comience a utilizar el servicio hasta que cualquiera de las partes lo termine de acuerdo con las disposiciones aquí establecidas.
 
-### 6.2 Terminación
+##### 6.2 Terminación
 El Usuario puede finalizar este Acuerdo en cualquier momento mediante la cancelación de su cuenta en la Plataforma. **ScrumFlow** también puede suspender o terminar el acceso a la Plataforma en caso de incumplimiento de los términos de este Acuerdo.
 
-## 7. Limitación de Responsabilidad
+#### 7. Limitación de Responsabilidad
 
 **ScrumFlow** no será responsable de daños indirectos, incidentales, especiales, punitivos o consecuentes derivados del uso de la Plataforma, incluyendo la pérdida de datos o ganancias. La responsabilidad total de **ScrumFlow** se limita al monto pagado por el Usuario en los últimos 12 meses.
 
-## 8. Modificaciones del Acuerdo
+#### 8. Modificaciones del Acuerdo
 
 **ScrumFlow** se reserva el derecho de modificar este Acuerdo en cualquier momento. Las modificaciones se publicarán en la sección "Términos y Condiciones" del sitio web y serán efectivas en el momento de su publicación.
 
-## 9. Legislación Aplicable
+#### 9. Legislación Aplicable
 
 Este Acuerdo se regirá e interpretará de acuerdo con las leyes del país donde **ScrumFlow** tiene su sede principal, sin perjuicio de las normas de conflicto de leyes.
 
-## 10. Contacto
+#### 10. Contacto
 
 Si tiene alguna pregunta sobre este Acuerdo, puede ponerse en contacto con **ScrumFlow** a través de los canales de soporte disponibles en el sitio web.
 
