@@ -2684,11 +2684,39 @@ Link del video About-the-Product : https://drive.google.com/file/d/1ZAdgJaqQmdNi
 
 ## Capítulo VII: DevOps Practices
 
-## 7.1. ContinuousIntegration
+## 7.1. Continuous Integration
 
 ### 7.1.1 Tools and Practices
 
+En el equipo de **FlowStack**, implementamos una serie de herramientas y prácticas para optimizar el flujo de integración continua. A continuación se detallan las herramientas clave que utilizamos y cómo las integramos en nuestro proceso de desarrollo:
+
+| Herramienta      | Descripción                                                                                         | Propósito                                                                                                                                             | Imagen de Referencia |
+|------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
+| **JUnit**        | Framework de pruebas unitarias para Java.                                                           | Validar el comportamiento de los componentes individuales del sistema mediante pruebas unitarias.                                                   | <img width="300px" src="assets/images/junit.png">  |
+| **Mockito**      | Herramienta de simulación para pruebas en Java.                                                     | Crear objetos simulados (mocks) para probar componentes que dependen de servicios externos o bases de datos.                                          | <img width="300px" src="assets/images/mock.png"> |
+| **Cucumber**     | Framework BDD (Behavior-Driven Development) para escribir pruebas de aceptación legibles.            | Escribir pruebas en un formato legible por humanos para validar los comportamientos esperados del sistema según los requisitos del cliente.          | <img width="300px" src="assets/images/cucu.jpg"> |
+| **Jenkins**      | Herramienta de automatización de integración continua y despliegue continuo.                         | Automatizar la integración de código, ejecutar pruebas, y facilitar el despliegue continuo de las aplicaciones.                                        | <img width="300px" src="assets/images/jenkins.jpg">  |
+
+#### Prácticas Utilizadas:
+- **Commit temprano y frecuente**: Promovemos la práctica de realizar commits pequeños y frecuentes para evitar conflictos grandes y asegurar que el código se integre de manera continua en el repositorio.
+  
+- **Revisiones de código (Pull Requests)**: Utilizamos los **Pull Requests** en **GitHub** para que cada cambio sea revisado por el equipo antes de ser integrado a la rama principal (`main`). Este proceso también activa las **pruebas automáticas**, garantizando que el código no rompa funcionalidades existentes.
+
+- **Pruebas automáticas**: Se han configurado pruebas unitarias y de integración automáticas que se ejecutan en cada commit y **pull request**. Esto asegura que cada funcionalidad añadida o modificada esté bien testeada y validada.
+
+---
+
 ### 7.1.2 Build & Test Suite Pipeline Components
+
+En la siguiente sección, se presenta la configuración de nuestro pipeline de Integración Continua (CI), que forma parte fundamental de nuestra estrategia de desarrollo ágil. A través de estas imágenes, se muestran tanto la configuración del script de CI en GitHub Actions como el rendimiento de las etapas del pipeline, tales como Build, Compile y Test.
+
+La primera imagen muestra el script de GitHub Actions utilizado para automatizar los procesos de compilación y pruebas. La segunda imagen ilustra el rendimiento de las diferentes etapas del pipeline, detallando el tiempo promedio que toma completar cada una de ellas.
+
+<img src="assets/images/pipe.jpg">
+<br>
+
+<img src="assets/images/pipe2.jpg">
+<br>
 
 # 7.2. Continuous Delivery
 
