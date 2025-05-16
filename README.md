@@ -2819,10 +2819,143 @@ La implementación de Continuous Delivery (CD) en ManageWise se estructura en et
 El pipeline de despliegue continuo de ManageWise integra herramientas estándar de la industria en un flujo automatizado que garantiza calidad y confiabilidad. Cada etapa valida aspectos críticos del software, desde la construcción inicial hasta el monitoreo en producción. La combinación de pruebas automatizadas y validación manual asegura que solo versiones estables lleguen a los usuarios finales. La estrategia Azul-Verde en Microsoft Azure minimiza riesgos durante despliegues, mientras que Docker proporciona consistencia entre entornos. Este enfoque sistemático reduce errores y acelera la entrega de valor.
 
 ## 7.3. Continuous deployment
+La implementación continua (Continuous Deployment, CD) es el proceso automatizado de llevar cambios de código desde un repositorio hasta entornos de producción, asegurando entregas rápidas y confiables. A diferencia de Continuous Delivery, la CD no requiere aprobación manual (todo se despliega automáticamente si pasa las pruebas).
 
 ### 7.3.1 Tools and Practices
 
+#### Herramientas:
+
+| Herramienta           | Función    | Practicas   | Logo |
+|-----------------|----------------------------------|---------------------------------------------------------------------------------|------------------------------------------|
+| **Vercel**    |  plataforma de despliegue continuo optimizada para aplicaciones frontend. Permite integración directa con repositorios GitHub, despliegue automático con cada push a la rama principal y previews para cada pull request.  | - Configuración de despliegue automático en la rama main<br>- Uso de dominios personalizados y SSL automático.<br>- Generación de builds optimizados y caché para mejorar el rendimiento. |<img width="300px" src="assets/images/Vercel-logo.png"> |
+| **Railway**     | plataforma de infraestructura como servicio (IaaS) que facilita el despliegue de aplicaciones backend con soporte para múltiples lenguajes y bases de datos.| - Integración con GitHub para despliegue automático.<br>- Gestión de variables de entorno de forma centralizada.<br>- Escalado automático según la demanda.<br> - Monitoreo integrado del rendimiento y logs. | <img width="300px" src="assets/images/Railway.svg"> |
+| **GitHub Pages**  | Permite hospedar sitios estáticos directamente desde un repositorio de GitHub         | - Despliegue automático desde la rama `gh-pages` o `main`<br> - Configuración de dominios personalizados y HTTPS | <img width="300px" src="assets/images/GITHUB PAGES.png">|
+
+#### Prácticas para Continuous Deployment
+
+**Automatización de Pipelines:**
+
+  - Configuración de workflows en GitHub Actions para ejecutar pruebas, builds y despliegues en entornos específicos (dev, staging, production).
+
+  - Ejemplo: Un push a main desencadena pruebas unitarias, integración y despliegue en producción si todo pasa.
+
+**Feature Flags:**
+
+  - Uso de flags para habilitar/deshabilitar funcionalidades en producción sin necesidad de nuevos despliegues.
+
+**Rollbacks Automáticos:**
+
+  - Monitoreo continuo del rendimiento y disponibilidad. Si se detectan errores críticos, se revierte automáticamente a la versión estable anterior.
+
+**Blue-Green Deployments:**
+
+- Despliegue en dos entornos idénticos (blue y green) para minimizar el tiempo de inactividad y facilitar rollbacks.
+
+**Canary Releases:**
+
+- Liberación gradual de nuevas versiones a un subconjunto de usuarios para validar cambios antes del despliegue completo.
+
 ### 7.3.2 Production Deployment Pipeline Components
+
+Para garantizar un despliegue continuo y confiable en producción, se han definido los siguientes componentes clave en el pipeline de despliegue, utilizando las herramientas seleccionadas (Vercel para el frontend web, Railway para el backend y GitHub Pages para la landing page):
+
+**1. Componentes del Pipeline para el Frontend Web (Vercel)**
+
+- Trigger:
+
+  - Un push o merge a la rama main en el repositorio del frontend activa el pipeline.
+
+- Build:
+
+  - Ejecución de scripts de construcción (npm run build) para generar los archivos estáticos optimizados.
+
+  - Validación de assets y optimización de imágenes.
+
+- Testing:
+
+  - Ejecución de pruebas unitarias y de integración (si están configuradas en el proyecto).
+
+- Deployment:
+
+  - Despliegue automático en Vercel con configuración de dominios personalizados.
+
+  - Generación de una URL de preview para revisión antes de liberar a producción.
+
+- Post-Deployment:
+
+  - Invalidación de caché para asegurar que los usuarios reciban la última versión.
+
+  - Monitoreo de rendimiento mediante herramientas integradas en Vercel.
+
+**2. Componentes del Pipeline para el Backend (Railway)**
+
+- Trigger:
+
+  - Un push o merge a la rama main en el repositorio del backend.
+
+- Build:
+
+  - Construcción del contenedor Docker (si aplica) o ejecución de scripts de compilación.
+
+  - Instalación de dependencias y validación del entorno.
+
+- Testing:
+
+  - Ejecución de pruebas unitarias y de integración.
+
+  - Pruebas de conectividad con la base de datos y servicios externos.
+
+- Deployment:
+
+  - Despliegue automático en Railway con gestión de variables de entorno.
+
+  - Escalado automático según la demanda (configurable en Railway).
+
+- Post-Deployment:
+
+  - Ejecución de pruebas de humo (smoke tests) para validar endpoints críticos.
+
+  - Monitoreo de logs y métricas de rendimiento en tiempo real.
+
+**3. Componentes del Pipeline para la Landing Page (GitHub Pages)**
+
+- Trigger:
+
+  - Un push a la rama main o gh-pages en el repositorio de la landing page.
+
+- Build:
+
+  - Generación de archivos estáticos (HTML, CSS, JS) si se usa un generador como Jekyll.
+
+  - Minificación de recursos para optimización.
+
+- Deployment:
+
+  - Publicación automática en GitHub Pages con HTTPS habilitado.
+
+  - Configuración de dominios personalizados si es necesario.
+
+- Post-Deployment:
+
+  - Validación de enlaces y recursos para asegurar que no hay errores rotos.
+
+**4. Prácticas Adicionales para el Pipeline de Producción**
+
+- Integración entre Componentes:
+
+  - Coordinación entre frontend y backend mediante webhooks o notificaciones para sincronizar versiones.
+
+- Rollback Automático:
+
+  - Si se detectan errores críticos en producción (mediante monitoreo), se revierte a la versión estable anterior sin intervención manual.
+
+- Notificaciones:
+
+  - Alertas en Slack o correo electrónico para informar sobre el estado del despliegue (éxito/fallo).
+
+- Seguridad:
+
+  - Escaneo de vulnerabilidades en dependencias antes del despliegue (usando herramientas como Snyk o Dependabot).
 
 ### Conclusiones
 
