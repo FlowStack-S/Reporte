@@ -2672,11 +2672,50 @@ Link del video About-the-Product : https://drive.google.com/file/d/1ZAdgJaqQmdNi
 
 ## Capítulo VI: Product Verification & Validation
 
-## 6.1. To-Be Scenario Mapping
+## 6.1. Testing Suites & Validation
 
 ### 6.1.1 Core Entities Unit Tests
+Esta sección contiene las pruebas unitarias para las entidades centrales del backend de ManageWise. Cada prueba valida el comportamiento y la gestión del estado de los modelos del dominio, asegurando que funcionen correctamente de acuerdo con la lógica esperada. Se cubren aspectos como constructores, actualizaciones de propiedades y métodos utilitarios, dentro de los contextos delimitados como Backlog, IAM y Meetings.
 
-### 6.1.1 Core Integration Tests
+Recording Test
+![image](https://github.com/user-attachments/assets/215773b8-cdff-429f-8d05-84288059ed89)
+
+Role Test
+![image](https://github.com/user-attachments/assets/3b31be1b-fda2-4f86-83c4-f5724e289215)
+
+TaskItem Test
+![image](https://github.com/user-attachments/assets/023ed229-575a-4cbc-aa23-c4b8b3b62e56)
+
+### 6.1.2 Core Integration Tests
+Este punto contiene las pruebas para los controladores del proyecto lo cual es clave para garantizar que los componentes centrales del sistema trabajan coherentemente como una unidad y cumplen con los requisitos funcionales del negocio, aportando confianza para despliegues en entornos de producción.
+
+Authentication Controller
+![image](https://github.com/user-attachments/assets/afab67a4-85ff-4c54-b398-cd70e17d4668)
+
+Epics Controller
+![image](https://github.com/user-attachments/assets/411b64a9-aef1-4747-90ff-280587c0b2c8)
+
+Meeting Controller
+![image](https://github.com/user-attachments/assets/1afc3cf9-272f-4498-9a6c-6973735af94e)
+
+Member Controller
+![image](https://github.com/user-attachments/assets/63800e0b-a58e-4b04-b87b-32dfb1fccef1)
+
+RecordingController
+![image](https://github.com/user-attachments/assets/a0ff58b2-aa26-42b5-b2ae-782cecd189a5)
+
+Roles Controller
+![image](https://github.com/user-attachments/assets/7ce04664-aabc-401c-b3f5-44b5f803b4e5)
+
+SprintsController
+![image](https://github.com/user-attachments/assets/570cb22d-3d5e-436f-8a13-6caf95288c38)
+
+User Controller
+![image](https://github.com/user-attachments/assets/2e7fad8e-5a5d-4418-9fa4-bba48277beec)
+
+User Stories Controller
+![image](https://github.com/user-attachments/assets/44cc9a8b-2026-4de5-aade-dbfc21eeec14)
+
 
 ### 6.1.1 Core Behavior-Driven Development
 
