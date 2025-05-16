@@ -2739,6 +2739,21 @@ User Story 43-44
 
 ### 6.1.4 Core System Tests
 
+Authentication System Service test
+<br><img src="assets/tests/authentication-service.jpg"></br>
+
+User Stories Service test
+<br><img src="assets/tests/us-service.jpg"></br>
+
+Authentication end to end test
+<br><img src="assets/tests/authentication-cy.jpg"></br>
+
+Backlog end to end test
+<br><img src="assets/tests/backlog-cy.jpg"></br>
+
+Routing end to end test
+<br><img src="assets/tests/routing-cy.jpg"></br>
+
 ## Capítulo VII: DevOps Practices
 
 ## 7.1. Continuous Integration
