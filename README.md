@@ -2717,9 +2717,27 @@ User Stories Controller
 ![image](https://github.com/user-attachments/assets/44cc9a8b-2026-4de5-aade-dbfc21eeec14)
 
 
-### 6.1.1 Core Behavior-Driven Development
+### 6.1.3 Core Behavior-Driven Development
 
-### 6.1.1 Core System Tests
+User Story 9
+<br><img src="assets/tests/us09.jpg"></br>
+
+User Story 20
+<br><img src="assets/tests/us20.jpg"></br>
+
+User Story 21
+<br><img src="assets/tests/us21.jpg"></br>
+
+User Story 34
+<br><img src="assets/tests/us34.jpg"></br>
+
+User Story 35-38
+<br><img src="assets/tests/us35-38.jpg"></br>
+
+User Story 43-44
+<br><img src="assets/tests/us43-44.jpg"></br>
+
+### 6.1.4 Core System Tests
 
 ## Capítulo VII: DevOps Practices
 
