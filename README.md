@@ -2741,18 +2741,23 @@ User Story 43-44
 
 Authentication System Service test
 <br><img src="assets/tests/authentication-service.jpg"></br>
+<br><img src="assets/tests/authentication-service-result.jpg"></br>
 
 User Stories Service test
 <br><img src="assets/tests/us-service.jpg"></br>
+<br><img src="assets/tests/us-service-result.jpg"></br>
 
 Authentication end to end test
 <br><img src="assets/tests/authentication-cy.jpg"></br>
+<br><img src="assets/tests/authentication-cy-result.jpg"></br>
 
 Backlog end to end test
 <br><img src="assets/tests/backlog-cy.jpg"></br>
+<br><img src="assets/tests/backlog-cy-result.jpg"></br>
 
 Routing end to end test
 <br><img src="assets/tests/routing-cy.jpg"></br>
+<br><img src="assets/tests/routing-cy-result.jpg"></br>
 
 ## Capítulo VII: DevOps Practices
 
