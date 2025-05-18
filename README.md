@@ -2996,13 +2996,19 @@ Para garantizar un despliegue continuo y confiable en producción, se han defini
 
 ### Bibliografia
 
-- Biblioteca UPC. (2024). _Biblioteca virtual de la Universidad Peruana de Ciencias Aplicadas_. https://biblioteca.upc.edu.pe
-- Miro. (2024). _Miro_. Miro Corporation. https://miro.com
-- LucidChart. (2024). _LucidChart_. Lucid Software Inc. https://www.lucidchart.com
-- Cohn, M. (2006). Historias de usuario: Un enfoque ágil. Pearson Educación.https://www.scrummanager.com/files/scrum_manager_historias_usuario.pdf
-- Pressman, R. S. (2010). Ingeniería de Software: Un enfoque práctico. McGraw-Hill.https://www.javier8a.com/itc/bd1/ld-Ingenieria.de.software.enfoque.practico.7ed.Pressman.PDF
-- The C4 model for visualising software architecture. (2024). https://c4model.com/
-- Structurizr. (2024). https://www.structurizr.com/
+-Biblioteca UPC. (2024). Biblioteca virtual de la Universidad Peruana de Ciencias Aplicadas. Recuperado de https://biblioteca.upc.edu.pe
+
+-Cohn, M. (2006). Historias de usuario: Un enfoque ágil. Pearson Educación. Recuperado de https://www.scrummanager.com/files/scrum_manager_historias_usuario.pdf
+
+-LucidChart. (2024). LucidChart. Lucid Software Inc. Recuperado de https://www.lucidchart.com
+
+-Miro. (2024). Miro. Miro Corporation. Recuperado de https://miro.com
+
+-Pressman, R. S. (2010). Ingeniería de Software: Un enfoque práctico. McGraw-Hill. Recuperado de https://www.javier8a.com/itc/bd1/ld-Ingenieria.de.software.enfoque.practico.7ed.Pressman.PDF
+
+-Structurizr. (2024). Structurizr. Recuperado de https://www.structurizr.com/
+
+-The C4 model for visualising software architecture. (2024). Recuperado de https://c4model.com/
 
 ### Anexos
 
@@ -3022,7 +3028,6 @@ Anexo D:<br>https://miro.com/welcomeonboard/NHhiOEg2U2ZETmc0SnFSTG10R3djVFdBdGVC
 
 Anexo E:<br>https://miro.com/welcomeonboard/RTA3b0ZrRzFmckk5Z3BneTVwc3d5Z1BBYko4c3d4SmpUaVMwTG93c0JjUmc2cERSNzJ5ZkxjOTZDWG5CbThHd3wzNDU4NzY0NTQzNjk5MTEyMTEwfDI=?share_link_id=839908059772
 
-
 Anexo F:<br>https://www.figma.com/design/PQMlg7QzupwYT1ef3eXdEG/LandingPage-WireFrame-ManageWise?node-id=15-131&t=DZEsag5WhuvjGmZk-1
 
 Anexo G:<br>https://www.figma.com/design/mz9XRI1PRFgIvEPIuqHzgd/webapp-managewis?node-id=1-2&t=YdZHXwLmNin9xC6s-1
@@ -3034,3 +3039,5 @@ Anexo I:<br>https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webapp-managewis?
 Anexo J: Video de la Aplicación Web: <br>https://youtu.be/wM0rVK2WHug
 
 Anexo K: Video de la Aplicación Mobile: <br>https://www.youtube.com/watch?v=FiJWjn0ncqg
+
+Anexo L: Video de la exposición TB1 : <br>https://drive.google.com/file/d/17M1xVG5bLn1T3NyTwSjo50teQEmHA-bd/view?usp=sharing
