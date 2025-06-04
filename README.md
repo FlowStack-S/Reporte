@@ -7,7 +7,7 @@
     <br>
     <strong>Profesor: Juan Carlos Tinoco Licas
 </strong><br>
-    <br> <strong>INFORME DE TRABAJO FINAL - TP1 </strong> 
+    <br> <strong>INFORME DE TRABAJO FINAL - TB2 </strong> 
 </p>
 <p align="center">
     <strong>Startup: FlowStack </strong><br>
@@ -2976,6 +2976,94 @@ Para garantizar un despliegue continuo y confiable en producción, se han defini
 - Seguridad:
 
   - Escaneo de vulnerabilidades en dependencias antes del despliegue (usando herramientas como Snyk o Dependabot).
+
+## 7.4. Continuous Monitoring
+
+El **monitoreo continuo** es fundamental para garantizar que las aplicaciones mantengan un alto rendimiento, disponibilidad y una excelente experiencia de usuario. Utilizando herramientas avanzadas, se puede verificar el funcionamiento en tiempo real, identificar cuellos de botella y prevenir problemas antes de que afecten a los usuarios finales.
+
+### 7.4.1. Tools and Practices
+
+A continuación se detallan algunas de las herramientas y prácticas que implementamos para realizar un monitoreo continuo y eficiente en **ScrumFlow**:
+
+- **Pruebas de Carga y Estrés**: **JMeter** permite simular cargas de usuarios y condiciones extremas, asegurando que la aplicación mantenga un rendimiento óptimo bajo alta demanda. **Apache JMeter** permite realizar pruebas de estrés que validan la resistencia de la plataforma frente a la cantidad de usuarios simultáneos.
+
+  <div align="center">
+    <img src="assets/images/jmeter.png"><br>
+  </div>
+
+- **Monitoreo de Experiencia del Usuario**: Herramientas como **Google Analytics** y **Datadog** permiten recopilar datos sobre el uso y la interacción con la plataforma. **Google Analytics** proporciona información sobre el tráfico y el comportamiento de los usuarios, mientras que **Datadog** ofrece monitoreo en tiempo real, capturando métricas clave como tiempos de respuesta, latencia y eventos del usuario.
+
+  <div align="center">
+    <img src="assets/images/google.png"><br>
+  </div>
+
+  <div align="center">
+    <img src="assets/images/datadog.png"><br>
+  </div>
+
+- **Supervisión de APIs**: La supervisión de las APIs es crucial para asegurar la disponibilidad y la correcta interacción entre los servicios. Usamos herramientas como **Postman** para probar manualmente nuestras APIs, y **Pingdom** para obtener métricas en tiempo real sobre la disponibilidad y tiempos de respuesta de las APIs, tanto internas como externas.
+
+  <div align="center">
+    <img src="assets/images/postman.png"><br>
+  </div>
+
+- **Sentry**: Usamos **Sentry** para el monitoreo de errores en tiempo real. Sentry permite capturar y gestionar excepciones no controladas en el código de producción, asegurando que se puedan abordar rápidamente.
+
+  <div align="center">
+    <img src="assets/images/sentry.jpeg"><br>
+  </div>
+
+- **Auditorías de Calidad Web**: **Google Lighthouse** y **Catchpoint** son esenciales para auditar la calidad y el rendimiento de las aplicaciones web. **Lighthouse** evalúa accesibilidad, SEO y rendimiento, mientras que **Catchpoint** realiza pruebas de rendimiento desde distintas ubicaciones y dispositivos, asegurando que la experiencia del usuario sea consistente en diferentes entornos y condiciones.
+
+### 7.4.2. Monitoring Pipeline Components
+
+Un **pipeline de monitoreo constante** incluye varias etapas para asegurar la calidad y el rendimiento de la aplicación. Estas etapas comprenden la recopilación de datos, el almacenamiento, el análisis y la visualización. Herramientas como **Google Lighthouse** y **Catchpoint** juegan un papel fundamental en este proceso, proporcionando evaluaciones complementarias que permiten entender y mejorar la experiencia del usuario.
+
+- **Google Lighthouse**: Ideal para realizar auditorías de calidad en sitios web, proporcionando análisis detallados de accesibilidad, buenas prácticas, SEO y rendimiento. Permite identificar problemas que impactan la experiencia del usuario, como tiempos de carga y cambios de diseño.
+
+  <div align="center">
+    <img src="assets/images/gogleee.png"><br>
+  </div>
+
+  <div align="center">
+    <img src="assets/images/light.png"><br>
+  </div>
+
+- **Catchpoint**: Especializada en monitoreo de la experiencia digital desde diferentes ubicaciones y dispositivos, ofrece datos en tiempo real sobre la latencia de la red, tiempos de respuesta del servidor y métricas de rendimiento bajo diversas condiciones. Su enfoque permite detectar y resolver problemas antes de que afecten a los usuarios finales.
+
+  <div align="center">
+    <img src="assets/images/catchpoint.png"><br>
+  </div>
+
+### 7.4.3. Alerting Pipeline Components
+
+El componente de **alertas** en un pipeline de monitoreo es crucial para la detección y respuesta rápida ante problemas de rendimiento o disponibilidad de la aplicación. Esto permite que el equipo reciba notificaciones inmediatas cuando ocurren eventos críticos o anomalías que requieren atención.
+
+- **Prometheus con Alertmanager**: **Prometheus** recolecta métricas de rendimiento en tiempo real y, cuando se superan ciertos umbrales (por ejemplo, en uso de CPU, memoria o latencia de red), genera alertas. **Alertmanager** gestiona estas alertas y las envía a los canales de comunicación correspondientes (como correo electrónico, Slack o Microsoft Teams), lo que facilita la respuesta rápida y eficaz a los incidentes.
+
+  <div align="center">
+    <img src="assets/images/prome.png"><br>
+  </div>
+
+- **Grafana**: **Grafana** es utilizado para la visualización avanzada de métricas. Permite establecer umbrales y notificaciones en función de eventos críticos o patrones anómalos, brindando una interfaz intuitiva para el monitoreo en tiempo real y la recepción de alertas de rendimiento.
+
+  <div align="center">
+    <img src="assets/images/grafana.png"><br>
+  </div>
+
+### 7.4.4. Notification Pipeline Components
+
+Un **pipeline de notificaciones** es esencial para comunicar los resultados de las pruebas y el estado del pipeline. **Jenkins** juega un papel fundamental en este proceso, permitiendo configurar notificaciones detalladas sobre el progreso y los resultados de cada fase del pipeline.
+
+- **Jenkins**: Con **Jenkins**, las notificaciones se pueden configurar para enviarse automáticamente al finalizar cada **build** o etapa del pipeline. Estas notificaciones informan sobre el éxito o fallo de las pruebas, el tiempo de ejecución y los problemas específicos encontrados. Esto permite que el equipo reciba alertas en tiempo real sobre cualquier incidente o fallo en las pruebas, facilitando una respuesta inmediata. Además, **Jenkins** permite generar reportes detallados y automatizar el envío de resúmenes periódicos, proporcionando una visión completa del estado de calidad del software en cada ciclo de pruebas.
+
+  <div align="center">
+    <img src="assets/images/jenkins4.jpg"><br>
+  </div>
+
+---
+
+Este enfoque de **monitorización continua** garantiza que el sistema se mantenga en condiciones óptimas y ayuda al equipo a identificar y resolver problemas antes de que impacten a los usuarios finales. La integración de herramientas como **Prometheus**, **Grafana**, **Jenkins**, **Google Lighthouse**, **Catchpoint** y **Sentry** facilita la supervisión, alertas y análisis en tiempo real, asegurando un proceso de desarrollo ágil y sin interrupciones.
 
 ### Conclusiones
 
