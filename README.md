@@ -3065,6 +3065,44 @@ Un **pipeline de notificaciones** es esencial para comunicar los resultados de l
 
 Este enfoque de **monitorización continua** garantiza que el sistema se mantenga en condiciones óptimas y ayuda al equipo a identificar y resolver problemas antes de que impacten a los usuarios finales. La integración de herramientas como **Prometheus**, **Grafana**, **Jenkins**, **Google Lighthouse**, **Catchpoint** y **Sentry** facilita la supervisión, alertas y análisis en tiempo real, asegurando un proceso de desarrollo ágil y sin interrupciones.
 
+# Capítulo VIII: Experiment-Driven Development
+## 8.1
+## 8.2 Experiment Design
+### 8.2.1. Hypotheses
+
+Creemos que al implementar Managewise, una plataforma intuitiva para gestionar proyectos Scrum, se incrementará en un 35% la claridad en el seguimiento de tareas y en un 18% la satisfacción general del equipo, debido a una mejor visibilidad del progreso y una eficiente asignación de recursos<br>
+
+### 8.2.2. Measures
+
+Métricas primarias:
+* Claridad y seguimiento de tareas (medida mediante encuestas internas y revisión de backlog).
+* Satisfacción general del equipo (medida a través de cuestionarios periódicos).
+
+Métricas secundarias:
+* Reducción en costos asociados a retrasos en proyectos.
+* Aumento en la tasa de adopción de herramientas digitales.
+* Mejora en la adaptabilidad a cambios en requisitos durante el desarrollo.
+
+### 8.2.3. Conditions
+
+Condiciones experimentales:
+- Un grupo seleccionado utilizará la nueva plataforma Managewise durante un período definido.
+- Se realizará un seguimiento constante sobre la percepción de claridad, eficiencia y satisfacción del equipo.
+
+Condiciones de control:
+- Otro grupo comparable continuará usando sus herramientas habituales (e.g., Trello, GitHub).
+- Mantener constante la metodología Scrum utilizada, el tipo de proyecto, y el tamaño del equipo.
+
+
+### 8.2.4. Scale Calculations and Decisions
+
+- <b>Nivel de significancia:</b> 0.05 (95% de confianza en los resultados del experimento).
+- <b>Efecto mínimo detectable (MDE):</b> Incremento mínimo del 15% en satisfacción general del equipo y un aumento del 20% en claridad y seguimiento de tareas.
+- <b>Potencia estadística:</b> 85%, asegurando capacidad suficiente para detectar cambios relevantes que justifiquen decisiones sobre la implementación completa de Managewise.
+
+Las decisiones sobre la recolección de datos se basarán en un tamaño de muestra que permita detectar claramente los efectos esperados con el mínimo margen de error.
+
+
 ### Conclusiones
 
 - **Joaquin David Rivadeneyra Ramos**:<br>
