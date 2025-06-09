@@ -3066,7 +3066,94 @@ Un **pipeline de notificaciones** es esencial para comunicar los resultados de l
 Este enfoque de **monitorización continua** garantiza que el sistema se mantenga en condiciones óptimas y ayuda al equipo a identificar y resolver problemas antes de que impacten a los usuarios finales. La integración de herramientas como **Prometheus**, **Grafana**, **Jenkins**, **Google Lighthouse**, **Catchpoint** y **Sentry** facilita la supervisión, alertas y análisis en tiempo real, asegurando un proceso de desarrollo ágil y sin interrupciones.
 
 # Capítulo VIII: Experiment-Driven Development
-## 8.1
+## 8.1 Experiment Planning
+### 8.1.1. As-Is Summary
+FlowStack es una plataforma de gestión de proyectos para startups de desarrollo de software que actualmente ofrece funcionalidades básicas de gestión ágil (Scrum), pero enfrenta varios desafíos:
+
+**Problemas identificados:**
+- **Adopción limitada**: Resistencia de los equipos a cambiar de herramientas establecidas como Trello o Jira
+- **Complejidad de integración**: Dificultades para integrarse perfectamente con los flujos de trabajo existentes
+- **Falta de análisis avanzados**: Carece de dashboards predictivos que los líderes de proyecto necesitan
+- **Experiencia móvil**: La interfaz no está optimizada para uso en dispositivos móviles
+
+**Objetivos de mejora:**
+- Incrementar la tasa de adopción en un 30% mediante mejoras UX
+- Reducir el tiempo de onboarding de nuevos equipos a menos de 15 minutos
+- Implementar análisis predictivos para estimación de sprints
+- Optimizar la plataforma para uso móvil
+
+### 8.1.2. Raw Material
+**Assumptions:**
+- Los equipos valorarían dashboards predictivos para planificación de sprints
+- La integración con GitHub/GitLab sería un factor decisivo para la adopción
+- Los Scrum Masters necesitan mejores herramientas para seguimiento de impedimentos
+- Los desarrolladores prefieren interfaces minimalistas con menos clicks
+
+**Knowledge Gaps:**
+- ¿Qué integraciones son más críticas para los usuarios?
+- ¿Qué métricas son más valiosas para los Product Owners?
+- ¿Cómo comparan los usuarios FlowStack con alternativas establecidas?
+- ¿Qué funcionalidades móviles son más urgentes?
+
+**Ideas:**
+- Implementar "Quick Start" guiado para nuevos equipos
+- Crear plantillas pre-configuradas para diferentes tipos de proyectos
+- Desarrollar integración con repositorios de código
+- Añadir modo "focus" para desarrolladores
+
+**Claims:**
+- La integración con repositorios aumentaría la adopción en un 25%
+- Los dashboards predictivos reducirían los sprints fallidos en un 40%
+- El modo móvil mejoraría la participación del equipo en un 15%
+
+### 8.1.3. Experiment-Ready Questions
+
+| Pregunta | Confianza | Riesgo | Impacto | Interés | Total |
+|----------|-----------|--------|---------|---------|-------|
+| ¿Mejorará la adopción agregando integración con GitHub? | 8 | 3 | 9 | 8 | 28 |
+| ¿Reducirá el tiempo de onboarding un tutorial interactivo? | 7 | 2 | 7 | 6 | 22 |
+| ¿Aumentará la satisfacción añadiendo dashboards predictivos? | 6 | 4 | 8 | 7 | 25 |
+| ¿Mejorará la participación el modo móvil optimizado? | 5 | 3 | 6 | 5 | 19 |
+| ¿Disminuirá los impedimentos un sistema de alertas tempranas? | 7 | 2 | 8 | 6 | 23 |
+
+### 8.1.4. Question Backlog
+1. ¿Mejorará la adopción agregando integración con GitHub?
+2. ¿Aumentará la satisfacción añadiendo dashboards predictivos?
+3. ¿Disminuirá los impedimentos un sistema de alertas tempranas?
+4. ¿Reducirá el tiempo de onboarding un tutorial interactivo?
+
+### 8.1.5. Experiment Cards
+
+#### Experimento 1: Integración con GitHub
+**Why:**  
+Muchos equipos ya usan GitHub y la falta de integración crea trabajo duplicado
+
+**What:**  
+Implementar sincronización básica de issues entre FlowStack y GitHub
+
+**Hypothesis:**  
+Equipos que usen la integración tendrán 30% más actividad diaria
+
+#### Experimento 2: Tutorial Interactivo
+**Why:**  
+El onboarding complejo disuade a nuevos usuarios
+
+**What:**  
+Crear flujo guiado de primeros pasos con retroalimentación inmediata
+
+**Hypothesis:**  
+Reducirá el tiempo de setup inicial de 30 a 15 minutos
+
+#### Experimento 3: Dashboard Predictivo
+**Why:**  
+Los líderes necesitan mejores herramientas para planificación
+
+**What:**  
+Implementar estimación de velocidad de equipo basada en historial
+
+**Hypothesis:**  
+Mejorará la precisión de planificación en 25%
+
 ## 8.2 Experiment Design
 ### 8.2.1. Hypotheses
 
