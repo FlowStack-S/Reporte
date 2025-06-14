@@ -2832,20 +2832,20 @@ Estas entrevistas tienen como objetivo validar las funcionalidades y caracterís
 
 1. **Entrevista 1:**  
    - **Datos del entrevistado:**  
-     Nombre: Juan  
-     Apellidos: de la Cruz  
-     Edad: 23  
-     Distrito: San Martin de Porres
+     Nombre: Cristian  
+     Apellidos: Mattos
+     Edad: 26  
 
-   ![Foto de entrevista](assets/images/ENTREVISTA.png)  
-   **URL**: [Link de entrevista](https://youtu.be/lGBcCAqxEUc)  
+
+   ![Foto de entrevista](assets/images/ENTREVISTA_X.png)  
+   **URL**: [Link de entrevista](https://youtu.be/qmsFGEEKo98)  
    **Inicio**: 0:00  
-   **Duración**: 8:24
+   **Duración**: 7:41
 
    **Resumen:**  
-   La entrevista con Juan reveló aspectos clave sobre la gestión de proyectos y el impacto de las herramientas que existen actualmente. Juan destacó que su principal responsabilidad es supervisar al equipo de desarrollo para cumplir con los plazos y estándares de calidad, mientras maneja el crecimiento rápido y los desafíos de integración tecnológica. Aunque mencionó que ha tenido experiencias mixtas con las herramientas actuales, principalmente debido a problemas de integración y personalización, considera esencial que las nuevas soluciones ofrezcan flexibilidad, integración fluida y capacidades avanzadas. 
+   En esta entrevista, Cristian Matos, un joven de 26 años, comparte su experiencia al probar una aplicación web orientada a la gestión de proyectos. Explica cómo se pueden gestionar miembros, crear reuniones fácilmente y organizar el backlog mediante la creación de épicas y user stories con fechas límite. Cristian destaca la interfaz intuitiva y la facilidad de navegación como puntos fuertes de la herramienta, aunque menciona algunos problemas técnicos menores, como la dificultad al seleccionar roles al agregar miembros, proponiendo mejoras como un menú desplegable. También sugiere incorporar estadísticas y funciones adicionales para gestionar sprints y épicas. Finalmente, recomienda la aplicación a otros gestores de proyectos, señalando que, con algunos ajustes, podría ser aún más útil y eficiente.
 
-2. **Entrevista 2:**  
+1. **Entrevista 2:**  
    - **Datos del entrevistado:**  
      Nombre: María  
      Apellidos: Gutiérrez  
@@ -2860,7 +2860,7 @@ Estas entrevistas tienen como objetivo validar las funcionalidades y caracterís
    **Resumen:**  
    La entrevista con María nos habla sobre las herramientas que usa y la importancia de la personalización de los programas de gestión de proyectos. María destaca que el diseño de las herramientas debe ser intuitivo y adaptable a diferentes plataformas y dispositivos. Además, enfatiza la necesidad de contar con proveedores de soluciones flexibles que puedan ajustarse a las demandas cambiantes de los proyectos.
 
-3. **Entrevista 3:**  
+2. **Entrevista 3:**  
    - **Datos del entrevistado:**  
      Nombre: Nora  
      Apellidos: Castro Manrique  
