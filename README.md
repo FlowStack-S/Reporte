@@ -2759,6 +2759,191 @@ Routing end to end test
 <br><img src="assets/tests/routing-cy.jpg"></br>
 <br><img src="assets/tests/routing-cy-result.jpg"></br>
 
+## 6.2. Static Testing & Verification
+
+### 6.2.1. Static Code Analysis
+
+#### 6.2.1.1. Coding Standard & Code Conventions
+
+#### 6.2.1.2. Code Quality & Code Security
+
+### 6.2.2. Reviews
+
+## 6.3. Validation Interviews
+
+### 6.3.1. Diseño de Entrevistas
+
+Segmentos objetivos:
+
+- **Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento (Product Owner y Scrum Master)**
+- **Equipo de Desarrollo de Software**
+
+Antes de poder realizar las entrevistas, consideramos prudente llevar a cabo un análisis previo para poder realizar las entrevistas de una mejor manera. Es por ello, que para cada uno de nuestros segmentos proponemos estas preguntas para poder conocer un poco más sobre nuestro público objetivo y asegurar que nuestro producto, **ScrumFlow**, cumpla con sus necesidades y expectativas.
+
+Estas entrevistas tienen como objetivo validar las funcionalidades y características de **ScrumFlow**, obteniendo información valiosa sobre cómo los usuarios experimentan la aplicación y qué mejoras podrían implementarse.
+
+## Preguntas para cada segmento:
+
+### Información del Entrevistado:
+- ¿Cuál es tu nombre?
+- ¿Cuáles son tus apellidos?
+- ¿Cuál es tu edad?
+- ¿En qué distrito resides?
+
+#### Segmento Objetivo #1: **Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento (Product Owner y Scrum Master)**
+
+1. ¿Cómo describirías tu experiencia general al usar **ScrumFlow** para gestionar tus proyectos ágiles y equipos de desarrollo?
+2. ¿Qué opinas de la interfaz de usuario de **ScrumFlow**? ¿Es intuitiva y fácil de navegar?
+3. ¿Las funcionalidades de **gestión de tareas**, **backlogs** y **sprints** están alineadas con las necesidades de tu equipo y tus responsabilidades como **Product Owner** y **Scrum Master**?
+4. ¿Con qué frecuencia utilizas **ScrumFlow** para planificar y seguir el progreso de tus proyectos ágiles?
+5. ¿Has encontrado algún problema técnico mientras usas la aplicación? Si es así, ¿cuáles?
+6. ¿Qué características adicionales te gustaría ver en **ScrumFlow** para mejorar la gestión de los proyectos ágiles?
+7. ¿La aplicación cumple con tus expectativas en cuanto a **seguridad** y **privacidad** de los datos del proyecto?
+8. ¿Qué tan satisfecho estás con las herramientas de **colaboración en equipo** que ofrece **ScrumFlow**?
+9. ¿Cómo calificarías el sistema de **seguimiento de tareas**, **gestión de sprints** y **backlogs** dentro de **ScrumFlow**?
+10. ¿Qué mejorarías en la funcionalidad de los **informes** y **dashboards** de Scrum dentro de **ScrumFlow**?
+11. ¿Te gustaría tener más opciones de personalización en la interfaz de usuario de **ScrumFlow**? Si es así, ¿cuáles?
+12. ¿Recomendarías **ScrumFlow** a otros **líderes** o **gerentes de desarrollo de software**? ¿Por qué sí o por qué no?
+13. ¿Hay alguna funcionalidad que consideras innecesaria o que no utilizas en absoluto dentro de **ScrumFlow**?
+14. ¿Tienes alguna sugerencia adicional para mejorar **ScrumFlow** desde la perspectiva de un **Product Owner** o **Scrum Master**?
+
+#### Segmento Objetivo #2: **Equipo de Desarrollo de Software**
+
+1. ¿Cómo describirías tu experiencia general al usar **ScrumFlow** para gestionar tus tareas dentro del proyecto ágil?
+2. ¿Qué opinas de la interfaz de usuario de **ScrumFlow** para los desarrolladores? ¿Es intuitiva y fácil de usar?
+3. ¿El proceso de **asignación de tareas**, **gestión de sprint** y **seguimiento de progreso** fue sencillo y claro en **ScrumFlow**?
+4. ¿La aplicación te proporciona suficiente control sobre las tareas asignadas y tu disponibilidad?
+5. ¿Has encontrado algún problema técnico mientras usas la aplicación? Si es así, ¿cuáles?
+6. ¿Qué características adicionales te gustaría ver en **ScrumFlow** como miembro del equipo de desarrollo?
+7. ¿La aplicación cumple con tus expectativas en cuanto a **seguridad** y **privacidad** de tus datos y tareas?
+8. ¿Cómo calificarías la **visibilidad** y el **seguimiento** de tus tareas dentro de la plataforma?
+9. ¿Te sientes apoyado por el equipo de soporte de **ScrumFlow** en la gestión de tus tareas dentro de los sprints?
+10. ¿Qué opinas del sistema de **notificaciones en tiempo real** y la **colaboración en equipo** dentro de **ScrumFlow**?
+11. ¿Te gustaría tener más opciones de personalización en la presentación de las tareas y actividades? Si es así, ¿cuáles?
+12. ¿Recomendarías **ScrumFlow** a otros desarrolladores de software? ¿Por qué sí o por qué no?
+13. ¿Hay alguna funcionalidad que consideras innecesaria o que no utilizas en absoluto dentro de **ScrumFlow**?
+14. ¿Tienes alguna sugerencia adicional para mejorar **ScrumFlow** desde la perspectiva de un desarrollador de software?
+
+---
+
+### 6.3.2. Registro de Entrevistas
+
+#### **Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento (Product Owner y Scrum Master)**
+
+1. **Entrevista 1:**  
+   - **Datos del entrevistado:**  
+     Nombre: Juan  
+     Apellidos: de la Cruz  
+     Edad: 23  
+     Distrito: San Martin de Porres
+
+   ![Foto de entrevista](assets/images/ENTREVISTA.png)  
+   **URL**: [Link de entrevista](https://youtu.be/lGBcCAqxEUc)  
+   **Inicio**: 0:00  
+   **Duración**: 8:24
+
+   **Resumen:**  
+   La entrevista con Juan reveló aspectos clave sobre la gestión de proyectos y el impacto de las herramientas que existen actualmente. Juan destacó que su principal responsabilidad es supervisar al equipo de desarrollo para cumplir con los plazos y estándares de calidad, mientras maneja el crecimiento rápido y los desafíos de integración tecnológica. Aunque mencionó que ha tenido experiencias mixtas con las herramientas actuales, principalmente debido a problemas de integración y personalización, considera esencial que las nuevas soluciones ofrezcan flexibilidad, integración fluida y capacidades avanzadas. 
+
+2. **Entrevista 2:**  
+   - **Datos del entrevistado:**  
+     Nombre: María  
+     Apellidos: Gutiérrez  
+     Edad: 26  
+     Distrito: San Isidro
+
+   ![Foto de entrevista](assets/images/Entrevista-Maria.png)  
+   **URL**: [Link de entrevista](https://drive.google.com/file/d/1URH3QIgHteG1cNFRdPeFrunflBu3zA8j/view?usp=sharing)  
+   **Inicio**: 0:18  
+   **Duración**: 6:17
+
+   **Resumen:**  
+   La entrevista con María nos habla sobre las herramientas que usa y la importancia de la personalización de los programas de gestión de proyectos. María destaca que el diseño de las herramientas debe ser intuitivo y adaptable a diferentes plataformas y dispositivos. Además, enfatiza la necesidad de contar con proveedores de soluciones flexibles que puedan ajustarse a las demandas cambiantes de los proyectos.
+
+3. **Entrevista 3:**  
+   - **Datos del entrevistado:**  
+     Nombre: Nora  
+     Apellidos: Castro Manrique  
+     Edad: 42  
+     Distrito: Pueblo Libre
+
+   ![Entrevista Nora](assets/images/entrevista_Nora.jpg)  
+   **URL**: [Link de entrevista](https://drive.google.com/file/d/11xswJuEZQy51WRqAmZDu0KfjyF-6rV-F/view?usp=sharing)  
+   **Inicio**: 0:40  
+   **Duración**: 5:39
+
+   **Resumen:**  
+   La entrevista con Nora reveló aspectos importantes sobre la gestión y flujo de trabajo. Se destacó que el trabajo en equipo es fundamental para el éxito de un proyecto, y que contar con herramientas de gestión efectivas es crucial para mantener la coordinación y el progreso del equipo.
+
+#### **Segmento 2: Equipo de Desarrollo de Software**
+
+1. **Entrevista 1:**  
+   - **Datos del entrevistado:**  
+     Nombre: Jeremy  
+     Apellidos: Salazar Quispe  
+     Edad: 20  
+     Distrito: San Juan de Lurigancho
+
+   ![Foto de entrevista](assets/images/EntrevistaDiseno.jpg)  
+   **URL**: [Link de entrevista](https://drive.google.com/file/d/1rvNIL9t2l7MhaoPOetmItBENwyhUJbqT/view?usp=sharing)  
+   **Inicio**: 0:01  
+   **Duración**: 4:52
+
+   **Resumen:**  
+   La entrevista con Jeremy brindó información relevante sobre su rol dentro del equipo de desarrollo y los desafíos que enfrenta. Jeremy señala que una de las principales dificultades es la diferencia de criterios entre los miembros, lo cual afecta negativamente la continuidad del flujo de trabajo y la colaboración.
+
+2. **Entrevista 2:**  
+   - **Datos del entrevistado:**  
+     Nombre: Leandro  
+     Apellidos: Medina Cervantes  
+     Edad: 23  
+     Distrito: Villa María
+
+   ![Leandro](https://github.com/user-attachments/assets/6ab13b7e-dc49-4564-8001-4f2fa7aa0617)  
+   **URL**: [Click para ver entrevista](https://www.youtube.com/watch?v=_RbKISOL-Qo)  
+   **Inicio**: 0:10  
+   **Duración**: 4:58
+
+   **Resumen:**  
+   La entrevista a Leandro nos cuenta de primera mano la experiencia como practicante y cómo las herramientas de gestión actuales influyen. Mencionó que las reuniones programadas en exceso y las herramientas poco intuitivas complican la fluidez del trabajo, lo que resalta la necesidad de herramientas de gestión más adaptables.
+
+3. **Entrevista 3:**  
+   - **Datos del entrevistado:**  
+     Nombre: Rodrigo  
+     Apellidos: Acosa Ramirez  
+     Edad: 22  
+     Distrito: San Miguel
+
+   ![Rodrigo](assets/images/entrevista_Rodrigo.jpg)  
+   **URL**: [Link de entrevista](https://drive.google.com/file/d/1aZ94C1wixcfQNa_dZCZSkIKiBnpPf91i/view?usp=sharing)  
+   **Inicio**: 0:50  
+   **Duración**: 10:19
+
+   **Resumen:**  
+   La entrevista
+
+### 6.3.3. Evaluaciones según heurísticas
+
+## 6.4. Auditoría de Experiencias de Usuario
+
+### 6.4.1. Auditoría Realizada
+
+#### 6.4.1.1. Información del Grupo Auditado
+
+#### 6.4.1.2. Cronograma de Auditoría Realizada
+
+#### 6.4.1.3. Contenido de Auditoría Realizada
+
+### 6.4.2. Auditoría Recibida
+
+#### 6.4.2.1. Información del Grupo Auditor
+
+#### 6.4.2.2. Cronograma de Auditoría Recibida
+
+#### 6.4.2.3. Contenido de Auditoría Recibida
+
+#### 6.4.2.4. Resumen de Modificaciones para Subsanar Hallazgos
+
 ## Capítulo VII: DevOps Practices
 
 ## 7.1. Continuous Integration
@@ -3066,8 +3251,11 @@ Un **pipeline de notificaciones** es esencial para comunicar los resultados de l
 Este enfoque de **monitorización continua** garantiza que el sistema se mantenga en condiciones óptimas y ayuda al equipo a identificar y resolver problemas antes de que impacten a los usuarios finales. La integración de herramientas como **Prometheus**, **Grafana**, **Jenkins**, **Google Lighthouse**, **Catchpoint** y **Sentry** facilita la supervisión, alertas y análisis en tiempo real, asegurando un proceso de desarrollo ágil y sin interrupciones.
 
 # Capítulo VIII: Experiment-Driven Development
+
 ## 8.1 Experiment Planning
+
 ### 8.1.1. As-Is Summary
+
 FlowStack es una plataforma de gestión de proyectos para startups de desarrollo de software que actualmente ofrece funcionalidades básicas de gestión ágil (Scrum), pero enfrenta varios desafíos:
 
 **Problemas identificados:**
@@ -3083,6 +3271,7 @@ FlowStack es una plataforma de gestión de proyectos para startups de desarrollo
 - Optimizar la plataforma para uso móvil
 
 ### 8.1.2. Raw Material
+
 **Assumptions:**
 - Los equipos valorarían dashboards predictivos para planificación de sprints
 - La integración con GitHub/GitLab sería un factor decisivo para la adopción
@@ -3117,6 +3306,7 @@ FlowStack es una plataforma de gestión de proyectos para startups de desarrollo
 | ¿Disminuirá los impedimentos un sistema de alertas tempranas? | 7 | 2 | 8 | 6 | 23 |
 
 ### 8.1.4. Question Backlog
+
 1. ¿Mejorará la adopción agregando integración con GitHub?
 2. ¿Aumentará la satisfacción añadiendo dashboards predictivos?
 3. ¿Disminuirá los impedimentos un sistema de alertas tempranas?
@@ -3155,6 +3345,7 @@ Implementar estimación de velocidad de equipo basada en historial
 Mejorará la precisión de planificación en 25%
 
 ## 8.2 Experiment Design
+
 ### 8.2.1. Hypotheses
 
 Creemos que al implementar Managewise, una plataforma intuitiva para gestionar proyectos Scrum, se incrementará en un 35% la claridad en el seguimiento de tareas y en un 18% la satisfacción general del equipo, debido a una mejor visibilidad del progreso y una eficiente asignación de recursos<br>
@@ -3189,6 +3380,11 @@ Condiciones de control:
 
 Las decisiones sobre la recolección de datos se basarán en un tamaño de muestra que permita detectar claramente los efectos esperados con el mínimo margen de error.
 
+### 8.2.5. Methods Selection
+
+### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection
+
+### 8.2.7. Web and Mobile Tracking Plan
 
 ### Conclusiones
 
