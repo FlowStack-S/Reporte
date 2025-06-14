@@ -41,6 +41,10 @@
           <td>Diego Miguel Ramirez Ortega</td>
           <td>U202123548</td>
         </tr>
+        <tr>
+    <td>Josue Omar Hidalgo Bustamante</td>
+    <td>U2021198880</td>
+        </tr>
     </table>
   <h3 align="center" >Mayo 2025</h3>
 </div>
@@ -323,13 +327,14 @@ Nuestro objetivo es liderar el mercado con herramientas que no sólo aborden las
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Integrante                | Perfil                                | Foto                                                |
-|---------------------------|--------------------------------------------------|-------------------------------------|
-| Carbajal Pozzo, Joaquín Alonso | Mi nombre es Joaquín Carbajal, tengo 22 años y soy estudiante de la carrera de ingeniería de software. Con anterioridad ya he tenido experiencia con el tipo de trabajos que conllevan trabajo grupal y que busca una solución a alguna problemática. Actualmente encuentro realizando mis prácticas como desarrollador. | ![Foto1](./assets/perfilIntegrantes/JC_foto.jpg)                |
-| Rivadeneyra Ramos, Joaquin David (U202211846) | Soy Joaquin Rivadeneyra, tengo 19 años y actualmente estoy cursando el 5to ciclo de la carrera de Ingeniería de Software. Me considero una persona comunicativa y abierta a nuevas ideas, lo que me permite tener una buena relación con los demás miembros del equipo y fomentar un ambiente de trabajo colaborativo. | ![Foto3](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/9299c70a-dcd0-4be9-85b4-54f2ccb67eb7)               |
-| Ramirez Ortega, Diego Miguel (U202123548) | Mi nombre es Diego Ramirez, tengo 21 años y estoy estudiando la carrera de Ingeniería de Software. Tengo conocimiento en C++, python y edición de vídeo. Estoy comprometido a completar las tareas que se me asignen a tiempo y apoyar en lo que pueda en el proyecto..| ![Foto4](./assets/perfilIntegrantes/diego-ramirez.png)               |
-| Gómez Vallejos Sergio André (U20221D401)   | Soy una persona resiliente que, sin importar cuántas veces caiga, siempre encuentra la manera de levantarse. Tengo habilidades sociales sólidas y una amplia experiencia en la resolución de problemas de código. Suelo ser el miembro más activo de mi equipo de trabajo. Me apasionan los lenguajes de programación y la tecnología, y constantemente me esfuerzo por alcanzar mis objetivos y contribuir al desarrollo del startup. |![Sergio](https://hackmd.io/_uploads/SkU_5d9cR.png)              |
-| Nelson Elías Serrano (U202214733) | Me llamo Nelson Serrano, estudiante de Ingeniería de Software con el código estudiantil U202214733. Mi carrera se basa en crear soluciones digitales e innovadoras para distintas problemáticas del mundo real . Las habilidades en las que puedo aportar en el grupo son dominio y práctica de lenguajes de programación como C++ y python, documentación de proyectos y metodologías ágiles y conocimientos básicos de base de datos. | ![Foto6](./assets/perfilIntegrantes/Nelson.JPG)  |
+| Integrante                                    | Perfil                                | Foto                                                                                                           |
+|-----------------------------------------------|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| Carbajal Pozzo, Joaquín Alonso                | Mi nombre es Joaquín Carbajal, tengo 22 años y soy estudiante de la carrera de ingeniería de software. Con anterioridad ya he tenido experiencia con el tipo de trabajos que conllevan trabajo grupal y que busca una solución a alguna problemática. Actualmente encuentro realizando mis prácticas como desarrollador. | ![Foto1](./assets/perfilIntegrantes/JC_foto.jpg)                                                               |
+| Rivadeneyra Ramos, Joaquin David (U202211846) | Soy Joaquin Rivadeneyra, tengo 19 años y actualmente estoy cursando el 5to ciclo de la carrera de Ingeniería de Software. Me considero una persona comunicativa y abierta a nuevas ideas, lo que me permite tener una buena relación con los demás miembros del equipo y fomentar un ambiente de trabajo colaborativo. | ![Foto3](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/9299c70a-dcd0-4be9-85b4-54f2ccb67eb7) |
+| Josue Omar ,Hidalgo Bustamante (U202119880)   | Me llamo Josue Omar Hidalgo Bustamante, estudiante de Ingeniería de Software. Mi enfoque profesional está orientado al desarrollo de soluciones digitales que aborden diversas necesidades del mundo real. Puedo aportar al equipo a través de mi experiencia en programación con lenguajes como Java y Python, manejo de bases de datos, así como en la elaboración de documentación técnica y la aplicación de metodologías ágiles para la gestión de proyectos. | <img src="assets/josue.png" alt="josue" style="margin-bottom: 5px;" width="500"/>                              |
+| Ramirez Ortega, Diego Miguel (U202123548)     | Mi nombre es Diego Ramirez, tengo 21 años y estoy estudiando la carrera de Ingeniería de Software. Tengo conocimiento en C++, python y edición de vídeo. Estoy comprometido a completar las tareas que se me asignen a tiempo y apoyar en lo que pueda en el proyecto..| ![Foto4](./assets/perfilIntegrantes/diego-ramirez.png)                                                         |
+| Gómez Vallejos Sergio André (U20221D401)      | Soy una persona resiliente que, sin importar cuántas veces caiga, siempre encuentra la manera de levantarse. Tengo habilidades sociales sólidas y una amplia experiencia en la resolución de problemas de código. Suelo ser el miembro más activo de mi equipo de trabajo. Me apasionan los lenguajes de programación y la tecnología, y constantemente me esfuerzo por alcanzar mis objetivos y contribuir al desarrollo del startup. | ![Sergio](https://hackmd.io/_uploads/SkU_5d9cR.png)                                                            |
+| Nelson Elías Serrano (U202214733)             | Me llamo Nelson Serrano, estudiante de Ingeniería de Software con el código estudiantil U202214733. Mi carrera se basa en crear soluciones digitales e innovadoras para distintas problemáticas del mundo real . Las habilidades en las que puedo aportar en el grupo son dominio y práctica de lenguajes de programación como C++ y python, documentación de proyectos y metodologías ágiles y conocimientos básicos de base de datos. | ![Foto6](./assets/perfilIntegrantes/Nelson.JPG)                                                                |
 
 ### 1.2. Solution Profile
 
@@ -3382,9 +3387,81 @@ Las decisiones sobre la recolección de datos se basarán en un tamaño de muest
 
 ### 8.2.5. Methods Selection
 
+A continuación se presenta un análisis comparativo de herramientas para el seguimiento y evaluación de la plataforma web y móvil de Managewise, considerando aspectos clave como costo, capacidad de análisis, facilidad de uso y ventajas para el proyecto.
+
+| Herramienta        | Precio                                                         | Capacidad de Análisis                                                                          | Sencillez                                                    | Ventajas                                                                                                      |
+|--------------------|----------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| **Google Analytics** | Plan gratuito/créditos gratis                                 | Análisis exhaustivo de métricas y datos de usuario                                              | Aprendizaje sencillo de las métricas                         | Excelente capacidad de generación de reportes y amplia integración con otros servicios                       |
+| **Catchpoint**       | Basado en suscripción, con pruebas gratuitas                  | Monitoreo exhaustivo de rendimiento y experiencia de usuario desde múltiples ubicaciones         | Interfaz avanzada pero detallada y completa                  | Análisis en tiempo real desde diversas ubicaciones y dispositivos, ideal para empresas con usuarios globales |
+| **RedLine13**        | Gratuito con limitaciones                                     | Análisis orientado a pruebas de carga y rendimiento de aplicaciones                             | Información detallada y resumida sobre rendimiento           | Simulación de tráfico y pruebas de rendimiento bajo condiciones de carga                                      |
+| **Lighthouse**       | Plan gratuito, disponible para ejecución local                | Análisis orientado a la experiencia de usuario, con métricas clave de rendimiento y accesibilidad | Información resumida en valores clave que puntúan aspectos de la aplicación | Evaluación de accesibilidad, rendimiento y diseño con métricas claras para optimizar la experiencia del usuario |
+
+
+
 ### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection
 
+Para asegurar la validación y la mejora continua de Managewise, se definieron objetivos estratégicos de analítica, así como KPIs y métricas clave que permiten medir el impacto de los experimentos implementados en la plataforma.
+
+#### Objetivos de Analítica
+
+- **Monitorear el uso y la adopción de nuevas funcionalidades experimentales.**
+- **Optimizar la retención de usuarios y la satisfacción de equipos de desarrollo.**
+- **Evaluar la efectividad de la colaboración y el flujo de trabajo.**
+- **Identificar oportunidades de mejora basadas en comportamiento real de los usuarios.**
+
+#### KPIs Seleccionados
+
+- **Usuarios activos diarios y mensuales (DAU/MAU):** Miden la adopción y el compromiso continuo con la plataforma.
+- **Tasa de retención:** Porcentaje de usuarios que permanecen usando la plataforma después de cada iteración o ciclo de mejora.
+- **Duración promedio de sesión:** Tiempo que los usuarios permanecen activos, indicando profundidad de uso.
+- **Tasa de conversión de nuevas funcionalidades:** Porcentaje de usuarios que usan al menos una vez una funcionalidad experimental.
+- **NPS (Net Promoter Score):** Medida de satisfacción y recomendación.
+- **Tasa de finalización de tareas/épicas/Sprints:** Evalúa eficiencia y cumplimiento de objetivos.
+
+#### Métricas Complementarias
+
+- **Frecuencia de interacción con módulos clave:** Número de clics, visitas y uso por módulo o funcionalidad.
+- **Tasa de errores reportados:** Incidencias y bugs detectados por los usuarios o el equipo de QA.
+- **Feedback cualitativo y cuantitativo:** Recopilado mediante encuestas periódicas y herramientas in-app.
+
+#### Relación con hipótesis y experimentos
+
+Estos KPIs y métricas están directamente alineados con las hipótesis de valor planteadas en la fase de experimentación. El monitoreo continuo permite validar si las nuevas funcionalidades realmente mejoran la colaboración, eficiencia y satisfacción, proporcionando datos concretos para tomar decisiones de priorización y desarrollo futuro.
+
+De esta manera, la estrategia de data analytics en Managewise habilita una cultura de mejora continua, asegurando que cada iteración aporte valor tangible tanto al usuario como al negocio.
+
 ### 8.2.7. Web and Mobile Tracking Plan
+
+Para **Managewise**, el objetivo central del plan de seguimiento web y móvil es optimizar la plataforma a partir de la experiencia de usuario y el rendimiento de las funcionalidades clave, especialmente aquellas relacionadas con la gestión ágil de proyectos y la colaboración en startups tecnológicas. Conforme avanzamos hacia las fases finales del proyecto, se establece un plan de tracking integral que permita evaluar objetivamente el impacto de las mejoras implementadas y guiar la evolución continua del producto.
+
+**Fases del Monitoreo:**
+
+#### 1. Implementación Inicial
+
+En esta primera etapa, el foco está en el despliegue de nuevas funcionalidades y la recopilación de datos para establecer una línea base de uso y satisfacción.
+
+- **Recopilación de Datos Iniciales:**
+  - **Métricas de Uso:** Registro del número de usuarios activos, frecuencia de acceso, duración de sesiones y uso de funcionalidades principales como gestión de Sprints, User Stories y reportes.
+  - **Interacciones del Usuario:** Seguimiento de acciones relevantes como creación y edición de tareas, interacción con el timeline, descarga de reportes y participación en canales de comunicación internos.
+  - **Feedback Cualitativo:** Uso de encuestas integradas y herramientas de retroalimentación para recoger opiniones sobre la usabilidad y utilidad de las nuevas características.
+
+- **Análisis Comparativo:**
+  - Comparación de los datos obtenidos tras la implementación con las métricas históricas, para evaluar el impacto inmediato de las actualizaciones en el comportamiento y satisfacción de los usuarios.
+
+#### 2. Seguimiento Continuo
+
+Después de la fase inicial, se implementa un monitoreo permanente para identificar oportunidades de mejora y ajustar la plataforma según la evolución del uso real.
+
+- **Monitoreo en Tiempo Real:**
+  - Herramientas de análisis web y mobile permitirán visualizar en tiempo real el comportamiento de los usuarios, identificando tendencias, funcionalidades más utilizadas y posibles fricciones en la navegación.
+  - **Segmentación de Usuarios:** El análisis se realiza por tipo de usuario (Product Owner, Scrum Master, desarrollador, etc.) para personalizar la experiencia y comprender mejor las necesidades de cada perfil.
+  - **Tasa de Retención y Engagement:** Se mide la retención de usuarios y la reincidencia en el uso de funcionalidades clave, así como la participación en dinámicas colaborativas.
+
+- **Evaluación y Mejoras Iterativas:**
+  - **Informes Periódicos:** Elaboración de reportes mensuales con indicadores clave y recomendaciones basadas en los datos obtenidos.
+  - **Iteración Basada en Datos:** Ajustes continuos en la plataforma, priorizando mejoras sugeridas por los propios usuarios y validando su impacto en nuevas iteraciones, asegurando que Managewise evolucione conforme a las expectativas y requerimientos del mercado objetivo.
+
+Este plan de seguimiento integral garantiza que **Managewise** evolucione de manera sustentada, permitiendo tomar decisiones fundamentadas en datos para optimizar la experiencia de usuario y el rendimiento funcional, asegurando así el crecimiento y posicionamiento de la plataforma en el sector de las startups tecnológicas.
 
 ### Conclusiones
 
@@ -3402,6 +3479,9 @@ Las decisiones sobre la recolección de datos se basarán en un tamaño de muest
 
 - **Nelson Elías Serrano Ircañaupa**:<br>
   Durante la fase final del proyecto Managewise, consolidé la funcionalidad del backend, garantizando la correcta integración entre los módulos clave, como la gestión de User Stories y Sprints. Este proceso permitió optimizar el rendimiento del sistema y asegurar la fiabilidad de las operaciones críticas. Además, se implementaron ajustes finales para mejorar la experiencia de usuario, como la generación de reportes personalizables y la optimización de consultas para datos complejos. Este proyecto reforzó la importancia de la colaboración efectiva entre el equipo técnico y la visión estratégica, asegurando la entrega de una solución robusta y adaptada a las necesidades del mercado.
+
+- **Josue Omar Hidalgo Bustamante**:<br>
+  El desarrollo de Managewise fue una experiencia formativa que permitió al equipo aplicar y fortalecer habilidades en distintas áreas de la ingeniería de software. A lo largo del proyecto, se combinaron metodologías ágiles, tecnologías avanzadas y prácticas de gestión colaborativa para diseñar una solución innovadora enfocada en la eficiencia y adaptabilidad de las startups tecnológicas. La integración efectiva entre frontend y backend, la importancia de la visualización interactiva y la capacidad de respuesta ante las necesidades del usuario final demostraron que la colaboración multidisciplinaria y la constante búsqueda de mejora son claves para entregar productos de alta calidad y valor en mercados competitivos. Managewise es el resultado del compromiso y aprendizaje de cada integrante, reflejando el potencial de un trabajo en equipo bien dirigido y orientado a resultados.
 
 ### Bibliografia
 
