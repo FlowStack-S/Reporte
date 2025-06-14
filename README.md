@@ -2764,10 +2764,27 @@ Routing end to end test
 ### 6.2.1. Static Code Analysis
 
 #### 6.2.1.1. Coding Standard & Code Conventions
+Para asegurar la mantenibilidad del código seguimos las guías descritas en la
+sección [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions).
+Se emplean **camelCase** para variables y funciones y **PascalCase** para clases e
+interfaces, mientras que en las hojas de estilo se adoptan convenciones BEM para
+favorecer la legibilidad. Además, se mantiene una indentación consistente y se
+documentan las partes complejas mediante comentarios claros.
 
 #### 6.2.1.2. Code Quality & Code Security
+Nuestro flujo de integración continua ejecuta pruebas y compilaciones mediante
+**GitHub Actions**, lo que permite detectar fallos tempranamente. El uso de
+TypeScript ayuda a encontrar errores en tiempo de compilación y, en el backend,
+JUnit junto con Mockito valida los componentes Java. Para prevenir vulnerabilidades
+en dependencias se realizan escaneos automáticos con herramientas como **Snyk** o
+**Dependabot** antes de cada despliegue【cc6cd0†L25-L26】.
 
 ### 6.2.2. Reviews
+El repositorio de GitHub se gestiona con _Pull Requests_, facilitando las
+revisiones de código colaborativas. Cada cambio es evaluado por otro miembro del
+equipo antes de integrarse en la rama principal, asegurando un control de calidad
+constante【3f0cda†L9-L14】【a20ff4†L1-L18】.
+
 
 ## 6.3. Validation Interviews
 
