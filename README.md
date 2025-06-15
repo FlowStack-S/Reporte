@@ -2769,27 +2769,53 @@ Routing end to end test
 ### 6.2.1. Static Code Analysis
 
 #### 6.2.1.1. Coding Standard & Code Conventions
+El equipo debe asegurarse de que el código cumpla con los estándares de codificación definidos para el lenguaje o framework utilizado, en este caso Spring Boot. Además, el desarrollo sigue el enfoque Domain-Driven Design (DDD), lo que implica una estructuración del código orientada a dominios y contextos delimitados. SonarQube es la herramienta utilizada para garantizar que el código cumpla con las convenciones de codificación y las mejores prácticas en términos de:
+
+Legibilidad del código, incluyendo reglas sobre la indentación y la nomenclatura de variables.
+Consistencia en la aplicación de patrones de diseño y arquitectura dentro del enfoque DDD, garantizando que los conceptos del dominio estén reflejados correctamente.
+
+SonarQube permite la configuración de reglas específicas para Java, el lenguaje utilizado en Spring Boot, y también soporta convenciones personalizadas para asegurar que el código cumpla con los principios del enfoque DDD. Esto incluye la organización adecuada de las clases y los paquetes según los contextos delimitados y las entidades de dominio.
 Para asegurar la mantenibilidad del código seguimos las guías descritas en la
-sección [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions).
+sección (#513-source-code-style-guide--conventions).
 Se emplean **camelCase** para variables y funciones y **PascalCase** para clases e
 interfaces, mientras que en las hojas de estilo se adoptan convenciones BEM para
 favorecer la legibilidad. Además, se mantiene una indentación consistente y se
 documentan las partes complejas mediante comentarios claros.
+
 
 #### 6.2.1.2. Code Quality & Code Security
 Nuestro flujo de integración continua ejecuta pruebas y compilaciones mediante
 **GitHub Actions**, lo que permite detectar fallos tempranamente. El uso de
 TypeScript ayuda a encontrar errores en tiempo de compilación y, en el backend,
 JUnit junto con Mockito valida los componentes Java. Para prevenir vulnerabilidades
-en dependencias se realizan escaneos automáticos con herramientas como **Snyk** o
-**Dependabot** antes de cada despliegue【cc6cd0†L25-L26】.
+en dependencias se realizan escaneos automáticos con herramientas como **SonarQube**.
+
+SonarQube nos genera informes detallados sobre vulnerabilidades en los escaneos automáticos, lo que ayuda a mitigar los riesgos de seguridad antes de que el código se despliegue a producción. En el contexto de DDD, garantizar la seguridad en cada contexto delimitado es esencial para evitar brechas de seguridad en el dominio.
+En las siguiente imagenes se muestran el proceso para lograr esto empleando la herramienta mencionada, SonarQube:
+
+![image](https://github.com/user-attachments/assets/0cd278e7-d344-4697-999a-783c3a14cec1)
+Primero creamos un proyecto una vez nos hayamos registrado en SonarQube.
+
+![image](https://github.com/user-attachments/assets/2aedc74f-a02a-499d-922b-54f4727657d5)
+Luego nos generará un token que nos permite realizar una autenticación correcta con la herramienta y generar el reporte. 
+
+![image](https://github.com/user-attachments/assets/4cca9fbe-d9c3-4743-8ad0-ec2aeba6235d)
+La plataforma nos pedirá que ingresemos una guía de comandos dentro de la raíz del proyecto de nuestro backend para que analice todo el código y genere el informe de las vulnerabilidades y seguridad. 
+
+![image](https://github.com/user-attachments/assets/ad3264eb-d52f-4576-9f87-4b7c2fdbf69d)
+Una vez logrado, regresamos a la plataforma y el reporte estaría hecho. En este se logra comprobar que de modo general el backend logra satisfacer la seguridad y mantenibilidad, por lo cual indica el correcto funcionamiento del mismo ya que no presenta indicios de peligros futuros. Por ello, cumplimos con los criterios de mantenibilidad, que es fundamental para que el código pueda seguir mejorando en el futuro y en la seguridad general del mismo, que muestra una base que cumple con lo solicitado. Sin embargo en el apartado de Reliability y SecurityHotspots se encontraron líneas de códigos que deben mejorarse para mitigar algunos posibles riesgos futuros, algo que ya se está trabajando para futuros sprints.
+
+En resumen, nuestro proyecto backend superó lo indicado en SonarQube pero se deben seguir realizando mejoras de seguridad para mantener una base sólida que cumpla con los requerimientos necesarios y mantener la calidad en el código.
+
 
 ### 6.2.2. Reviews
 El repositorio de GitHub se gestiona con _Pull Requests_, facilitando las
 revisiones de código colaborativas. Cada cambio es evaluado por otro miembro del
 equipo antes de integrarse en la rama principal, asegurando un control de calidad
-constante【3f0cda†L9-L14】【a20ff4†L1-L18】.
+constante.
+Además, utilizando SonarQube como herramienta de soporte, el equipo revisa los informes generados sobre el estado del código, identificando áreas de mejora. Las revisiones de código se realizan manualmente, pero también se aprovechan las herramientas de control de versiones como Git y plataformas como GitHub o GitLab, que facilitan la colaboración y discusión sobre el código.
 
+Dado que el backend está desarrollado siguiendo el enfoque Domain-Driven Design (DDD), las revisiones de código también se centran en la correcta implementación de los contextos delimitados y las entidades de dominio, asegurando que el código refleje fielmente el modelo de dominio y que no haya violaciones de los principios de DDD, como la alta cohesión y el bajo acoplamiento.
 
 ## 6.3. Validation Interviews
 
