@@ -2944,6 +2944,27 @@ Estas entrevistas tienen como objetivo validar las funcionalidades y caracterís
    **Resumen:**  
    La entrevista con Nora reveló aspectos importantes sobre la gestión y flujo de trabajo. Se destacó que el trabajo en equipo es fundamental para el éxito de un proyecto, y que contar con herramientas de gestión efectivas es crucial para mantener la coordinación y el progreso del equipo.
 
+4. **Entrevista 4:**  
+   - **Datos del entrevistado:**  
+     Nombre: Gracia  
+     Apellidos: Pinillos Nepochathy  
+     Edad: 28  
+     Distrito: *(no especificado)*
+
+   ![Entrevista Gracia](assets/entrevista4.png)  
+   **URL**: [Link de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119880_upc_edu_pe/EZiSbl28k99Nl6W277eJmaEBlBfSveXZV83ncZ0LYZAMfg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ftst3H)  
+   **Inicio**: 0:00  
+   **Duración**: 7:00
+
+   **Resumen:**  
+   En esta entrevista, Gracia Pinillos, profesional de 28 años, compartió su experiencia usando ScrumFlow como herramienta de gestión ágil. Resaltó que la plataforma facilita la organización de tareas, la planificación de sprints y el seguimiento diario del equipo. Opinó que la interfaz es intuitiva, aunque sugirió mejoras en la agrupación de funciones. Mencionó algunos problemas menores, como lentitud al cargar datos y dificultades desde dispositivos móviles. Propuso funciones adicionales como integración con OKRs, alertas automáticas y dashboards más personalizables. Valoró positivamente las funcionalidades de colaboración, pero recomendó una mejor integración con canales como Slack. Finalmente, consideró que ScrumFlow es recomendable para empresas en crecimiento, siempre que se apliquen ciertos ajustes para optimizar su desempeño.
+
+
+**Resumen:**  
+En esta entrevista, Carlos Salinas, gerente de una empresa de desarrollo de software en crecimiento, relata su experiencia usando ScrumFlow como herramienta para la gestión de proyectos ágiles. Destaca que la plataforma facilita la organización de tareas, la planificación de sprints y la coordinación diaria del equipo mediante su tablero Kanban. Considera que la interfaz es bastante intuitiva, aunque con margen de mejora en la agrupación de funciones. Menciona algunos problemas técnicos menores relacionados con la carga de datos y la edición desde dispositivos móviles. Sugiere incorporar funciones como seguimiento de OKRs, alertas automatizadas y dashboards personalizables. Valora positivamente la seguridad y las funcionalidades de colaboración, aunque plantea integrar ScrumFlow con canales externos como Slack. Finalmente, recomienda la herramienta a otros líderes de desarrollo por su utilidad en contextos de empresas medianas y su capacidad de adaptación al trabajo ágil, proponiendo solo algunos ajustes para maximizar su eficiencia.
+
+
+
 #### **Segmento 2: Equipo de Desarrollo de Software**
 
 1. **Entrevista 1:**  
