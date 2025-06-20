@@ -3036,7 +3036,7 @@ La auditoría fue realizada al grupo 1 - RoomWise
       </td>
       <td>12/06/2025</td>
       <td>14/06/2025</td>
-      <td> Samira Jetzabel </td>
+      <td> Omar Morales </td>
     </tr>
     <tr>
       <td>Planificación</td>
@@ -3049,7 +3049,7 @@ La auditoría fue realizada al grupo 1 - RoomWise
       </td>
       <td>15/06/2025</td>
       <td>16/06/2025</td>
-      <td> Samira Jetzabel </td>
+      <td> Omar Morales </td>
     </tr>
     <tr>
       <td>Ejecución</td>
@@ -3063,7 +3063,7 @@ La auditoría fue realizada al grupo 1 - RoomWise
       </td>
       <td>17/06/2025</td>
       <td>17/06/2025</td>
-      <td> Samira Jetzabel </td>
+      <td> Omar Morales </td>
     </tr>
     <tr>
       <td>Reporte</td>
@@ -3076,12 +3076,115 @@ La auditoría fue realizada al grupo 1 - RoomWise
       </td>
       <td>19/06/2025</td>
       <td>19/06/2025</td>
-      <td> Samira Jetzabel </td>
+      <td> Omar Morales </td>
     </tr>
   </tbody>
 </table>
 
 #### 6.4.1.3. Contenido de Auditoría Realizada
+**TAREAS A EVALUAR**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+- Navegación en la interfaz
+- Accesibilidad general
+- Funcionalidad de agregar habitaciones
+
+<br>
+
+**ESCALA DE SEVERIDAD**
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1 | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: ocurre con mayor frecuencia o es un poco más difícil de superar para el usuario. Prioridad baja para su corrección. |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Prioridad alta para su corrección. |
+| 4 | Problema muy grave: error de gran impacto que impide al usuario continuar. Debe ser corregido antes del lanzamiento. |
+
+<br></br>
+
+**TABLA RESUMEN**
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Problema</th>
+      <th>Escala de severidad</th>
+      <th>Heurística/Principio violado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>No se puede adjuntar más de una imagen por local</td>
+      <td>3</td>
+      <td>Usability: Flexibilidad y eficiencia de uso</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>No hay opción de tema claro/oscuro</td>
+      <td>2</td>
+      <td>Usability: Preferencias del usuario</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>No hay forma de contactar al soporte desde la app</td>
+      <td>3</td>
+      <td>Usability: Ayuda y documentación</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Textos pequeños en dispositivos móviles</td>
+      <td>2</td>
+      <td>Inclusive Design: Accesibilidad visual</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Botón "Buscar" se confunde con "Publicar"</td>
+      <td>2</td>
+      <td>Usability: Consistencia y estándares</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Falta de feedback al enviar un formulario</td>
+      <td>2</td>
+      <td>Usability: Visibilidad del estado del sistema</td>
+    </tr>
+  </tbody>
+</table>
+
+
+---
+
+## **DESCRIPCIÓN DE PROBLEMAS**
+
+### **PROBLEMA #1: No se puede adjuntar más de una imagen por local**
+- **Severidad:** 3  
+- **Heurística violada:** Usability – Flexibilidad y eficiencia de uso  
+- **Problema:**  
+  El sistema permite subir únicamente una imagen por local, limitando la información visual que se puede proporcionar al usuario interesado. Esto afecta negativamente la experiencia de exploración de los espacios.  
+  <img src="./Resources/Chapter VI/Problema1.png">
+
+- **Recomendación:**  
+  Permitir adjuntar múltiples imágenes por local, con una interfaz que permita visualizarlas en carrusel o miniaturas.
+
+---
+
+### **PROBLEMA #2: No hay opción de tema claro/oscuro**
+- **Severidad:** 2  
+- **Heurística violada:** Usability – Preferencias del usuario  
+- **Problema:**  
+  La aplicación no cuenta con opción de personalización visual, como el modo claro y oscuro, lo cual limita la comodidad visual según preferencias o condiciones de iluminación.  
+  <img src="./Resources/Chapter VI/Problema2.png">
+
+- **Recomendación:**  
+  Implementar un selector de tema para que el usuario elija entre modo claro, oscuro o automático según el sistema operativo.
+
+---
+
+
+---
 
 ### 6.4.2. Auditoría Recibida
 
