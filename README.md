@@ -3018,8 +3018,6 @@ En esta entrevista, Carlos Salinas, gerente de una empresa de desarrollo de soft
 
 ### 6.4.1. Auditoría Realizada
 
-
-
 #### 6.4.1.1. Información del Grupo Auditado
 La auditoría fue realizada al grupo 1 - RoomWise
 
@@ -3168,7 +3166,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Heurística violada:** Consistencia y estándares  
 - **Problema:**  
   Actualmente, los owners deben escribir el aforo manualmente en la descripción, lo que genera inconsistencia en el formato. Dificulta la validación automática y rompe con los estándares de plataformas similares.  
-  <img src="./Resources/Chapter VI/Problema1.png">
+  <img src="./assets/heuristica-recibida-1.png">
 
 - **Recomendación:**  
   Añadir un campo numérico obligatorio etiquetado como "Aforo máximo".
@@ -3180,7 +3178,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Heurística violada:** Control y libertad del uso  
 - **Problema:**  
   Solo existe un botón que regresa a la pantalla principal, lo que obliga al usuario a perder el contexto de su flujo de trabajo (ej: si estaba editando múltiples habitaciones) y navegar manualmente desde el inicio para continuar tareas relacionadas, aumentando la fricción.  
-  <img src="./Resources/Chapter VI/Problema2.png">
+  <img src="./assets/heuristica-recibida-2.png">
 
 - **Recomendación:**  
   Incluir un botón para regresar a la pantalla anterior a "Agregar".
@@ -3192,6 +3190,8 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 
 - **Problema:** 
   El mensaje de error muestra códigos técnicos irrelevantes para el usuario final. Además, no indica claramente qué campo falló ni cómo corregirlo.
+  
+<img src="./assets/heuristica-recibida-3.png">
 
 - **Recomendación:**
   Mostrar un mensaje simple y entendible para el usuario
@@ -3350,7 +3350,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:**  
   Actualmente, cuando los usuarios acceden a una ruta incorrecta o inexistente, el sistema no redirige a una página de error personalizada. Esto puede causar confusión, sensación de fallo y una experiencia poco profesional
 
-  <img src="./Resources/Chapter VI/Problema1.png">
+  <img src="./assets/heuristica-recibida-4.png">
 
 - **Recomendación:**  
   Implementar una ruta base de tipo catch-all (*) que redirija a una página de error 404 informativa. Esta debe incluir un mensaje claro, un botón para volver al inicio y mantener el diseño visual de la plataforma.
@@ -3362,7 +3362,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Heurística violada:** Control y libertad del usuario  
 - **Problema:**  
   Actualmente, al hacer clic en el logo de la plataforma, no se realiza ninguna acción o no se redirige al usuario a la página principal. Esto va en contra del comportamiento esperado por los estándares de usabilidad web, donde el logo funciona como un acceso rápido a la pantalla de inicio.  
-  <img src="./Resources/Chapter VI/Problema2.png">
+  <img src="./assets/heuristica-recibida-5.png">
 
 - **Recomendación:**  
   Habilitar el logo como un enlace interactivo que redirija automáticamente al usuario a la página principal del sistema o al dashboard correspondiente según su rol.
@@ -3375,11 +3375,23 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Problema:** 
   Actualmente, al intentar agregar un nuevo miembro, el sistema no indica la causa del error. Esto incluye situaciones como campos inválidos, usuario ya existente o fallos de red. La falta de retroalimentación clara impide que el usuario entienda qué debe corregir y dificulta completar la acción.
 
+<img src="./assets/heuristica-recibida-6.png">
+
 - **Recomendación:**
  Implementar validaciones visibles tanto en el frontend como en el backend. Mostrar mensajes de error específicos como “El correo ya está registrado” o “Debe completar todos los campos obligatorios” para guiar al usuario de forma efectiva durante el proceso.
 ---
 
+### **PROBLEMA #4: No existe una opción para editar un sprint existente**
+- **Severidad:** 3
+- **Heurísitca violada:** Flexibilidad y eficiencia de uso.
 
+- **Problema:** 
+  Actualmente, una vez creado un sprint, no se ofrece ninguna opción en la interfaz para modificar su información (como nombre, fechas o tareas asociadas). Esto limita la capacidad del usuario para corregir errores o ajustar la planificación, lo cual es común en entornos ágiles.
+<img src="./assets/heuristica-recibida-7.png">
+- **Recomendación:**
+ Añadir una funcionalidad que permita editar los detalles del sprint. Esta opción debe ser fácilmente accesible desde la vista de resumen del sprint o en su detalle, permitiendo actualizar campos relevantes sin necesidad de eliminar y volver a crear el sprint.
+
+---
 #### 6.4.2.4. Resumen de Modificaciones para Subsanar Hallazgos
 
 ## Capítulo VII: DevOps Practices
