@@ -3138,40 +3138,23 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
   <tbody>
     <tr>
       <td>1</td>
-      <td>No se puede adjuntar más de una imagen por local</td>
-      <td>3</td>
-      <td>Usability: Flexibilidad y eficiencia de uso</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>No hay opción de tema claro/oscuro</td>
-      <td>2</td>
-      <td>Usability: Preferencias del usuario</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>No hay forma de contactar al soporte desde la app</td>
-      <td>3</td>
-      <td>Usability: Ayuda y documentación</td>
-    </tr>
-    <tr>
+      <td>El aforo de las habitaciones no tiene un campo dedicado y se oculta en la descripción</td>
       <td>4</td>
-      <td>Textos pequeños en dispositivos móviles</td>
-      <td>2</td>
-      <td>Inclusive Design: Accesibilidad visual</td>
+      <td>Consistencia y estándares</td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>Botón "Buscar" se confunde con "Publicar"</td>
       <td>2</td>
-      <td>Usability: Consistencia y estándares</td>
+      <td>Falta un botón específico para regresar a la vista anterior en "Agregar” </td>
+      <td>3</td>
+      <td>Control y libertad del usuario</td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>Falta de feedback al enviar un formulario</td>
-      <td>2</td>
-      <td>Usability: Visibilidad del estado del sistema</td>
+      <td>3</td>
+      <td>Mensaje de error confuso al crear un trabajador</td>
+      <td>3</td>
+      <td>Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores </td>
     </tr>
+    
   </tbody>
 </table>
 
