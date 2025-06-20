@@ -2997,9 +2997,89 @@ Estas entrevistas tienen como objetivo validar las funcionalidades y caracterís
 
 ### 6.4.1. Auditoría Realizada
 
+
+
 #### 6.4.1.1. Información del Grupo Auditado
+La auditoría fue realizada al grupo 1 - RoomWise
+
+<div align="center">
+
+|               Member                   |    Code    |
+| :---------------------------------:    | :--------: |
+| Escobar Palomino ,Sebastian Matias     | u202125968 |
+| Morales Montalvo,Omar Andrew           | u202212383 |
+| Gutierrez Tume , Stanley Jeremy        | u202118152 |
+| Salgado Luna, Fernando Brian           | u202212023 |
+| Antonio Loayza, Luiggi Jeremy          | u202011431 |
+</div>
 
 #### 6.4.1.2. Cronograma de Auditoría Realizada
+<table class="cronograma-auditoria">
+  <thead>
+    <tr>
+      <th>Fase</th>
+      <th>Actividades</th>
+      <th>Fecha Inicio</th>
+      <th>Fecha Fin</th>
+      <th>Responsable</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Recepción</td>
+      <td>
+        <ul>
+          <li>Solicitud formal de auditoría</li>
+          <li>Recopilación de documentación</li>
+          <li>Acceso a sistemas/producto</li>
+        </ul>
+      </td>
+      <td>12/06/2025</td>
+      <td>14/06/2025</td>
+      <td> Samira Jetzabel </td>
+    </tr>
+    <tr>
+      <td>Planificación</td>
+      <td>
+        <ul>
+          <li>Revisión de requisitos</li>
+          <li>Definición de heurísticas</li>
+          <li>Elaboración de checklist</li>
+        </ul>
+      </td>
+      <td>15/06/2025</td>
+      <td>16/06/2025</td>
+      <td> Samira Jetzabel </td>
+    </tr>
+    <tr>
+      <td>Ejecución</td>
+      <td>
+        <ul>
+          <li>Evaluación heurística</li>
+          <li>Pruebas de usabilidad</li>
+          <li>Análisis de accesibilidad</li>
+          <li>Registro de os</li>
+        </ul>
+      </td>
+      <td>17/06/2025</td>
+      <td>17/06/2025</td>
+      <td> Samira Jetzabel </td>
+    </tr>
+    <tr>
+      <td>Reporte</td>
+      <td>
+        <ul>
+          <li>Redacción de informe</li>
+          <li>Diseño de recomendaciones</li>
+          <li>Revisión final</li>
+        </ul>
+      </td>
+      <td>19/06/2025</td>
+      <td>19/06/2025</td>
+      <td> Samira Jetzabel </td>
+    </tr>
+  </tbody>
+</table>
 
 #### 6.4.1.3. Contenido de Auditoría Realizada
 
