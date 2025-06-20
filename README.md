@@ -3163,40 +3163,222 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 
 ## **DESCRIPCIÓN DE PROBLEMAS**
 
-### **PROBLEMA #1: No se puede adjuntar más de una imagen por local**
-- **Severidad:** 3  
-- **Heurística violada:** Usability – Flexibilidad y eficiencia de uso  
+### **PROBLEMA #1: El aforo de las habitaciones no tiene un campo dedicado y se oculta en la descripción**
+- **Severidad:** 4
+- **Heurística violada:** Consistencia y estándares  
 - **Problema:**  
-  El sistema permite subir únicamente una imagen por local, limitando la información visual que se puede proporcionar al usuario interesado. Esto afecta negativamente la experiencia de exploración de los espacios.  
+  Actualmente, los owners deben escribir el aforo manualmente en la descripción, lo que genera inconsistencia en el formato. Dificulta la validación automática y rompe con los estándares de plataformas similares.  
   <img src="./Resources/Chapter VI/Problema1.png">
 
 - **Recomendación:**  
-  Permitir adjuntar múltiples imágenes por local, con una interfaz que permita visualizarlas en carrusel o miniaturas.
+  Añadir un campo numérico obligatorio etiquetado como "Aforo máximo".
 
 ---
 
-### **PROBLEMA #2: No hay opción de tema claro/oscuro**
-- **Severidad:** 2  
-- **Heurística violada:** Usability – Preferencias del usuario  
+### **PROBLEMA #2: Falta un botón específico para regresar a la vista anterior en "Agregar"**
+- **Severidad:** 4  
+- **Heurística violada:** Control y libertad del uso  
 - **Problema:**  
-  La aplicación no cuenta con opción de personalización visual, como el modo claro y oscuro, lo cual limita la comodidad visual según preferencias o condiciones de iluminación.  
+  Solo existe un botón que regresa a la pantalla principal, lo que obliga al usuario a perder el contexto de su flujo de trabajo (ej: si estaba editando múltiples habitaciones) y navegar manualmente desde el inicio para continuar tareas relacionadas, aumentando la fricción.  
   <img src="./Resources/Chapter VI/Problema2.png">
 
 - **Recomendación:**  
-  Implementar un selector de tema para que el usuario elija entre modo claro, oscuro o automático según el sistema operativo.
+  Incluir un botón para regresar a la pantalla anterior a "Agregar".
 
 ---
+### **PROBLEMA #3: mensaje de error confuso al crear un trabajador**
+- **Severidad:** 4
+- **Heurísitca violada:** Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores
 
+- **Problema:** 
+  El mensaje de error muestra códigos técnicos irrelevantes para el usuario final. Además, no indica claramente qué campo falló ni cómo corregirlo.
 
+- **Recomendación:**
+  Mostrar un mensaje simple y entendible para el usuario
 ---
 
 ### 6.4.2. Auditoría Recibida
 
 #### 6.4.2.1. Información del Grupo Auditor
+La auditoría fue realizada por el grupo 1 - RoomWise
+
+<div align="center">
+
+|               Member                   |    Code    |
+| :---------------------------------:    | :--------: |
+| Escobar Palomino ,Sebastian Matias     | u202125968 |
+| Morales Montalvo,Omar Andrew           | u202212383 |
+| Gutierrez Tume , Stanley Jeremy        | u202118152 |
+| Salgado Luna, Fernando Brian           | u202212023 |
+| Antonio Loayza, Luiggi Jeremy          | u202011431 |
+</div>
 
 #### 6.4.2.2. Cronograma de Auditoría Recibida
 
+<table class="cronograma-auditoria">
+  <thead>
+    <tr>
+      <th>Fase</th>
+      <th>Actividades</th>
+      <th>Fecha Inicio</th>
+      <th>Fecha Fin</th>
+      <th>Responsable</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Recepción</td>
+      <td>
+        <ul>
+          <li>Solicitud formal de auditoría</li>
+          <li>Recopilación de documentación</li>
+          <li>Acceso a sistemas/producto</li>
+        </ul>
+      </td>
+      <td>12/06/2025</td>
+      <td>14/06/2025</td>
+      <td> Omar Morales </td>
+    </tr>
+    <tr>
+      <td>Planificación</td>
+      <td>
+        <ul>
+          <li>Revisión de requisitos</li>
+          <li>Definición de heurísticas</li>
+          <li>Elaboración de checklist</li>
+        </ul>
+      </td>
+      <td>15/06/2025</td>
+      <td>16/06/2025</td>
+      <td> Omar Morales </td>
+    </tr>
+    <tr>
+      <td>Ejecución</td>
+      <td>
+        <ul>
+          <li>Evaluación heurística</li>
+          <li>Pruebas de usabilidad</li>
+          <li>Análisis de accesibilidad</li>
+          <li>Registro de os</li>
+        </ul>
+      </td>
+      <td>17/06/2025</td>
+      <td>17/06/2025</td>
+      <td> Omar Morales </td>
+    </tr>
+    <tr>
+      <td>Reporte</td>
+      <td>
+        <ul>
+          <li>Redacción de informe</li>
+          <li>Diseño de recomendaciones</li>
+          <li>Revisión final</li>
+        </ul>
+      </td>
+      <td>19/06/2025</td>
+      <td>19/06/2025</td>
+      <td> Omar Morales </td>
+    </tr>
+  </tbody>
+</table>
+
 #### 6.4.2.3. Contenido de Auditoría Recibida
+
+**TAREAS A EVALUAR**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+- Navegación en la interfaz
+- Accesibilidad general
+- Funcionalidad de agregar habitaciones
+
+<br>
+
+**ESCALA DE SEVERIDAD**
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1 | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: ocurre con mayor frecuencia o es un poco más difícil de superar para el usuario. Prioridad baja para su corrección. |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Prioridad alta para su corrección. |
+| 4 | Problema muy grave: error de gran impacto que impide al usuario continuar. Debe ser corregido antes del lanzamiento. |
+
+<br></br>
+
+**TABLA RESUMEN**
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Problema</th>
+      <th>Escala de severidad</th>
+      <th>Heurística/Principio violado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>El aforo de las habitaciones no tiene un campo dedicado y se oculta en la descripción</td>
+      <td>4</td>
+      <td>Consistencia y estándares</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Falta un botón específico para regresar a la vista anterior en "Agregar” </td>
+      <td>3</td>
+      <td>Control y libertad del usuario</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Mensaje de error confuso al crear un trabajador</td>
+      <td>3</td>
+      <td>Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores </td>
+    </tr>
+    
+  </tbody>
+</table>
+
+
+---
+
+## **DESCRIPCIÓN DE PROBLEMAS**
+
+### **PROBLEMA #1: No hay una ruta base para manejar páginas no encontradas**
+- **Severidad:** 4
+- **Heurística violada:** Prevención de errores y ayuda al usuario  
+- **Problema:**  
+  Actualmente, cuando los usuarios acceden a una ruta incorrecta o inexistente, el sistema no redirige a una página de error personalizada. Esto puede causar confusión, sensación de fallo y una experiencia poco profesional
+
+  <img src="./Resources/Chapter VI/Problema1.png">
+
+- **Recomendación:**  
+  Implementar una ruta base de tipo catch-all (*) que redirija a una página de error 404 informativa. Esta debe incluir un mensaje claro, un botón para volver al inicio y mantener el diseño visual de la plataforma.
+
+---
+
+### **PROBLEMA #2: El logo no redirige a la página principal**
+- **Severidad:** 4  
+- **Heurística violada:** Control y libertad del usuario  
+- **Problema:**  
+  Actualmente, al hacer clic en el logo de la plataforma, no se realiza ninguna acción o no se redirige al usuario a la página principal. Esto va en contra del comportamiento esperado por los estándares de usabilidad web, donde el logo funciona como un acceso rápido a la pantalla de inicio.  
+  <img src="./Resources/Chapter VI/Problema2.png">
+
+- **Recomendación:**  
+  Habilitar el logo como un enlace interactivo que redirija automáticamente al usuario a la página principal del sistema o al dashboard correspondiente según su rol.
+
+---
+### **PROBLEMA #3: No se muestra el motivo del fallo al agregar un nuevo miembro**
+- **Severidad:** 4
+- **Heurísitca violada:** Diagnóstico y recuperación de errores
+
+- **Problema:** 
+  Actualmente, al intentar agregar un nuevo miembro, el sistema no indica la causa del error. Esto incluye situaciones como campos inválidos, usuario ya existente o fallos de red. La falta de retroalimentación clara impide que el usuario entienda qué debe corregir y dificulta completar la acción.
+
+- **Recomendación:**
+ Implementar validaciones visibles tanto en el frontend como en el backend. Mostrar mensajes de error específicos como “El correo ya está registrado” o “Debe completar todos los campos obligatorios” para guiar al usuario de forma efectiva durante el proceso.
+---
+
 
 #### 6.4.2.4. Resumen de Modificaciones para Subsanar Hallazgos
 
