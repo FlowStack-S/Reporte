@@ -3014,6 +3014,104 @@ En esta entrevista, Carlos Salinas, gerente de una empresa de desarrollo de soft
 
 ### 6.3.3. Evaluaciones según heurísticas
 
+# Evaluación Heurística: ScrumFlow
+
+## 1. Consistencia y estándares
+**Descripción:**  
+La interfaz debe mantener patrones uniformes en diseño y flujos de trabajo.
+
+**Hallazgos:**  
+- Navegación intuitiva en funciones principales (épicas/sprints)  
+- Agrupación inconsistente de funciones (ej. roles en agregar miembros)
+
+**Evidencia:**  
+> *"La interfaz es clara, pero al agregar miembros, los roles no están bien organizados"* (Cristian)
+
+**Severidad:**  **2 (Moderado)**  
+**Recomendaciones:**  
+- Estandarizar selección de roles con menús desplegables  
+- Definir guía de estilo para jerarquía visual  
+
+---
+
+## 2. Control y libertad del usuario
+**Descripción:**  
+Flexibilidad para personalizar y corregir acciones.
+
+**Hallazgos:**  
+- Gestión adaptable de tareas  
+- Limitaciones en móviles y falta de integraciones
+
+**Evidencia:**  
+> *"Desde el móvil, editar tareas es lento y complicado"* (Gracia)
+
+**Severidad:**  **3 (Alto)**  
+**Recomendaciones:**  
+- Optimizar formularios para móviles  
+- Añadir integración con Slack/Google Calendar  
+
+---
+
+## 3. Prevención de errores
+**Descripción:**  
+Minimizar errores con validaciones y feedback.
+
+**Hallazgos:**  
+- Validación de fechas en user stories  
+- Errores al asignar roles o cargar datos
+
+**Evidencia:**  
+> *"La lentitud al cargar provoca clicks accidentales"* (Gracia)
+
+**Severidad:**  **2 (Moderado)**  
+**Recomendaciones:**  
+- Bloquer botones durante carga  
+- Mensajes de error específicos  
+
+---
+
+## 4. Flexibilidad y eficiencia
+**Descripción:**  
+Atajos para usuarios avanzados y personalización.
+
+**Hallazgos:**  
+- Creación rápida de reuniones  
+- Dashboards no personalizables
+
+**Evidencia:**  
+> *"Quisiera dashboards adaptables para mi equipo"* (Carlos)
+
+**Severidad:** ⚠️ **2 (Moderado)**  
+**Recomendaciones:**  
+- Widgets personalizables  
+- Atajos de teclado (ej. `Ctrl + N` para nuevas tareas)  
+
+---
+
+## 5. Diseño estético y minimalista
+**Descripción:**  
+Mostrar solo información relevante.
+
+**Hallazgos:**  
+- Interfaz limpia  
+- Funciones redundantes en algunos módulos
+
+**Severidad:**  **1 (Bajo)**  
+**Recomendaciones:**  
+- Eliminar elementos duplicados  
+- Usar pestañas para funciones secundarias  
+
+---
+
+### Resumen de priorización
+| Heurística            | Severidad | Recomendación clave           |
+|-----------------------|-----------|-------------------------------|
+| Control y libertad    |    3      | Optimizar experiencia móvil   |
+| Consistencia          |    2      | Menús desplegables para roles |
+| Prevención de errores |    2      | Feedback durante carga        |
+| Flexibilidad          |    2      | Dashboards personalizables    |
+| Diseño minimalista    |    1      | Limpieza de elementos         |
+
 ## 6.4. Auditoría de Experiencias de Usuario
 
 ### 6.4.1. Auditoría Realizada
@@ -3975,3 +4073,5 @@ Anexo J: Video de la Aplicación Web: <br>https://youtu.be/wM0rVK2WHug
 Anexo K: Video de la Aplicación Mobile: <br>https://www.youtube.com/watch?v=FiJWjn0ncqg
 
 Anexo L: Video de la exposición TB1 : <br>https://drive.google.com/file/d/17M1xVG5bLn1T3NyTwSjo50teQEmHA-bd/view?usp=sharing
+
+Anexo M: Video de la exposición TP : <br>
