@@ -3417,21 +3417,27 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
   <tbody>
     <tr>
       <td>1</td>
-      <td>El aforo de las habitaciones no tiene un campo dedicado y se oculta en la descripción</td>
+      <td>No hay una ruta base para manejar páginas no encontradas</td>
       <td>4</td>
-      <td>Consistencia y estándares</td>
+      <td>Prevención de errores y ayuda al usuario</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Falta un botón específico para regresar a la vista anterior en "Agregar” </td>
-      <td>3</td>
+      <td>El logo no redirige a la página principal</td>
+      <td>4</td>
       <td>Control y libertad del usuario</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Mensaje de error confuso al crear un trabajador</td>
+      <td>No se muestra el motivo del fallo al agregar un nuevo miembro</td>
+      <td>4</td>
+      <td>Diagnóstico y recuperación de errores </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td> No existe una opción para editar un sprint existente</td>
       <td>3</td>
-      <td>Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores </td>
+      <td>Flexibilidad y eficiencia de uso</td>
     </tr>
     
   </tbody>
@@ -3491,6 +3497,38 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 
 ---
 #### 6.4.2.4. Resumen de Modificaciones para Subsanar Hallazgos
+
+# Resumen de Modificaciones para Subsanar Hallazgos
+
+ Resumen de Modificaciones Prioritarias
+
+## Problemas Críticos (Severidad 4)
+| # | Problema | Solución Propuesta | Heurística Afectada |
+|---|---------|--------------------|---------------------|
+| 1 | Falta página 404 | Implementar página de error con diseño coherente y botón de retorno | Prevención de errores |
+| 2 | Logo no redirige | Convertir logo en enlace funcional al inicio | Control y libertad |
+| 3 | Errores ambiguos en registro | Mostrar mensajes específicos (ej: "Correo ya existe") | Diagnóstico de errores |
+
+## Problemas Mayores (Severidad 3)
+| # | Problema | Solución Propuesta | Heurística Afectada |
+|---|---------|--------------------|---------------------|
+| 1 | No se puede editar sprints | Añadir opción "Editar" en vista de detalle | Flexibilidad y eficiencia |
+| 2 | Experiencia móvil deficiente | Optimizar formularios para dispositivos móviles | Control y libertad |
+
+## Problemas Moderados (Severidad 2)
+| # | Problema | Solución Propuesta | Heurística Afectada |
+|---|---------|--------------------|---------------------|
+| 1 | Roles mal organizados | Implementar menús desplegables | Consistencia y estándares |
+| 2 | Lentitud en carga | Añecer feedback de carga (spinner) | Prevención de errores |
+| 3 | Dashboards rígidos | Permitir widgets personalizables | Flexibilidad |
+
+## Problemas Menores (Severidad 1)
+| # | Problema | Solución Propuesta | Heurística Afectada |
+|---|---------|--------------------|---------------------|
+| 1 | Funciones redundantes | Eliminar elementos duplicados | Diseño minimalista |
+
+---
+
 
 ## Capítulo VII: DevOps Practices
 
