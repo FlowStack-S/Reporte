@@ -3254,7 +3254,6 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
   </tbody>
 </table>
 
-
 ---
 
 ## **DESCRIPCIÓN DE PROBLEMAS**
@@ -3264,7 +3263,9 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Heurística violada:** Consistencia y estándares  
 - **Problema:**  
   Actualmente, los owners deben escribir el aforo manualmente en la descripción, lo que genera inconsistencia en el formato. Dificulta la validación automática y rompe con los estándares de plataformas similares.  
-  <img src="./assets/heuristica-recibida-1.png">
+  <div style="text-align: center;">
+    <img src="./assets/heuristica-recibida-1.png" alt="Imagen de heurística recibida" />
+  </div>
 
 - **Recomendación:**  
   Añadir un campo numérico obligatorio etiquetado como "Aforo máximo".
@@ -3276,23 +3277,28 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Heurística violada:** Control y libertad del uso  
 - **Problema:**  
   Solo existe un botón que regresa a la pantalla principal, lo que obliga al usuario a perder el contexto de su flujo de trabajo (ej: si estaba editando múltiples habitaciones) y navegar manualmente desde el inicio para continuar tareas relacionadas, aumentando la fricción.  
-  <img src="./assets/heuristica-recibida-2.png">
+  <div style="text-align: center;">
+    <img src="./assets/heuristica-recibida-2.png" alt="Imagen de heurística recibida" />
+  </div>
 
 - **Recomendación:**  
   Incluir un botón para regresar a la pantalla anterior a "Agregar".
 
 ---
+
 ### **PROBLEMA #3: mensaje de error confuso al crear un trabajador**
 - **Severidad:** 4
-- **Heurísitca violada:** Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores
+- **Heurística violada:** Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores
 
-- **Problema:** 
-  El mensaje de error muestra códigos técnicos irrelevantes para el usuario final. Además, no indica claramente qué campo falló ni cómo corregirlo.
-  
-<img src="./assets/heuristica-recibida-3.png">
+- **Problema:**  
+  El mensaje de error muestra códigos técnicos irrelevantes para el usuario final. Además, no indica claramente qué campo falló ni cómo corregirlo.  
+  <div style="text-align: center;">
+    <img src="./assets/heuristica-recibida-3.png" alt="Imagen de heurística recibida" />
+  </div>
 
-- **Recomendación:**
-  Mostrar un mensaje simple y entendible para el usuario
+- **Recomendación:**  
+  Mostrar un mensaje simple y entendible para el usuario.
+
 ---
 
 ### 6.4.2. Auditoría Recibida
@@ -3443,7 +3449,6 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
   </tbody>
 </table>
 
-
 ---
 
 ## **DESCRIPCIÓN DE PROBLEMAS**
@@ -3452,9 +3457,11 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Severidad:** 4
 - **Heurística violada:** Prevención de errores y ayuda al usuario  
 - **Problema:**  
-  Actualmente, cuando los usuarios acceden a una ruta incorrecta o inexistente, el sistema no redirige a una página de error personalizada. Esto puede causar confusión, sensación de fallo y una experiencia poco profesional
+  Actualmente, cuando los usuarios acceden a una ruta incorrecta o inexistente, el sistema no redirige a una página de error personalizada. Esto puede causar confusión, sensación de fallo y una experiencia poco profesional.
 
-  <img src="./assets/heuristica-recibida-4.png">
+  <div style="text-align: center;">
+    <img src="./assets/heuristica-recibida-4.png" alt="Imagen de heurística recibida" />
+  </div>
 
 - **Recomendación:**  
   Implementar una ruta base de tipo catch-all (*) que redirija a una página de error 404 informativa. Esta debe incluir un mensaje claro, un botón para volver al inicio y mantener el diseño visual de la plataforma.
@@ -3466,63 +3473,75 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - **Heurística violada:** Control y libertad del usuario  
 - **Problema:**  
   Actualmente, al hacer clic en el logo de la plataforma, no se realiza ninguna acción o no se redirige al usuario a la página principal. Esto va en contra del comportamiento esperado por los estándares de usabilidad web, donde el logo funciona como un acceso rápido a la pantalla de inicio.  
-  <img src="./assets/heuristica-recibida-5.png">
+  
+  <div style="text-align: center;">
+    <img src="./assets/heuristica-recibida-5.png" alt="Imagen de heurística recibida" />
+  </div>
 
 - **Recomendación:**  
   Habilitar el logo como un enlace interactivo que redirija automáticamente al usuario a la página principal del sistema o al dashboard correspondiente según su rol.
 
 ---
+
 ### **PROBLEMA #3: No se muestra el motivo del fallo al agregar un nuevo miembro**
 - **Severidad:** 4
-- **Heurísitca violada:** Diagnóstico y recuperación de errores
+- **Heurística violada:** Diagnóstico y recuperación de errores
 
-- **Problema:** 
+- **Problema:**  
   Actualmente, al intentar agregar un nuevo miembro, el sistema no indica la causa del error. Esto incluye situaciones como campos inválidos, usuario ya existente o fallos de red. La falta de retroalimentación clara impide que el usuario entienda qué debe corregir y dificulta completar la acción.
 
-<img src="./assets/heuristica-recibida-6.png">
+  <div style="text-align: center;">
+    <img src="./assets/heuristica-recibida-6.png" alt="Imagen de heurística recibida" />
+  </div>
 
-- **Recomendación:**
- Implementar validaciones visibles tanto en el frontend como en el backend. Mostrar mensajes de error específicos como “El correo ya está registrado” o “Debe completar todos los campos obligatorios” para guiar al usuario de forma efectiva durante el proceso.
+- **Recomendación:**  
+  Implementar validaciones visibles tanto en el frontend como en el backend. Mostrar mensajes de error específicos como “El correo ya está registrado” o “Debe completar todos los campos obligatorios” para guiar al usuario de forma efectiva durante el proceso.
+
 ---
 
 ### **PROBLEMA #4: No existe una opción para editar un sprint existente**
 - **Severidad:** 3
-- **Heurísitca violada:** Flexibilidad y eficiencia de uso.
+- **Heurística violada:** Flexibilidad y eficiencia de uso.
 
-- **Problema:** 
+- **Problema:**  
   Actualmente, una vez creado un sprint, no se ofrece ninguna opción en la interfaz para modificar su información (como nombre, fechas o tareas asociadas). Esto limita la capacidad del usuario para corregir errores o ajustar la planificación, lo cual es común en entornos ágiles.
-<img src="./assets/heuristica-recibida-7.png">
-- **Recomendación:**
- Añadir una funcionalidad que permita editar los detalles del sprint. Esta opción debe ser fácilmente accesible desde la vista de resumen del sprint o en su detalle, permitiendo actualizar campos relevantes sin necesidad de eliminar y volver a crear el sprint.
+
+  <div style="text-align: center;">
+    <img src="./assets/heuristica-recibida-7.png" alt="Imagen de heurística recibida" />
+  </div>
+
+- **Recomendación:**  
+  Añadir una funcionalidad que permita editar los detalles del sprint. Esta opción debe ser fácilmente accesible desde la vista de resumen del sprint o en su detalle, permitiendo actualizar campos relevantes sin necesidad de eliminar y volver a crear el sprint.
 
 ---
+
 #### 6.4.2.4. Resumen de Modificaciones para Subsanar Hallazgos
 
-# Resumen de Modificaciones para Subsanar Hallazgos
+#### Resumen de Modificaciones para Subsanar Hallazgos
 
  Resumen de Modificaciones Prioritarias
 
-## Problemas Críticos (Severidad 4)
+### Problemas Críticos (Severidad 4)
 | # | Problema | Solución Propuesta | Heurística Afectada |
 |---|---------|--------------------|---------------------|
 | 1 | Falta página 404 | Implementar página de error con diseño coherente y botón de retorno | Prevención de errores |
 | 2 | Logo no redirige | Convertir logo en enlace funcional al inicio | Control y libertad |
 | 3 | Errores ambiguos en registro | Mostrar mensajes específicos (ej: "Correo ya existe") | Diagnóstico de errores |
 
-## Problemas Mayores (Severidad 3)
+### Problemas Mayores (Severidad 3)
 | # | Problema | Solución Propuesta | Heurística Afectada |
 |---|---------|--------------------|---------------------|
 | 1 | No se puede editar sprints | Añadir opción "Editar" en vista de detalle | Flexibilidad y eficiencia |
 | 2 | Experiencia móvil deficiente | Optimizar formularios para dispositivos móviles | Control y libertad |
 
-## Problemas Moderados (Severidad 2)
+### Problemas Moderados (Severidad 2)
 | # | Problema | Solución Propuesta | Heurística Afectada |
 |---|---------|--------------------|---------------------|
 | 1 | Roles mal organizados | Implementar menús desplegables | Consistencia y estándares |
 | 2 | Lentitud en carga | Añecer feedback de carga (spinner) | Prevención de errores |
 | 3 | Dashboards rígidos | Permitir widgets personalizables | Flexibilidad |
 
-## Problemas Menores (Severidad 1)
+### Problemas Menores (Severidad 1)
 | # | Problema | Solución Propuesta | Heurística Afectada |
 |---|---------|--------------------|---------------------|
 | 1 | Funciones redundantes | Eliminar elementos duplicados | Diseño minimalista |
@@ -3932,39 +3951,63 @@ Mejorará la precisión de planificación en 25%
 
 ## 8.2 Experiment Design
 
+El **Experiment Design** tiene como objetivo establecer una estructura clara y sistemática para evaluar el impacto de **Managewise** en la gestión de proyectos Scrum. A través de un enfoque basado en experimentos, podemos medir el efecto directo que tiene la plataforma sobre el equipo de desarrollo, la eficiencia del proceso de gestión, la satisfacción de los usuarios y la claridad en el seguimiento de tareas. Las métricas y las condiciones de este experimento son cruciales para tomar decisiones informadas sobre la viabilidad y mejora de la plataforma.
+
 ### 8.2.1. Hypotheses
 
-Creemos que al implementar Managewise, una plataforma intuitiva para gestionar proyectos Scrum, se incrementará en un 35% la claridad en el seguimiento de tareas y en un 18% la satisfacción general del equipo, debido a una mejor visibilidad del progreso y una eficiente asignación de recursos<br>
+Las **hipótesis** que planteamos están enfocadas en mejorar los aspectos clave del flujo de trabajo en **ScrumFlow** a través de la implementación de Managewise, una herramienta diseñada para optimizar la gestión de proyectos Scrum. Estas hipótesis se basan en suposiciones fundamentadas sobre la capacidad de Managewise para mejorar tanto la eficiencia operativa como la satisfacción general del equipo de desarrollo. Las hipótesis formuladas son las siguientes:
+
+- **Hipótesis Principal**: Al implementar Managewise, se incrementará en **un 35%** la claridad en el seguimiento de las tareas dentro del equipo y en **un 18%** la satisfacción general del equipo. Esto se logrará gracias a la mayor visibilidad sobre el progreso de las tareas y una asignación de recursos más eficiente. La automatización del seguimiento de tareas y la integración de datos en tiempo real permitirá un control más preciso y menos dependiente de la gestión manual.
+  
+- **Hipótesis Secundaria**: La plataforma permitirá una mejora en la colaboración dentro del equipo y reducirá el tiempo dedicado a la gestión administrativa, lo que resultará en un aumento del **20%** en la productividad y en una disminución del **15%** en los costos asociados a retrasos y malentendidos durante los sprints.
+
+Estas hipótesis servirán como la base para la recolección de datos y la posterior evaluación de los efectos de la implementación de Managewise en un entorno de desarrollo ágil.
 
 ### 8.2.2. Measures
 
-Métricas primarias:
-* Claridad y seguimiento de tareas (medida mediante encuestas internas y revisión de backlog).
-* Satisfacción general del equipo (medida a través de cuestionarios periódicos).
+Para evaluar si las hipótesis planteadas se cumplen, se han definido varias métricas clave que medirán de manera objetiva el impacto de Managewise en el proceso de desarrollo Scrum.
 
-Métricas secundarias:
-* Reducción en costos asociados a retrasos en proyectos.
-* Aumento en la tasa de adopción de herramientas digitales.
-* Mejora en la adaptabilidad a cambios en requisitos durante el desarrollo.
+#### Métricas primarias:
+
+- **Claridad en el seguimiento de tareas**: Esta métrica se medirá utilizando **encuestas internas periódicas** entre los miembros del equipo para determinar cómo perciben la visibilidad de las tareas y su capacidad para realizar un seguimiento adecuado de su progreso. También se utilizarán herramientas de análisis del **backlog** para evaluar la transparencia en la asignación y el estado de las tareas.
+  
+- **Satisfacción general del equipo**: Esta métrica se recopilará mediante **cuestionarios periódicos** enviados a todos los miembros del equipo, con el objetivo de obtener una evaluación de su satisfacción general con la plataforma. Las preguntas se enfocarán en la usabilidad, la eficiencia y la utilidad percibida de **Managewise** en la gestión de proyectos Scrum.
+
+#### Métricas secundarias:
+
+- **Reducción en los costos asociados a retrasos en los proyectos**: Analizaremos el tiempo perdido debido a problemas de coordinación, cambios de último minuto o tareas no finalizadas, comparando la **productividad** antes y después de la implementación de **Managewise**. Esto incluirá la medición de **tiempos de entrega** y **costos adicionales**.
+  
+- **Aumento en la tasa de adopción de herramientas digitales**: Mediremos la **frecuencia de uso** de **Managewise** en comparación con las herramientas previas utilizadas por el equipo (como **Trello** o **Jira**), analizando la aceptación y la transición de los miembros del equipo a la nueva herramienta.
+  
+- **Mejora en la adaptabilidad a cambios en los requisitos del proyecto**: Evaluaremos cómo la plataforma facilita el manejo de **cambios en los requisitos** del proyecto durante el ciclo de vida del desarrollo, registrando los tiempos de reacción del equipo ante cambios inesperados y su capacidad para adaptarse rápidamente.
 
 ### 8.2.3. Conditions
 
-Condiciones experimentales:
-- Un grupo seleccionado utilizará la nueva plataforma Managewise durante un período definido.
-- Se realizará un seguimiento constante sobre la percepción de claridad, eficiencia y satisfacción del equipo.
+#### Condiciones experimentales:
 
-Condiciones de control:
-- Otro grupo comparable continuará usando sus herramientas habituales (e.g., Trello, GitHub).
-- Mantener constante la metodología Scrum utilizada, el tipo de proyecto, y el tamaño del equipo.
+- **Grupo experimental**: Un grupo seleccionado de miembros del equipo utilizará **Managewise** durante un período definido. Durante este tiempo, se recopilarán datos sobre el uso, el impacto en la productividad, la colaboración y la satisfacción general del equipo con la plataforma. Además, se llevará a cabo un seguimiento constante de la percepción de claridad, eficiencia y satisfacción del equipo.
 
+#### Condiciones de control:
+
+- **Grupo de control**: Un grupo comparable de miembros del equipo continuará utilizando sus herramientas habituales (como **Trello**, **GitHub**, **Jira**), para establecer una referencia. Este grupo no cambiará su entorno de trabajo ni las herramientas de gestión de proyectos, lo que nos permitirá comparar los efectos de Managewise frente a las herramientas previas utilizadas.
+  
+- **Condiciones controladas**: En ambos grupos, se mantendrán constantes variables como la metodología Scrum utilizada, el tipo de proyecto (proyectos ágiles de software), y el tamaño del equipo. Esto garantizará que las comparaciones sean válidas y que los efectos observados en el grupo experimental puedan ser atribuidos a la plataforma Managewise.
 
 ### 8.2.4. Scale Calculations and Decisions
 
-- <b>Nivel de significancia:</b> 0.05 (95% de confianza en los resultados del experimento).
-- <b>Efecto mínimo detectable (MDE):</b> Incremento mínimo del 15% en satisfacción general del equipo y un aumento del 20% en claridad y seguimiento de tareas.
-- <b>Potencia estadística:</b> 85%, asegurando capacidad suficiente para detectar cambios relevantes que justifiquen decisiones sobre la implementación completa de Managewise.
+Para asegurarnos de que los resultados obtenidos sean significativos y confiables, hemos definido los parámetros clave para el análisis de datos, tomando en cuenta un enfoque estadístico adecuado.
 
-Las decisiones sobre la recolección de datos se basarán en un tamaño de muestra que permita detectar claramente los efectos esperados con el mínimo margen de error.
+- **Nivel de significancia**: 0.05 (un nivel de confianza del 95%), lo que significa que tenemos una alta probabilidad de que los resultados obtenidos sean fiables y no fruto del azar.
+
+- **Efecto mínimo detectable (MDE)**: El efecto mínimo detectable se ha establecido en un **incremento mínimo del 15%** en la satisfacción general del equipo y un **aumento del 20%** en la claridad y el seguimiento de tareas. Estos son los umbrales que consideramos suficientemente significativos para que los resultados sean validados.
+
+- **Potencia estadística**: Hemos calculado una potencia estadística del **85%**, lo que asegura que el experimento tiene la capacidad suficiente para detectar efectos relevantes que justifiquen la implementación de **Managewise** en otros equipos de desarrollo dentro de la organización.
+
+La recolección de datos se realizará en un **tamaño de muestra adecuado** para garantizar que se puedan detectar los efectos esperados con un margen de error mínimo, lo que permitirá tomar decisiones bien fundamentadas sobre la futura adopción de **Managewise**.
+
+---
+
+Este diseño del experimento busca proporcionar una visión clara y detallada de cómo se medirá el impacto de Managewise en el proceso de desarrollo de software ágil. Las métricas definidas, las condiciones experimentales y las decisiones tomadas sobre el análisis de los datos garantizarán que el experimento sea robusto y sus resultados confiables.
 
 ### 8.2.5. Methods Selection
 
@@ -4112,5 +4155,4 @@ Anexo K: Video de la Aplicación Mobile: <br>https://www.youtube.com/watch?v=FiJ
 
 Anexo L: Video de la exposición TB1 : <br>https://drive.google.com/file/d/17M1xVG5bLn1T3NyTwSjo50teQEmHA-bd/view?usp=sharing
 
-Anexo M: Video de la exposición TP : <br>
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123548_upc_edu_pe/EcOoOudaqotIhiI-1rs1XvMBSf4R7LxuNMoO2cfDRlxsvQ?e=45yJm3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+Anexo M: Video de la exposición TP : <br>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123548_upc_edu_pe/EcOoOudaqotIhiI-1rs1XvMBSf4R7LxuNMoO2cfDRlxsvQ?e=45yJm3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
