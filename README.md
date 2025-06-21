@@ -2795,9 +2795,8 @@ El equipo debe asegurarse de que el código cumpla con los estándares de codifi
 Legibilidad del código, incluyendo reglas sobre la indentación y la nomenclatura de variables.
 Consistencia en la aplicación de patrones de diseño y arquitectura dentro del enfoque DDD, garantizando que los conceptos del dominio estén reflejados correctamente.
 
-SonarQube permite la configuración de reglas específicas para Java, el lenguaje utilizado en Spring Boot, y también soporta convenciones personalizadas para asegurar que el código cumpla con los principios del enfoque DDD. Esto incluye la organización adecuada de las clases y los paquetes según los contextos delimitados y las entidades de dominio.
 Para asegurar la mantenibilidad del código seguimos las guías descritas en la
-sección (#513-source-code-style-guide--conventions).
+sección "source-code-style-guide--conventions".
 Se emplean **camelCase** para variables y funciones y **PascalCase** para clases e
 interfaces, mientras que en las hojas de estilo se adoptan convenciones BEM para
 favorecer la legibilidad. Además, se mantiene una indentación consistente y se
