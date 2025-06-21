@@ -4004,7 +4004,6 @@ A continuación se presenta un análisis comparativo de herramientas para el seg
 | **Lighthouse**       | Plan gratuito, disponible para ejecución local                | Análisis orientado a la experiencia de usuario, con métricas clave de rendimiento y accesibilidad | Información resumida en valores clave que puntúan aspectos de la aplicación | Evaluación de accesibilidad, rendimiento y diseño con métricas claras para optimizar la experiencia del usuario |
 
 
-
 ### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection
 
 Para asegurar la validación y la mejora continua de Managewise, se definieron objetivos estratégicos de analítica, así como KPIs y métricas clave que permiten medir el impacto de los experimentos implementados en la plataforma.
@@ -4139,5 +4138,7 @@ Anexo K: Video de la Aplicación Mobile: <br>https://www.youtube.com/watch?v=FiJ
 Anexo L: Video de la exposición TB1 : <br>https://drive.google.com/file/d/17M1xVG5bLn1T3NyTwSjo50teQEmHA-bd/view?usp=sharing
 
 Anexo M: Video de la exposición TP : <br>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123548_upc_edu_pe/EcOoOudaqotIhiI-1rs1XvMBSf4R7LxuNMoO2cfDRlxsvQ?e=45yJm3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
+Anexo N: Video de la exposición TB2 : <br>https://drive.google.com/file/d/1ZBLxHIVPITzhCzMB2kFKs8cTMsd5xs0f/view?usp=sharing
 
 ---
