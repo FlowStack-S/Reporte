@@ -2979,22 +2979,23 @@ En esta entrevista, Carlos Salinas, gerente de una empresa de desarrollo de soft
    **Duración**: 4:52
 
    **Resumen:**  
-   La entrevista con Jeremy brindó información relevante sobre su rol dentro del equipo de desarrollo y los desafíos que enfrenta. Jeremy señala que una de las principales dificultades es la diferencia de criterios entre los miembros, lo cual afecta negativamente la continuidad del flujo de trabajo y la colaboración.
+   La entrevista con Jeremy brindó información sobre su experiencia utilizando ScrumFlow para gestionar tareas dentro del equipo ágil. Destacó que la interfaz de usuario es intuitiva y fácil de usar, permitiendo una navegación fluida para realizar las tareas. Aunque mencionó que la asignación de tareas y la gestión de sprints en ScrumFlow fueron claras, indicó que a veces la plataforma se vuelve lenta con proyectos más grandes. Aseguró que le gustaría ver más opciones de personalización, especialmente en la visualización de las tareas y la organización de las prioridade
 
 2. **Entrevista 2:**  
    - **Datos del entrevistado:**  
-     Nombre: Leandro  
-     Apellidos: Medina Cervantes  
-     Edad: 23  
-     Distrito: Villa María
+     Nombre: Brenda 
+     Apellidos: Gamio Lenes
+     Edad: 21 
+     Distrito: Chorrillos
 
-   ![Leandro](https://github.com/user-attachments/assets/6ab13b7e-dc49-4564-8001-4f2fa7aa0617)  
-   **URL**: [Click para ver entrevista](https://www.youtube.com/watch?v=_RbKISOL-Qo)  
-   **Inicio**: 0:10  
-   **Duración**: 4:58
+   ![Foto de entrevista](assets/images/brenda.jpg)  
+   **URL**: [Link de entrevista](https://drive.google.com/file/d/1wIHWzOWCfvs-2EWsYxfVEWkmBy_Msu70/view?usp=sharing)  
+   **Inicio**: 0:02  
+   **Duración**: 4:53
 
    **Resumen:**  
-   La entrevista a Leandro nos cuenta de primera mano la experiencia como practicante y cómo las herramientas de gestión actuales influyen. Mencionó que las reuniones programadas en exceso y las herramientas poco intuitivas complican la fluidez del trabajo, lo que resalta la necesidad de herramientas de gestión más adaptables.
+   Brenda, expresó su satisfacción general con ScrumFlow. Resaltó que la plataforma ha sido útil para asignar tareas, gestionar sprints y seguir el progreso del equipo. No obstante, mencionó que le gustaría tener más opciones de personalización en los informes y un mejor sistema de alertas para estar más al tanto de los cambios en tiempo real. A veces, encuentra que el sistema de notificaciones no es lo suficientemente detallado para ciertos aspectos del proyecto.
+
 
 3. **Entrevista 3:**  
    - **Datos del entrevistado:**  
@@ -3009,7 +3010,7 @@ En esta entrevista, Carlos Salinas, gerente de una empresa de desarrollo de soft
    **Duración**: 10:19
 
    **Resumen:**  
-   La entrevista
+   Rodrigo, con 22 años y residente en San Miguel, comentó que ScrumFlow ha facilitado su trabajo en el equipo de desarrollo, especialmente en la asignación y seguimiento de tareas. Sin embargo, mencionó que la visibilidad y el control de las tareas asignadas a cada miembro podrían mejorarse. También expresó que el sistema de gestión de tareas es efectivo, pero que sería útil incluir una opción para manejar más de un proyecto simultáneamente de manera más sencilla.
 
 ### 6.3.3. Evaluaciones según heurísticas
 
