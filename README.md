@@ -2913,22 +2913,7 @@ Estas entrevistas tienen como objetivo validar las funcionalidades y caracterís
    **Resumen:**  
    En esta entrevista, Cristian Matos, un joven de 26 años, comparte su experiencia al probar una aplicación web orientada a la gestión de proyectos. Explica cómo se pueden gestionar miembros, crear reuniones fácilmente y organizar el backlog mediante la creación de épicas y user stories con fechas límite. Cristian destaca la interfaz intuitiva y la facilidad de navegación como puntos fuertes de la herramienta, aunque menciona algunos problemas técnicos menores, como la dificultad al seleccionar roles al agregar miembros, proponiendo mejoras como un menú desplegable. También sugiere incorporar estadísticas y funciones adicionales para gestionar sprints y épicas. Finalmente, recomienda la aplicación a otros gestores de proyectos, señalando que, con algunos ajustes, podría ser aún más útil y eficiente.
 
-1. **Entrevista 2:**  
-   - **Datos del entrevistado:**  
-     Nombre: María  
-     Apellidos: Gutiérrez  
-     Edad: 26  
-     Distrito: San Isidro
-
-   ![Foto de entrevista](assets/images/Entrevista-Maria.png)  
-   **URL**: [Link de entrevista](https://drive.google.com/file/d/1URH3QIgHteG1cNFRdPeFrunflBu3zA8j/view?usp=sharing)  
-   **Inicio**: 0:18  
-   **Duración**: 6:17
-
-   **Resumen:**  
-   La entrevista con María nos habla sobre las herramientas que usa y la importancia de la personalización de los programas de gestión de proyectos. María destaca que el diseño de las herramientas debe ser intuitivo y adaptable a diferentes plataformas y dispositivos. Además, enfatiza la necesidad de contar con proveedores de soluciones flexibles que puedan ajustarse a las demandas cambiantes de los proyectos.
-
-2. **Entrevista 3:**  
+2. **Entrevista 2:**  
    - **Datos del entrevistado:**  
      Nombre: Nora  
      Apellidos: Castro Manrique  
@@ -2943,7 +2928,7 @@ Estas entrevistas tienen como objetivo validar las funcionalidades y caracterís
    **Resumen:**  
    La entrevista con Nora reveló aspectos importantes sobre la gestión y flujo de trabajo. Se destacó que el trabajo en equipo es fundamental para el éxito de un proyecto, y que contar con herramientas de gestión efectivas es crucial para mantener la coordinación y el progreso del equipo.
 
-4. **Entrevista 4:**  
+4. **Entrevista 3:**  
    - **Datos del entrevistado:**  
      Nombre: Gracia  
      Apellidos: Pinillos Nepochathy  
@@ -2962,9 +2947,7 @@ Estas entrevistas tienen como objetivo validar las funcionalidades y caracterís
 **Resumen:**  
 En esta entrevista, Carlos Salinas, gerente de una empresa de desarrollo de software en crecimiento, relata su experiencia usando ScrumFlow como herramienta para la gestión de proyectos ágiles. Destaca que la plataforma facilita la organización de tareas, la planificación de sprints y la coordinación diaria del equipo mediante su tablero Kanban. Considera que la interfaz es bastante intuitiva, aunque con margen de mejora en la agrupación de funciones. Menciona algunos problemas técnicos menores relacionados con la carga de datos y la edición desde dispositivos móviles. Sugiere incorporar funciones como seguimiento de OKRs, alertas automatizadas y dashboards personalizables. Valora positivamente la seguridad y las funcionalidades de colaboración, aunque plantea integrar ScrumFlow con canales externos como Slack. Finalmente, recomienda la herramienta a otros líderes de desarrollo por su utilidad en contextos de empresas medianas y su capacidad de adaptación al trabajo ágil, proponiendo solo algunos ajustes para maximizar su eficiencia.
 
-
-
-#### **Segmento 2: Equipo de Desarrollo de Software**
+## **Segmento 2: Equipo de Desarrollo de Software**
 
 1. **Entrevista 1:**  
    - **Datos del entrevistado:**  
@@ -4156,3 +4139,5 @@ Anexo K: Video de la Aplicación Mobile: <br>https://www.youtube.com/watch?v=FiJ
 Anexo L: Video de la exposición TB1 : <br>https://drive.google.com/file/d/17M1xVG5bLn1T3NyTwSjo50teQEmHA-bd/view?usp=sharing
 
 Anexo M: Video de la exposición TP : <br>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123548_upc_edu_pe/EcOoOudaqotIhiI-1rs1XvMBSf4R7LxuNMoO2cfDRlxsvQ?e=45yJm3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
+---
