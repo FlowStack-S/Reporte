@@ -2996,6 +2996,22 @@ En esta entrevista, Carlos Salinas, gerente de una empresa de desarrollo de soft
    **Resumen:**  
    Diego, con 21 años y residente en Villa María, comentó que FlowStack ha facilitado su trabajo en el equipo de desarrollo, especialmente en la asignación y seguimiento de tareas. Sin embargo, mencionó que la visibilidad y el control de las tareas asignadas a cada miembro podrían mejorarse. También expresó que el sistema de gestión de tareas es efectivo, pero que sería útil incluir una opción para manejar más de un proyecto simultáneamente de manera más sencilla.
 
+4. **Entrevista 4:**  
+   - **Datos del entrevistado:**   
+     Nombre: Rodrigo 
+     Apellidos: Raygada
+     Edad: 22  
+     Distrito: San Borja
+
+   ![image](assets/entrevista-Rodrigo2.png)
+  
+   **URL**: [Link de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123548_upc_edu_pe/EcRAdPuBpolJlYq9e84mQOMBuCjN3hQgGelv3Ily4xvQcw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=l3Cz8l)  
+   **Inicio**: 0:00
+   **Duración**: 6:09
+
+   **Resumen:**  
+   Rodrigo, desarrollador de 22 años, destacó que ScrumFlow le ha facilitado la gestión de tareas y sprints en su equipo ágil, valorando especialmente su interfaz intuitiva. Sin embargo, señaló que la plataforma podría mejorar en visibilidad y control de tareas asignadas, así como en la capacidad para manejar múltiples proyectos simultáneamente de forma más fluida. También mencionó que, aunque el sistema de asignación y seguimiento es claro, extraña funcionalidades como gráficos burndown integrados y una mejor personalización de prioridades. Pese a estos puntos, recomendaría ScrumFlow a otros desarrolladores, siempre que se optimice su escalabilidad para equipos más grandes o proyectos complejos. Sugirió añadir integraciones con herramientas como Git y opciones avanzadas de filtrado para tareas.
+
 ### 6.3.3. Evaluaciones según heurísticas
 
 # Evaluación Heurística: ScrumFlow
