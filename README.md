@@ -4015,6 +4015,7 @@ Para asegurar la validación y la mejora continua de Managewise, se definieron o
 - **Optimizar la retención de usuarios y la satisfacción de equipos de desarrollo.**
 - **Evaluar la efectividad de la colaboración y el flujo de trabajo.**
 - **Identificar oportunidades de mejora basadas en comportamiento real de los usuarios.**
+
 <img src="https://img.icons8.com/ios-filled/50/target.png" alt="Target" width="32"/> Objetivos estratégicos  
 <img src="https://img.icons8.com/ios-filled/50/improvement.png" alt="Mejora continua" width="32"/> Mejora continua
 
@@ -4039,6 +4040,7 @@ Para asegurar la validación y la mejora continua de Managewise, se definieron o
 Estos KPIs y métricas están directamente alineados con las hipótesis de valor planteadas en la fase de experimentación. El monitoreo continuo permite validar si las nuevas funcionalidades realmente mejoran la colaboración, eficiencia y satisfacción, proporcionando datos concretos para tomar decisiones de priorización y desarrollo futuro.
 
 De esta manera, la estrategia de data analytics en Managewise habilita una cultura de mejora continua, asegurando que cada iteración aporte valor tangible tanto al usuario como al negocio.
+
 <img src="https://img.icons8.com/ios-filled/50/test-tube.png" alt="Experimentos" width="32"/> Experimentos  
 <img src="https://img.icons8.com/ios-filled/50/data-configuration.png" alt="Validación de hipótesis" width="32"/> Validación de hipótesis  
 <img src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" alt="Decisiones basadas en datos" width="32"/> Decisiones basadas en datos
