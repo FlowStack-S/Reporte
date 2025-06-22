@@ -4037,9 +4037,9 @@ Para asegurar la validación y la mejora continua de Managewise, se definieron o
 <img src="https://img.icons8.com/ios-filled/50/improvement.png" alt="Mejora continua" width="32"/> Mejora continua
 
   <div align="center">
-    <img src="assets/images/TB2/8251.png"><br>
-      <img src="assets/images/TB2/8252.png"><br>
-      <img src="assets/images/TB2/8253.png"><br>
+    <img src="assets/TB2/8251.png"><br>
+      <img src="assets/TB2/8252.png"><br>
+      <img src="assets/TB2/8253.png"><br>
   </div>
 
 #### KPIs Seleccionados
