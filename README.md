@@ -3992,16 +3992,17 @@ La recolección de datos se realizará en un **tamaño de muestra adecuado** par
 
 Este diseño del experimento busca proporcionar una visión clara y detallada de cómo se medirá el impacto de Managewise en el proceso de desarrollo de software ágil. Las métricas definidas, las condiciones experimentales y las decisiones tomadas sobre el análisis de los datos garantizarán que el experimento sea robusto y sus resultados confiables.
 
+
 ### 8.2.5. Methods Selection
 
 A continuación se presenta un análisis comparativo de herramientas para el seguimiento y evaluación de la plataforma web y móvil de Managewise, considerando aspectos clave como costo, capacidad de análisis, facilidad de uso y ventajas para el proyecto.
 
 | Herramienta        | Precio                                                         | Capacidad de Análisis                                                                          | Sencillez                                                    | Ventajas                                                                                                      |
 |--------------------|----------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| **Google Analytics** | Plan gratuito/créditos gratis                                 | Análisis exhaustivo de métricas y datos de usuario                                              | Aprendizaje sencillo de las métricas                         | Excelente capacidad de generación de reportes y amplia integración con otros servicios                       |
-| **Catchpoint**       | Basado en suscripción, con pruebas gratuitas                  | Monitoreo exhaustivo de rendimiento y experiencia de usuario desde múltiples ubicaciones         | Interfaz avanzada pero detallada y completa                  | Análisis en tiempo real desde diversas ubicaciones y dispositivos, ideal para empresas con usuarios globales |
-| **RedLine13**        | Gratuito con limitaciones                                     | Análisis orientado a pruebas de carga y rendimiento de aplicaciones                             | Información detallada y resumida sobre rendimiento           | Simulación de tráfico y pruebas de rendimiento bajo condiciones de carga                                      |
-| **Lighthouse**       | Plan gratuito, disponible para ejecución local                | Análisis orientado a la experiencia de usuario, con métricas clave de rendimiento y accesibilidad | Información resumida en valores clave que puntúan aspectos de la aplicación | Evaluación de accesibilidad, rendimiento y diseño con métricas claras para optimizar la experiencia del usuario |
+| **Google Analytics**<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Google_Analytics.svg/800px-Logo_Google_Analytics.svg.png" alt="Google Analytics" width="300"/> | Plan gratuito/créditos gratis                                 | Análisis exhaustivo de métricas y datos de usuario                                              | Aprendizaje sencillo de las métricas                         | Excelente capacidad de generación de reportes y amplia integración con otros servicios                       |
+| **Catchpoint**  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWnvvLoNF_VbpqciOIHjNbaivsdSspuQYiiA&s" alt="Google Analytics" width="300"/>      | Basado en suscripción, con pruebas gratuitas                  | Monitoreo exhaustivo de rendimiento y experiencia de usuario desde múltiples ubicaciones         | Interfaz avanzada pero detallada y completa                  | Análisis en tiempo real desde diversas ubicaciones y dispositivos, ideal para empresas con usuarios globales |
+| **RedLine13**  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUb1VD1qCyt3EBx-jjgmKiz4rEKkTYV9XA8g&s" alt="Google Analytics" width="300"/>       | Gratuito con limitaciones                                     | Análisis orientado a pruebas de carga y rendimiento de aplicaciones                             | Información detallada y resumida sobre rendimiento           | Simulación de tráfico y pruebas de rendimiento bajo condiciones de carga                                      |
+| **Lighthouse** <img src="https://static.semrush.com/blog/uploads/media/c5/90/c59051afd72744a59afa7aab8f20a2d8/google-lighthouse.svg" alt="Google Analytics" width="300"/>       | Plan gratuito, disponible para ejecución local                | Análisis orientado a la experiencia de usuario, con métricas clave de rendimiento y accesibilidad | Información resumida en valores clave que puntúan aspectos de la aplicación | Evaluación de accesibilidad, rendimiento y diseño con métricas claras para optimizar la experiencia del usuario |
 
 
 ### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection
@@ -4014,6 +4015,9 @@ Para asegurar la validación y la mejora continua de Managewise, se definieron o
 - **Optimizar la retención de usuarios y la satisfacción de equipos de desarrollo.**
 - **Evaluar la efectividad de la colaboración y el flujo de trabajo.**
 - **Identificar oportunidades de mejora basadas en comportamiento real de los usuarios.**
+<img src="https://img.icons8.com/ios-filled/50/target.png" alt="Target" width="32"/> Objetivos estratégicos  
+<img src="https://img.icons8.com/ios-filled/50/improvement.png" alt="Mejora continua" width="32"/> Mejora continua
+
 
 #### KPIs Seleccionados
 
@@ -4035,6 +4039,10 @@ Para asegurar la validación y la mejora continua de Managewise, se definieron o
 Estos KPIs y métricas están directamente alineados con las hipótesis de valor planteadas en la fase de experimentación. El monitoreo continuo permite validar si las nuevas funcionalidades realmente mejoran la colaboración, eficiencia y satisfacción, proporcionando datos concretos para tomar decisiones de priorización y desarrollo futuro.
 
 De esta manera, la estrategia de data analytics en Managewise habilita una cultura de mejora continua, asegurando que cada iteración aporte valor tangible tanto al usuario como al negocio.
+<img src="https://img.icons8.com/ios-filled/50/test-tube.png" alt="Experimentos" width="32"/> Experimentos  
+<img src="https://img.icons8.com/ios-filled/50/data-configuration.png" alt="Validación de hipótesis" width="32"/> Validación de hipótesis  
+<img src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" alt="Decisiones basadas en datos" width="32"/> Decisiones basadas en datos
+
 
 ### 8.2.7. Web and Mobile Tracking Plan
 
