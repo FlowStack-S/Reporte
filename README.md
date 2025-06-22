@@ -4036,6 +4036,11 @@ Para asegurar la validación y la mejora continua de Managewise, se definieron o
 <img src="https://img.icons8.com/ios-filled/50/target.png" alt="Target" width="32"/> Objetivos estratégicos  
 <img src="https://img.icons8.com/ios-filled/50/improvement.png" alt="Mejora continua" width="32"/> Mejora continua
 
+  <div align="center">
+    <img src="assets/images/TB2/8251.png"><br>
+      <img src="assets/images/TB2/8252.png"><br>
+      <img src="assets/images/TB2/8253.png"><br>
+  </div>
 
 #### KPIs Seleccionados
 
@@ -4045,7 +4050,7 @@ Para asegurar la validación y la mejora continua de Managewise, se definieron o
 - **Tasa de conversión de nuevas funcionalidades:** Porcentaje de usuarios que usan al menos una vez una funcionalidad experimental.
 - **NPS (Net Promoter Score):** Medida de satisfacción y recomendación.
 - **Tasa de finalización de tareas/épicas/Sprints:** Evalúa eficiencia y cumplimiento de objetivos.
-
+  
 #### Métricas Complementarias
 
 - **Frecuencia de interacción con módulos clave:** Número de clics, visitas y uso por módulo o funcionalidad.
