@@ -2982,18 +2982,19 @@ En esta entrevista, Carlos Salinas, gerente de una empresa de desarrollo de soft
 
 3. **Entrevista 3:**  
    - **Datos del entrevistado:**  
-     Nombre: Rodrigo  
-     Apellidos: Acosa Ramirez  
-     Edad: 22  
-     Distrito: San Miguel
+     Nombre: Diego 
+     Apellidos: Amasifuen Salazar  
+     Edad: 21  
+     Distrito: Villa María del Triunfo
 
-   ![Rodrigo](assets/images/entrevista_Rodrigo.jpg)  
-   **URL**: [Link de entrevista](https://drive.google.com/file/d/1aZ94C1wixcfQNa_dZCZSkIKiBnpPf91i/view?usp=sharing)  
-   **Inicio**: 0:50  
-   **Duración**: 10:19
+   ![image](https://github.com/user-attachments/assets/d3f77e78-25a3-4d90-aa29-3763ef29b30b)
+  
+   **URL**: [Link de entrevista](https://youtu.be/xKLzGyvXyig)  
+   **Inicio**: 0:00
+   **Duración**: 7:38
 
    **Resumen:**  
-   Rodrigo, con 22 años y residente en San Miguel, comentó que ScrumFlow ha facilitado su trabajo en el equipo de desarrollo, especialmente en la asignación y seguimiento de tareas. Sin embargo, mencionó que la visibilidad y el control de las tareas asignadas a cada miembro podrían mejorarse. También expresó que el sistema de gestión de tareas es efectivo, pero que sería útil incluir una opción para manejar más de un proyecto simultáneamente de manera más sencilla.
+   Diego, con 21 años y residente en Villa María, comentó que FlowStack ha facilitado su trabajo en el equipo de desarrollo, especialmente en la asignación y seguimiento de tareas. Sin embargo, mencionó que la visibilidad y el control de las tareas asignadas a cada miembro podrían mejorarse. También expresó que el sistema de gestión de tareas es efectivo, pero que sería útil incluir una opción para manejar más de un proyecto simultáneamente de manera más sencilla.
 
 ### 6.3.3. Evaluaciones según heurísticas
 
