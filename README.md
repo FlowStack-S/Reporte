@@ -3928,6 +3928,8 @@ FlowStack es una plataforma de gestión de proyectos para startups de desarrollo
 
 ### 8.1.3. Experiment-Ready Questions
 
+Esta sección presenta un conjunto de preguntas diseñadas para guiar la validación de nuestras hipótesis mediante experimentos controlados. Las preguntas fueron formuladas a partir de hallazgos previos y del análisis de necesidades de los usuarios. Para priorizar su ejecución, cada una fue evaluada utilizando cuatro criterios: Confianza, Riesgo, Impacto e Interés, permitiéndonos asignarles un puntaje total que refleja su relevancia dentro del proceso de aprendizaje del equipo.
+
 | Pregunta | Confianza | Riesgo | Impacto | Interés | Total |
 |----------|-----------|--------|---------|---------|-------|
 | ¿Mejorará la adopción agregando integración con GitHub? | 8 | 3 | 9 | 8 | 28 |
@@ -3936,58 +3938,118 @@ FlowStack es una plataforma de gestión de proyectos para startups de desarrollo
 | ¿Mejorará la participación el modo móvil optimizado? | 5 | 3 | 6 | 5 | 19 |
 | ¿Disminuirá los impedimentos un sistema de alertas tempranas? | 7 | 2 | 8 | 6 | 23 |
 
+---
+
 ### 8.1.4. Question Backlog
 
-1. ¿Mejorará la adopción agregando integración con GitHub?
-2. ¿Aumentará la satisfacción añadiendo dashboards predictivos?
-3. ¿Disminuirá los impedimentos un sistema de alertas tempranas?
-4. ¿Reducirá el tiempo de onboarding un tutorial interactivo?
+El Question Backlog agrupa las preguntas priorizadas que guiarán los próximos ciclos de experimentación. Estas preguntas representan las incertidumbres más importantes identificadas durante el desarrollo del producto y están ordenadas según su prioridad estratégica. Esta priorización garantiza que los experimentos a ejecutar estén alineados con los objetivos del proyecto, maximizando el aprendizaje y reduciendo riesgos durante la evolución del sistema.
 
-### 8.1.5. Experiment Cards
+| **#** | **Pregunta**                                                                                   | **Prioridad** |
+|------:|-----------------------------------------------------------------------------------------------|--------------:|
+| 1     | ¿Mejorará la adopción agregando integración con GitHub?                                        | 2             |
+| 2     | ¿Disminuirá los impedimentos un sistema de alertas tempranas?                                  | 3             |
+| 3     | ¿Aumentará la satisfacción añadiendo dashboards predictivos?                                   | 4             |
+| 4     | ¿Reducirá el tiempo de onboarding un tutorial interactivo?                                     | 5             |
 
-#### Experimento 1: Integración con GitHub
-**Why:**  
-Muchos equipos ya usan GitHub y la falta de integración crea trabajo duplicado
+---
 
-**What:**  
-Implementar sincronización básica de issues entre FlowStack y GitHub
+## 8.1.5. Experiment Cards
 
-**Hypothesis:**  
-Equipos que usen la integración tendrán 30% más actividad diaria
+Las Experiment Cards detallan cada experimento planificado en base a las preguntas del backlog. Cada tarjeta está estructurada en torno a tres componentes fundamentales: el Why (por qué se realiza el experimento), el What (qué se va a hacer) y la Hypothesis (qué se espera demostrar). Este formato ayuda a establecer un marco claro de validación basado en métricas y resultados observables, promoviendo una toma de decisiones informada en el desarrollo del producto.
 
-#### Experimento 2: Tutorial Interactivo
-**Why:**  
-El onboarding complejo disuade a nuevos usuarios
+#### Experimento 1: ¿Mejorará la adopción agregando integración con GitHub?
 
-**What:**  
-Crear flujo guiado de primeros pasos con retroalimentación inmediata
+| **Question**      | **¿Mejorará la adopción agregando integración con GitHub?**                                                                                                                                                                                                                             |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Why**        | Muchos equipos ya utilizan GitHub como herramienta central de gestión de código y seguimiento de issues. La falta de integración genera trabajo duplicado y reduce la eficiencia en el flujo de trabajo. Agregar esta integración permite sincronizar tareas, centralizar información y aumentar la adopción de la plataforma. |
+| **What**       | Implementar una sincronización básica de issues entre FlowStack y GitHub. Esto permitirá que los cambios en uno de los sistemas se reflejen automáticamente en el otro, manteniendo actualizadas las tareas y evitando inconsistencias. |
+| **Hypothesis** | Se espera que los equipos que activen la integración con GitHub aumenten su actividad diaria en la plataforma en al menos un 30%, gracias a la automatización de flujos y reducción de fricción en el uso. |
 
-**Hypothesis:**  
-Reducirá el tiempo de setup inicial de 30 a 15 minutos
+---
 
-#### Experimento 3: Dashboard Predictivo
-**Why:**  
-Los líderes necesitan mejores herramientas para planificación
+#### Experimento 2: ¿Disminuirá los impedimentos un sistema de alertas tempranas?
 
-**What:**  
-Implementar estimación de velocidad de equipo basada en historial
+| **Question**      | **¿Disminuirá los impedimentos un sistema de alertas tempranas?**                                                                                                                                                                                                                             |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Why**        | Los equipos de desarrollo a menudo enfrentan bloqueos inesperados durante los sprints. Un sistema de alertas tempranas puede detectar estos problemas de forma anticipada, lo que permite una respuesta más rápida y eficiente. |
+| **What**       | Implementar un sistema de alertas tempranas basado en el comportamiento del flujo de tareas y actualizaciones de progreso, que notifique automáticamente a los miembros responsables sobre posibles impedimentos. |
+| **Hypothesis** | Se espera que, con el sistema de alertas activado, la cantidad de tareas bloqueadas por más de 24 horas se reduzca en un 40%, mejorando la continuidad y fluidez del desarrollo. |
 
-**Hypothesis:**  
-Mejorará la precisión de planificación en 25%
+---
+
+#### Experimento 3: ¿Aumentará la satisfacción añadiendo dashboards predictivos?
+
+| **Question**      | **¿Aumentará la satisfacción añadiendo dashboards predictivos?**                                                                                                                                                                                                                             |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Why**        | Los líderes de equipo necesitan herramientas para anticiparse a los cuellos de botella y tomar decisiones informadas. Los dashboards predictivos permiten visualizar el rendimiento esperado con base en el historial, ayudando a mejorar la planificación. |
+| **What**       | Implementar un dashboard que muestre la estimación de velocidad del equipo, predicciones de finalización de tareas y alertas tempranas, usando datos históricos de sprints pasados. |
+| **Hypothesis** | Se espera que la inclusión de dashboards predictivos mejore la precisión en la planificación de tareas en al menos un 25% y aumente la satisfacción de los Product Owners con respecto a la planificación. |
+
+---
+
+#### Experimento 4: ¿Reducirá el tiempo de onboarding un tutorial interactivo?
+
+| **Question**      | **¿Reducirá el tiempo de onboarding un tutorial interactivo?**                                                                                                                                                                                                                             |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Why**        | Un onboarding complejo genera abandono temprano por parte de los nuevos usuarios. Muchos no comprenden las funcionalidades claves o cómo empezar a utilizar la herramienta. Un flujo guiado puede resolver estas dudas rápidamente y mejorar la retención. |
+| **What**       | Diseñar e implementar un flujo de primeros pasos que guíe al usuario de manera visual e interactiva a través de las funciones principales de la plataforma. Incluir retroalimentación inmediata al completar cada paso del tutorial. |
+| **Hypothesis** | Al implementar este tutorial, se espera reducir el tiempo promedio de configuración inicial de 30 a 15 minutos, y aumentar la tasa de retención del día siguiente en al menos un 20%. |
+
+---
 
 ## 8.2 Experiment Design
 
 El **Experiment Design** tiene como objetivo establecer una estructura clara y sistemática para evaluar el impacto de **Managewise** en la gestión de proyectos Scrum. A través de un enfoque basado en experimentos, podemos medir el efecto directo que tiene la plataforma sobre el equipo de desarrollo, la eficiencia del proceso de gestión, la satisfacción de los usuarios y la claridad en el seguimiento de tareas. Las métricas y las condiciones de este experimento son cruciales para tomar decisiones informadas sobre la viabilidad y mejora de la plataforma.
 
+---
+
 ### 8.2.1. Hypotheses
 
 Las **hipótesis** que planteamos están enfocadas en mejorar los aspectos clave del flujo de trabajo en **ScrumFlow** a través de la implementación de Managewise, una herramienta diseñada para optimizar la gestión de proyectos Scrum. Estas hipótesis se basan en suposiciones fundamentadas sobre la capacidad de Managewise para mejorar tanto la eficiencia operativa como la satisfacción general del equipo de desarrollo. Las hipótesis formuladas son las siguientes:
 
-- **Hipótesis Principal**: Al implementar Managewise, se incrementará en **un 35%** la claridad en el seguimiento de las tareas dentro del equipo y en **un 18%** la satisfacción general del equipo. Esto se logrará gracias a la mayor visibilidad sobre el progreso de las tareas y una asignación de recursos más eficiente. La automatización del seguimiento de tareas y la integración de datos en tiempo real permitirá un control más preciso y menos dependiente de la gestión manual.
-  
-- **Hipótesis Secundaria**: La plataforma permitirá una mejora en la colaboración dentro del equipo y reducirá el tiempo dedicado a la gestión administrativa, lo que resultará en un aumento del **20%** en la productividad y en una disminución del **15%** en los costos asociados a retrasos y malentendidos durante los sprints.
+### Hypothesis 1: Integración con GitHub
 
-Estas hipótesis servirán como la base para la recolección de datos y la posterior evaluación de los efectos de la implementación de Managewise en un entorno de desarrollo ágil.
+|         | **Hypothesis**                                                                                                                                                          |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Question**         | ¿Mejorará la adopción agregando integración con GitHub?                                                                                                                 |
+| **Belief**           | La integración con GitHub permitirá a los equipos de desarrollo mantener sincronizadas sus tareas y flujos de trabajo, evitando duplicidades y aumentando la eficiencia. |
+| **Hypothesis**       | La integración con GitHub aumentará la actividad diaria de los usuarios en un 30% durante las primeras cuatro semanas posteriores a su implementación.                   |
+| **Null Hypothesis**  | La integración con GitHub no tendrá un impacto significativo en la adopción ni en la actividad diaria de los usuarios.                                                  |
+
+---
+
+### Hypothesis 2: Sistema de Alertas Tempranas
+
+|         | **Hypothesis**                                                                                                                                                      |
+|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Question**         | ¿Disminuirá los impedimentos un sistema de alertas tempranas?                                                                                                       |
+| **Belief**           | Un sistema de alertas que detecte bloqueos antes de que afecten el flujo de trabajo ayudará a los equipos a responder más rápido, reduciendo cuellos de botella.     |
+| **Hypothesis**       | La implementación de alertas tempranas reducirá en un 40% el número de tareas bloqueadas por más de 24 horas durante el sprint.                                     |
+| **Null Hypothesis**  | El sistema de alertas tempranas no tendrá un efecto significativo en la reducción de tareas bloqueadas o en la continuidad del flujo de trabajo.                     |
+
+---
+
+### Hypothesis 3: Dashboards Predictivos
+
+|         | **Hypothesis**                                                                                                                                                       |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Question**         | ¿Aumentará la satisfacción añadiendo dashboards predictivos?                                                                                                         |
+| **Belief**           | Los dashboards predictivos permitirán una planificación más precisa y una visualización clara del progreso y estimaciones, incrementando la satisfacción del equipo. |
+| **Hypothesis**       | La incorporación de dashboards predictivos incrementará en un 25% la precisión en la planificación y mejorará en un 20% la satisfacción de los Product Owners.        |
+| **Null Hypothesis**  | La implementación de dashboards predictivos no tendrá un impacto relevante en la planificación ni en la satisfacción de los usuarios.                               |
+
+---
+
+### Hypothesis 4: Tutorial Interactivo
+
+|         | **Hypothesis**                                                                                                                                                         |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Question**         | ¿Reducirá el tiempo de onboarding un tutorial interactivo?                                                                                                              |
+| **Belief**           | Un tutorial interactivo guiado ayudará a los nuevos usuarios a familiarizarse rápidamente con la plataforma, reduciendo fricción y mejorando la experiencia inicial.     |
+| **Hypothesis**       | El tutorial interactivo reducirá el tiempo promedio de configuración inicial de 30 a 15 minutos y aumentará la tasa de retención del día siguiente en un 20%.           |
+| **Null Hypothesis**  | La implementación del tutorial no tendrá un impacto significativo en la duración del onboarding ni en la retención de nuevos usuarios.                                 |
+
+---
 
 ### 8.2.2. Measures
 
@@ -4007,6 +4069,32 @@ Para evaluar si las hipótesis planteadas se cumplen, se han definido varias mé
   
 - **Mejora en la adaptabilidad a cambios en los requisitos del proyecto**: Evaluaremos cómo la plataforma facilita el manejo de **cambios en los requisitos** del proyecto durante el ciclo de vida del desarrollo, registrando los tiempos de reacción del equipo ante cambios inesperados y su capacidad para adaptarse rápidamente.
 
+#### Measure: ¿Mejorará la adopción agregando integración con GitHub?
+
+| **Question**                                                | ¿Mejorará la adopción agregando integración con GitHub?                                                                                   |
+|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Measure**                                                 | Medir la tasa de adopción mediante el número de cuentas conectadas, frecuencia de sincronización y porcentaje de usuarios activos que usan la integración. Encuestas evaluarán utilidad y mejora en el flujo de trabajo. |
+
+#### Measure: ¿Reducirá el tiempo de onboarding un tutorial interactivo?
+
+| **Question**                                                | ¿Reducirá el tiempo de onboarding un tutorial interactivo?                                                                                |
+|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Measure**                                                 | Evaluar el tiempo promedio que tardan los nuevos usuarios en completar su primer sprint antes y después del tutorial. Medir también la tasa de retención en los primeros 7 días y la comprensión mediante encuestas post-onboarding. |
+
+#### Measure: ¿Aumentará la satisfacción añadiendo dashboards predictivos?
+
+| **Question**                                                | ¿Aumentará la satisfacción añadiendo dashboards predictivos?                                                                              |
+|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Measure**                                                 | Aplicar encuestas de satisfacción a Product Owners y Scrum Masters, midiendo la percepción sobre la planificación y visibilidad del equipo antes y después del uso del dashboard. |
+
+#### Measure: ¿Disminuirá los impedimentos un sistema de alertas tempranas?
+
+| **Question**                                                | ¿Disminuirá los impedimentos un sistema de alertas tempranas?                                                                             |
+|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Measure**                                                 | Medir la frecuencia y el tiempo de resolución de impedimentos antes y después de implementar el sistema de alertas. Además, recoger feedback del equipo sobre la utilidad y reacción ante las notificaciones. |
+
+---
+
 ### 8.2.3. Conditions
 
 #### Condiciones experimentales:
@@ -4018,6 +4106,36 @@ Para evaluar si las hipótesis planteadas se cumplen, se han definido varias mé
 - **Grupo de control**: Un grupo comparable de miembros del equipo continuará utilizando sus herramientas habituales (como **Trello**, **GitHub**, **Jira**), para establecer una referencia. Este grupo no cambiará su entorno de trabajo ni las herramientas de gestión de proyectos, lo que nos permitirá comparar los efectos de Managewise frente a las herramientas previas utilizadas.
   
 - **Condiciones controladas**: En ambos grupos, se mantendrán constantes variables como la metodología Scrum utilizada, el tipo de proyecto (proyectos ágiles de software), y el tamaño del equipo. Esto garantizará que las comparaciones sean válidas y que los efectos observados en el grupo experimental puedan ser atribuidos a la plataforma Managewise.
+
+#### Conditions: ¿Mejorará la adopción agregando integración con GitHub?
+
+| **Question** | ¿Mejorará la adopción agregando integración con GitHub? |
+|--------------|----------------------------------------------------------|
+| **Condición Experimental** | La adopción aumentará en al menos un 25% entre los usuarios que integren GitHub con FlowStack, medida a través del número de cuentas vinculadas, frecuencia de uso y actividad diaria. |
+| **Condición de Control**   | No se observará un aumento significativo en la adopción o actividad diaria tras habilitar la integración con GitHub. |
+
+#### Conditions: ¿Reducirá el tiempo de onboarding un tutorial interactivo?
+
+| **Question** | ¿Reducirá el tiempo de onboarding un tutorial interactivo? |
+|--------------|-------------------------------------------------------------|
+| **Condición Experimental** | El tiempo promedio de onboarding se reducirá en un 50%, pasando de 30 a 15 minutos, y aumentará la tasa de retención de nuevos usuarios en los primeros 7 días. |
+| **Condición de Control**   | No habrá una reducción significativa en el tiempo de onboarding ni mejora en la retención tras implementar el tutorial. |
+
+#### Conditions: ¿Aumentará la satisfacción añadiendo dashboards predictivos?
+
+| **Question** | ¿Aumentará la satisfacción añadiendo dashboards predictivos? |
+|--------------|---------------------------------------------------------------|
+| **Condición Experimental** | La satisfacción de los Product Owners aumentará en al menos un 25%, según encuestas posteriores a la implementación del dashboard predictivo. |
+| **Condición de Control**   | La satisfacción de los usuarios no mostrará una mejora significativa tras el uso del dashboard predictivo. |
+
+#### Conditions: ¿Disminuirá los impedimentos un sistema de alertas tempranas?
+
+| **Question** | ¿Disminuirá los impedimentos un sistema de alertas tempranas? |
+|--------------|----------------------------------------------------------------|
+| **Condición Experimental** | El tiempo promedio de resolución de impedimentos se reducirá en al menos 30%, y los usuarios reportarán mayor visibilidad de bloqueos potenciales. |
+| **Condición de Control**   | No habrá una mejora relevante en la detección o resolución de impedimentos tras implementar las alertas tempranas. |
+
+---
 
 ### 8.2.4. Scale Calculations and Decisions
 
@@ -4035,6 +4153,14 @@ La recolección de datos se realizará en un **tamaño de muestra adecuado** par
 
 Este diseño del experimento busca proporcionar una visión clara y detallada de cómo se medirá el impacto de Managewise en el proceso de desarrollo de software ágil. Las métricas definidas, las condiciones experimentales y las decisiones tomadas sobre el análisis de los datos garantizarán que el experimento sea robusto y sus resultados confiables.
 
+| **Scale Calculation**                                                                                                                                                              | **Decision**                                                                                                                | **Desfavorable** | **Aceptable** | **Ideal** | **Excelente** |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|------------------|----------------|------------|----------------|
+| **Integración con GitHub**: Creemos que al integrar GitHub con FlowStack, la actividad diaria aumentará en al menos un 30%, evitando duplicidades y aumentando la eficiencia.     | Implementar sincronización bidireccional de issues entre GitHub y FlowStack para centralizar flujos de trabajo.           |                  | X              |            |                |
+| **Sistema de Alertas Tempranas**: Creemos que se reducirá en un 40% el número de tareas bloqueadas más de 24h durante el sprint.                                                  | Implementar alertas automatizadas para detectar bloqueos en tiempo real y enviar notificaciones a los responsables.       |                  | X              |            |                |
+| **Dashboards Predictivos**: Creemos que la precisión de planificación aumentará en un 25% y la satisfacción de Product Owners en un 20% gracias a proyecciones basadas en historial. | Implementar dashboards con estimaciones inteligentes usando velocidad histórica del equipo.                              |                  |                | X          |                |
+| **Tutorial Interactivo**: Creemos que reducirá el tiempo de onboarding de 30 a 15 minutos y aumentará la retención al día siguiente en un 20%.                                     | Implementar un flujo guiado de primeros pasos con retroalimentación inmediata para nuevos usuarios.                       |                  |                |            | X              |
+
+---
 
 ### 8.2.5. Methods Selection
 
