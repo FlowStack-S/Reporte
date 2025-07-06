@@ -4281,32 +4281,30 @@ El siguiente Product Backlog prioriza las funcionalidades clave que se derivan d
 
 ### 8.3.3.1. To-Be Sprint Backlogs
 
-# 8.3.3.1. To-Be Sprint Backlog
-
-| Sprint | Sprint 1 |  |  |  |  |  |  |
+| Sprint | Sprint 1             |
 |--------|----------|--|--|--|--|--|--|
 | **User Story** |  | **WorkItem/Task** |  |  |  |  |  |
 | **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (Story Points)** | **Assigned To** | **Status (To-do / In-Process / To-Review / Done)** |
-| UA01 | Gestión de Progreso de Tareas | TK1 | Crear tablero Kanban | Diseñar la vista principal del tablero de tareas con columnas de estado | 3 | Ray | Done |
-|  |  | TK2 | Actualización en tiempo real | Programar lógica para actualizar automáticamente el estado de tareas | 2 | Ray | Done |
-| UA02 | Visualización de Backlog | TK3 | Diseñar vista del backlog | Crear layout visual con organización por prioridad y etiquetas | 2 | Ray | Done |
-|  |  | TK4 | Implementar ordenamiento del backlog | Permitir ordenar backlog por prioridad, fecha o estado | 1 | Ray | Done |
-| UA03 | Acceso a Tareas Pendientes | TK5 | Acceso rápido a tareas personales | Implementar botón "Mis tareas" y lista personal de pendientes | 2 | Ray | Done |
-| UA04 | Gestión de Recursos del Equipo | TK6 | Asignación de recursos | Permitir asignar tareas a usuarios desde una vista de recursos | 3 | Ray | Done |
-|  |  | TK7 | Balance de carga | Crear lógica que alerte si un miembro tiene sobrecarga de tareas | 2 | Ray | Done |
-| UA05 | Notificaciones en Tiempo Real | TK8 | Integrar WebSockets | Implementar servicio de WebSockets para eventos clave del sistema | 3 | Ray | Done |
-|  |  | TK9 | Personalización de notificaciones | Crear menú de configuración de notificaciones por usuario | 2 | Ray | Done |
-| UA06 | Gestión de Accesos y Permisos | TK10 | Sistema de roles | Crear roles: Admin, Scrum Master, Dev, Lector, con niveles de acceso | 2 | Ray | Done |
-|  |  | TK11 | Validación de permisos | Asegurar acceso restringido por rol en cada módulo del sistema | 3 | Ray | Done |
-| UA07 | Creación de Tareas de Alto Impacto | TK12 | Interfaz para tareas destacadas | Permitir marcar tareas como "alto impacto" al momento de crearlas | 2 | Ray | Done |
-|  |  | TK13 | Priorización automática | Implementar lógica que ordene por nivel de impacto estimado | 1 | Ray | Done |
-| UA08 | Gestión de Sprint en el Timeline | TK14 | Timeline visual | Diseñar e implementar timeline interactivo con fechas clave del sprint | 3 | Ray | Done |
-|  |  | TK15 | Sincronización con tareas | Vincular automáticamente las tareas al timeline del sprint | 2 | Ray | Done |
-| UA09 | Reportes de Actividad | TK16 | Generador de reportes | Crear sección de reportes por usuario y por sprint | 2 | Ray | Done |
-|  |  | TK17 | Exportación de reportes | Permitir descargar reportes en PDF y CSV | 1 | Ray | Done |
-| UA10 | Integración con herramientas de comunicación | TK18 | Conexión con Slack | Conectar ScrumFlow con Slack vía API y OAuth | 2 | Ray | Done |
-|  |  | TK19 | Notificaciones a Slack | Enviar eventos importantes como mensajes a canales de Slack | 1 | Ray | Done |
-|  |  | TK20 | Configuración de integración | Crear menú para configurar conexión y canales por equipo | 1 | Ray | Done |
+| UA01 | Gestión de Progreso de Tareas | TK1 | Crear tablero Kanban | Diseñar la vista principal del tablero de tareas con columnas de estado | 3 | Nelson | Done |
+|  |  | TK2 | Actualización en tiempo real | Programar lógica para actualizar automáticamente el estado de tareas | 2 | Nelson | Done |
+| UA02 | Visualización de Backlog | TK3 | Diseñar vista del backlog | Crear layout visual con organización por prioridad y etiquetas | 2 | Nelson | Done |
+|  |  | TK4 | Implementar ordenamiento del backlog | Permitir ordenar backlog por prioridad, fecha o estado | 1 | Joaquin Rivadeneyra | Done |
+| UA03 | Acceso a Tareas Pendientes | TK5 | Acceso rápido a tareas personales | Implementar botón "Mis tareas" y lista personal de pendientes | 2 | Joaquin Rivadeneyra | Done |
+| UA04 | Gestión de Recursos del Equipo | TK6 | Asignación de recursos | Permitir asignar tareas a usuarios desde una vista de recursos | 3 | Joaquin Rivadeneyra | Done |
+|  |  | TK7 | Balance de carga | Crear lógica que alerte si un miembro tiene sobrecarga de tareas | 2 | Sergio | Done |
+| UA05 | Notificaciones en Tiempo Real | TK8 | Integrar WebSockets | Implementar servicio de WebSockets para eventos clave del sistema | 3 | Diego | Done |
+|  |  | TK9 | Personalización de notificaciones | Crear menú de configuración de notificaciones por usuario | 2 | Diego | Done |
+| UA06 | Gestión de Accesos y Permisos | TK10 | Sistema de roles | Crear roles: Admin, Scrum Master, Dev, Lector, con niveles de acceso | 2 | Diego | Done |
+|  |  | TK11 | Validación de permisos | Asegurar acceso restringido por rol en cada módulo del sistema | 3 | Joaquín Carbajal | Done |
+| UA07 | Creación de Tareas de Alto Impacto | TK12 | Interfaz para tareas destacadas | Permitir marcar tareas como "alto impacto" al momento de crearlas | 2 | Joaquín Carbajal | Done |
+|  |  | TK13 | Priorización automática | Implementar lógica que ordene por nivel de impacto estimado | 1 | Joaquin Carbajal | Done |
+| UA08 | Gestión de Sprint en el Timeline | TK14 | Timeline visual | Diseñar e implementar timeline interactivo con fechas clave del sprint | 3 | Josue | Done |
+|  |  | TK15 | Sincronización con tareas | Vincular automáticamente las tareas al timeline del sprint | 2 | Josue | Done |
+| UA09 | Reportes de Actividad | TK16 | Generador de reportes | Crear sección de reportes por usuario y por sprint | 2 | Josue | Done |
+|  |  | TK17 | Exportación de reportes | Permitir descargar reportes en PDF y CSV | 1 | Josue | Done |
+| UA10 | Integración con herramientas de comunicación | TK18 | Conexión con Slack | Conectar ScrumFlow con Slack vía API y OAuth | 2 | Sergio | Done |
+|  |  | TK19 | Notificaciones a Slack | Enviar eventos importantes como mensajes a canales de Slack | 1 | Sergio | Done |
+|  |  | TK20 | Configuración de integración | Crear menú para configurar conexión y canales por equipo | 1 | Sergio | Done |
 
 
 
