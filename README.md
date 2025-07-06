@@ -4326,6 +4326,37 @@ Landing Page Preguntas Frecuentes y Hoja de Contacto
 
 ### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
 
+TS001	Endpoint para visualizar Miembros del equipo
+TS002	Endpoint para eliminación de miembro
+
+![Encuesta FlowStack](https://i.imgur.com/Qofb82o.png)
+
+
+TS003	Endpoint para gestión de videoconferencias
+TS004	Endpoint para gestión de grabaciones de videoconferencias
+
+![Encuesta FlowStack](https://i.imgur.com/8v4PJTM.png)
+
+TS005	Endpoint para creación de User Stories en el Backlog
+TS006	Endpoint para modificación de User Stories
+
+![Encuesta FlowStack](https://i.imgur.com/Pa7Fye8.png)
+
+
+TS009	Endpoint para registro de usuarios (sign up)
+TS010	Endpoint para inicio de sesión (sign in)
+
+![Encuesta FlowStack](https://i.imgur.com/UVMQofO.png)
+
+Endpoint para creación de Epics CRUD
+
+![Encuesta FlowStack](https://i.imgur.com/ZlEGuxx.png)
+
+Endpoint para creación de Sprints CRUD
+
+![Encuesta FlowStack](https://i.imgur.com/tFz2mNt.png)
+
+
 ### 8.3.3.6. Team Collaboration Insights
 
 ## 8.3.4. To-Be Validation Interviews
