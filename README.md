@@ -4280,15 +4280,13 @@ El siguiente Product Backlog prioriza las funcionalidades clave que se derivan d
 ## 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
 
 ### 8.3.3.1. To-Be Sprint Backlogs
-# 8.3.3.1. To-Be Sprint Backlog
 
 # 8.3.3.1. To-Be Sprint Backlog
 
-## Sprint # | Sprint 1
-
-| User Story |  | WorkItem/Task |  |  |  |  |  
-|------------|--|----------------|--|--|--|--|
-| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation** (Story Points) | **Assigned To** | **Status** (To-do / In-Process / To-Review / Done) |
+| Sprint | Sprint 1 |  |  |  |  |  |  |
+|--------|----------|--|--|--|--|--|--|
+| **User Story** |  | **WorkItem/Task** |  |  |  |  |  |
+| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (Story Points)** | **Assigned To** | **Status (To-do / In-Process / To-Review / Done)** |
 | UA01 | Gestión de Progreso de Tareas | TK1 | Crear tablero Kanban | Diseñar la vista principal del tablero de tareas con columnas de estado | 3 | Ray | Done |
 |  |  | TK2 | Actualización en tiempo real | Programar lógica para actualizar automáticamente el estado de tareas | 2 | Ray | Done |
 | UA02 | Visualización de Backlog | TK3 | Diseñar vista del backlog | Crear layout visual con organización por prioridad y etiquetas | 2 | Ray | Done |
@@ -4309,7 +4307,6 @@ El siguiente Product Backlog prioriza las funcionalidades clave que se derivan d
 | UA10 | Integración con herramientas de comunicación | TK18 | Conexión con Slack | Conectar ScrumFlow con Slack vía API y OAuth | 2 | Ray | Done |
 |  |  | TK19 | Notificaciones a Slack | Enviar eventos importantes como mensajes a canales de Slack | 1 | Ray | Done |
 |  |  | TK20 | Configuración de integración | Crear menú para configurar conexión y canales por equipo | 1 | Ray | Done |
-
 
 
 
