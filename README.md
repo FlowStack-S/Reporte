@@ -4281,7 +4281,7 @@ El siguiente Product Backlog prioriza las funcionalidades clave que se derivan d
 
 ### 8.3.3.1. To-Be Sprint Backlogs
 
-| Sprint | Sprint 1             |
+| Sprint | Sprint 1 |                 |
 |--------|----------|--|--|--|--|--|--|
 | **User Story** |  | **WorkItem/Task** |  |  |  |  |  |
 | **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (Story Points)** | **Assigned To** | **Status (To-do / In-Process / To-Review / Done)** |
