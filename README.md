@@ -4276,9 +4276,71 @@ El siguiente Product Backlog prioriza las funcionalidades clave que se derivan d
 
 ---
 
+
 ## 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
 
 ### 8.3.3.1. To-Be Sprint Backlogs
+# 8.3.3.1. To-Be Sprint Backlog
+
+## Sprint # | Sprint 1
+
+| User Story |  | WorkItem/Task |   |   |   |   |
+|------------|--|----------------|---|---|---|---|
+| **Id**     | **Title** | **Id** | **Title** | **Description** | **Estimation** (Story Points) | **Assigned To** | **Status** (To-do / In-Process / To-Review / Done) |
+| UA01 | Gestión de Progreso de Tareas | TK1 | Crear tablero Kanban | Diseñar la vista principal del tablero de tareas con columnas de estado | 3 | Ray | To-do |
+| UA01 | Gestión de Progreso de Tareas | TK2 | Actualización en tiempo real | Programar lógica para actualizar automáticamente el estado de tareas | 2 | Ray | To-do |
+| UA02 | Visualización de Backlog | TK3 | Diseñar vista del backlog | Crear layout visual con organización por prioridad y etiquetas | 2 | Alex | In-Process |
+| UA02 | Visualización de Backlog | TK4 | Implementar funcionalidad de ordenar backlog | Permitir ordenar backlog por prioridad, fecha o estado | 1 | Alex | To-do |
+| UA03 | Acceso a tareas pendientes | TK5 | Acceso rápido a tareas personales | Implementar botón "Mis tareas" y lista personal | 2 | Sara | To-do |
+
+---
+
+## Sprint # | Sprint 2
+
+| User Story |  | WorkItem/Task |   |   |   |   |
+|------------|--|----------------|---|---|---|---|
+| **Id**     | **Title** | **Id** | **Title** | **Description** | **Estimation** (Story Points) | **Assigned To** | **Status** (To-do / In-Process / To-Review / Done) |
+| UA04 | Gestión de Recursos del Equipo | TK6 | Asignación de recursos | Permitir asignar tareas a usuarios desde una vista de recursos | 3 | Sara | To-do |
+| UA04 | Gestión de Recursos del Equipo | TK7 | Balance de carga | Crear lógica que alerte si un miembro tiene sobrecarga | 2 | Alex | To-do |
+| UA05 | Notificaciones en tiempo real | TK8 | Integrar WebSockets | Implementar servicio de WebSockets para eventos clave | 3 | Ray | To-do |
+| UA05 | Notificaciones en tiempo real | TK9 | Personalización de notificaciones | Crear menú de configuración de notificaciones | 2 | Ray | To-do |
+
+---
+
+## Sprint # | Sprint 3
+
+| User Story |  | WorkItem/Task |   |   |   |   |
+|------------|--|----------------|---|---|---|---|
+| **Id**     | **Title** | **Id** | **Title** | **Description** | **Estimation** (Story Points) | **Assigned To** | **Status** (To-do / In-Process / To-Review / Done) |
+| UA06 | Gestión de accesos y permisos | TK10 | Sistema de roles | Crear roles: Admin, Scrum Master, Dev, Lector | 2 | Sara | To-do |
+| UA06 | Gestión de accesos y permisos | TK11 | Validación de permisos | Asegurar acceso restringido por rol en cada módulo | 3 | Ray | To-do |
+| UA07 | Crear tareas de alto impacto | TK12 | Interfaz para tareas destacadas | Permitir marcar tareas como "alto impacto" al crear | 2 | Alex | To-do |
+| UA07 | Crear tareas de alto impacto | TK13 | Lógica de priorización automática | Implementar ordenamiento por impacto estimado | 1 | Alex | To-do |
+
+---
+
+## Sprint # | Sprint 4
+
+| User Story |  | WorkItem/Task |   |   |   |   |
+|------------|--|----------------|---|---|---|---|
+| **Id**     | **Title** | **Id** | **Title** | **Description** | **Estimation** (Story Points) | **Assigned To** | **Status** (To-do / In-Process / To-Review / Done) |
+| UA08 | Gestión de Sprint en el Timeline | TK14 | Timeline visual | Diseñar e implementar timeline interactivo con fechas clave | 3 | Sara | To-do |
+| UA08 | Gestión de Sprint en el Timeline | TK15 | Sincronización de tareas en timeline | Vincular tareas al timeline automáticamente | 2 | Ray | To-do |
+| UA09 | Reportes de Actividad | TK16 | Generador de reportes | Crear sección de reportes por usuario y por sprint | 2 | Alex | To-do |
+| UA09 | Reportes de Actividad | TK17 | Exportación de reportes | Permitir descargar reportes en PDF o CSV | 1 | Alex | To-do |
+
+---
+
+## Sprint # | Sprint 5
+
+| User Story |  | WorkItem/Task |   |   |   |   |
+|------------|--|----------------|---|---|---|---|
+| **Id**     | **Title** | **Id** | **Title** | **Description** | **Estimation** (Story Points) | **Assigned To** | **Status** (To-do / In-Process / To-Review / Done) |
+| UA10 | Integración con herramientas de comunicación | TK18 | Conexión con Slack | Conectar ScrumFlow con Slack vía API y OAuth | 2 | Ray | To-do |
+| UA10 | Integración con herramientas de comunicación | TK19 | Notificaciones a Slack | Enviar eventos importantes como mensajes en canal | 1 | Alex | To-do |
+| UA10 | Integración con herramientas de comunicación | TK20 | Configuración de integración | Crear menú para configurar conexión y canales por equipo | 1 | Sara | To-do |
+
+
 
 ### 8.3.3.2. Implemented To-Be Landing Page Evidence
 
