@@ -4307,8 +4307,18 @@ El siguiente Product Backlog prioriza las funcionalidades clave que se derivan d
 |  |  | TK20 | Configuración de integración | Crear menú para configurar conexión y canales por equipo | 1 | Sergio | Done |
 
 
-
 ### 8.3.3.2. Implemented To-Be Landing Page Evidence
+Landing Page Banner 
+![Captura de pantalla 2025-07-06 170048](https://github.com/user-attachments/assets/64c2c4c0-d05a-44b4-a1e6-dbc8b3f63565)
+
+Landing Page Descripción
+![Captura de pantalla 2025-07-06 170132](https://github.com/user-attachments/assets/2be528f2-d142-4d3a-8395-ed67d605f529)
+
+Landing Page Beneficios y Nosotros
+![Captura de pantalla 2025-07-06 170148](https://github.com/user-attachments/assets/621dac56-3ae7-4775-9512-445ea1d92e4f)
+
+Landing Page Preguntas Frecuentes y Hoja de Contacto
+![Captura de pantalla 2025-07-06 170315](https://github.com/user-attachments/assets/37b37506-db5f-45b0-b9fd-83caa0b452c1)
 
 ### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
 
