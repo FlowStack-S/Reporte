@@ -99,11 +99,11 @@
 **URL BACKEND**: https://managewise-ffbua6fpfmbteaeq.brazilsouth-01.azurewebsites.net/api/v1/
 
 
-**TB1:** Se han realizado todas las tareas asignadas para la entrega del TB1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/FlowStack-ManageWise. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/FlowStack-ManageWise/FlowStack.git, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/FlowStack-S/LandingPage.git . Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes. En este Trabajo nos encargamos de conectar los bounded context y conectar cada uno con su frontend.
+**TB1:** En la entrega TB1, se completaron todas las tareas asignadas, enfocadas en mejorar y perfeccionar el trabajo anterior. Cada integrante del equipo colaboró en la corrección y mejora del informe previo, integrando los cambios necesarios. Además, se desarrolló la landing page, la cual tuvo algunas modificaciones recientes para adaptarse mejor al enfoque del proyecto. Durante este proceso, se realizó la integración de los distintos bounded contexts con sus respectivos frontends, permitiendo así una arquitectura conectada y funcional.
 
-**TP1:** Se han realizado todas las tareas asignadas para la entrega del **TP1**, las cuales se encuentran registradas en el repositorio de **GitHub** de la organización del equipo bajo el enlace https://github.com/FlowStack-ManageWise. En esta entrega, nos enfocamos en asegurar la calidad del software a través de pruebas exhaustivas y en la implementación de prácticas **DevOps**. En el área de **Testing Suites & Validation**, nos encargamos de realizar los **Core Entities Unit Tests**, **Core Integration Tests**, **Core Behavior-Driven Development** (BDD) y **Core System Tests**, asegurando que las entidades, integraciones, comportamientos y el sistema completo funcionaran correctamente antes de su despliegue. Además, desarrollamos los **Build & Test Suite Pipeline Components** para automatizar el proceso de pruebas y construcción, garantizando que el código sea siempre válido antes de su despliegue. Cada tarea fue documentada y versionada, asegurando que el progreso del proyecto estuviera siempre alineado con los objetivos establecidos y que el equipo pudiera revisar y validar cada componente a lo largo del ciclo de vida del desarrollo.
+**TP1:** En esta entrega, nos enfocamos en asegurar la calidad del software a través de pruebas exhaustivas y en la implementación de prácticas **DevOps**. En el área de **Testing Suites & Validation**, nos encargamos de realizar los **Core Entities Unit Tests**, **Core Integration Tests**, **Core Behavior-Driven Development** (BDD) y **Core System Tests**, asegurando que las entidades, integraciones, comportamientos y el sistema completo funcionaran correctamente antes de su despliegue. Además, desarrollamos los **Build & Test Suite Pipeline Components** para automatizar el proceso de pruebas y construcción, garantizando que el código sea siempre válido antes de su despliegue. Cada tarea fue documentada y versionada, asegurando que el progreso del proyecto estuviera siempre alineado con los objetivos establecidos y que el equipo pudiera revisar y validar cada componente a lo largo del ciclo de vida del desarrollo.
 
-**TB2:** Se han realizado todas las tareas asignadas para la entrega del **TB2**, registradas en el repositorio de **GitHub** del equipo: https://github.com/FlowStack-ManageWise. En esta entrega, nos centramos en mejorar la calidad del software y la eficiencia del proceso de desarrollo mediante la implementación de pruebas exhaustivas y prácticas DevOps. En el área de **Testing Suites & Validation**, se realizaron pruebas unitarias, de integración, BDD y de sistema, asegurando el correcto funcionamiento de todas las entidades e interacciones. En el **Capítulo VII**, se automatizaron pipelines de integración, entrega y despliegue continuo, además de establecer componentes de monitoreo, alertas y notificaciones para garantizar la observabilidad del sistema. Finalmente, en el **Capítulo VIII**, se aplicó el enfoque de Experiment-Driven Development mediante la planificación de experimentos, definición de hipótesis, métricas clave y recopilación de datos, lo que permitió validar con usuarios reales el valor aportado por la solución.
+**TB2:** En esta entrega, nos centramos en mejorar la calidad del software y la eficiencia del proceso de desarrollo mediante la implementación de pruebas exhaustivas y prácticas DevOps. En el área de **Testing Suites & Validation**, se realizaron pruebas unitarias, de integración, BDD y de sistema, asegurando el correcto funcionamiento de todas las entidades e interacciones. En el **Capítulo VII**, se automatizaron pipelines de integración, entrega y despliegue continuo, además de establecer componentes de monitoreo, alertas y notificaciones para garantizar la observabilidad del sistema. Finalmente, en el **Capítulo VIII**, se aplicó el enfoque de Experiment-Driven Development mediante la planificación de experimentos, definición de hipótesis, métricas clave y recopilación de datos, lo que permitió validar con usuarios reales el valor aportado por la solución.
 
 **TF1:** Se ha validado la culminación del desarrollo experimental de FlowStack, consolidando todos los avances técnicos y estratégicos del proyecto. En esta fase, se construyeron y validaron los principales componentes de la solución Landing Page, aplicación web, aplicación móvil nativa y backend serverless, además de estructurar un ciclo de vida del producto impulsado por experimentación. Se elaboraron user stories, backlogs y pipelines que guiaron el desarrollo ágil de las funcionalidades clave. Mediante entrevistas de validación con usuarios reales, se recolectaron datos cualitativos que permitieron verificar hipótesis y ajustar la propuesta de valor. Asimismo, se analizaron los resultados obtenidos, se reestructuró el Question Backlog y se promovió el aprendizaje continuo mediante una sesión de shareback. Finalmente, se preparó el pre-lanzamiento del producto con un video introductorio, reforzando el compromiso del equipo con una entrega funcional, validada y alineada a las necesidades reales del mercado.
 
@@ -740,22 +740,21 @@ Duracion: 6:17
 Resumen:<br>
 La entrevista con María nos comenta que en su trabajo como líder de proyecto su principal responsabilidad es monitorear todas las operaciones y gestionarlas para lograr el óptimo desarrollo. Considera que las empresas deben empezar a utilizar nuevos programas para la gestión de proyecto, pues las que usan están quedando obsoletas. También nos cuenta de la importancia de que este nuevo programa debe ser intuitiva y fácil de usar, además de ser adaptable para cualquier dispositivo con acceso a internet. Nos comenta su interés de la IA en estos programas está relacionada con todos los logros que han logrado y que ella misma también usa cuando trabaja. Con su experiencia resalta que debe ser poner atención cuando busques una empresa que te ofrezca este producto, es importante que el software pueda adaptarse a sus necesidades y tenga la seguridad de que protegerá sus datos.
 
-3.  Entrevista 3: <br>
-    Datos del entrevistado <br>
-    Nombre: Nora <br>
-    Apellidos: Castro Manrique<br>
-    Edad: 42 <br>
-    Distrito: Pueblo Libre <br>
+3. **Entrevista 3:**  
+   - **Datos del entrevistado:**   
+     Nombre: Rodrigo 
+     Apellidos: Raygada
+     Edad: 22  
+     Distrito: San Borja
 
-![Entrevista Nora](assets/images/entrevista_Nora.jpg)
+   ![image](assets/entrevista-Rodrigo2.png)
+  
+   **URL**: [Link de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123548_upc_edu_pe/EcRAdPuBpolJlYq9e84mQOMBuCjN3hQgGelv3Ily4xvQcw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=l3Cz8l)  
+   **Inicio**: 0:00
+   **Duración**: 6:09
 
-URL: [Link de entrevista](https://drive.google.com/file/d/11xswJuEZQy51WRqAmZDu0KfjyF-6rV-F/view?usp=sharing "Entrevista 3")
-
-Inicio: 0:40<br>
-Duracion: 5:39
-
-Resumen:<br>
-La entrevista con Nora reveló aspectos importantes sobre la gestión y flujo de trabajo. Se destacó que el trabajo en equipo es fundamental para el éxito de un proyecto, y que contar con herramientas de gestión y seguimiento efectivas es crucial para mantener la coordinación y el progreso del equipo. Además, se considera que, tecnologías emergentes serían de mucha ayuda. En un futuro, se espera que este tipo de tecnologías sumadas a herramientas existentes puedan ayudar a su adaptación para diferentes modelos de negocio y a agilizar el trabajo.
+   **Resumen:**  
+   Rodrigo, desarrollador de 22 años, destacó que ScrumFlow le ha facilitado la gestión de tareas y sprints en su equipo ágil, valorando especialmente su interfaz intuitiva. Sin embargo, señaló que la plataforma podría mejorar en visibilidad y control de tareas asignadas, así como en la capacidad para manejar múltiples proyectos simultáneamente de forma más fluida. También mencionó que, aunque el sistema de asignación y seguimiento es claro, extraña funcionalidades como gráficos burndown integrados y una mejor personalización de prioridades. Pese a estos puntos, recomendaría ScrumFlow a otros desarrolladores, siempre que se optimice su escalabilidad para equipos más grandes o proyectos complejos. Sugirió añadir integraciones con herramientas como Git y opciones avanzadas de filtrado para tareas.
 
 **Segmento 2: Equipo de Desarrollo de Software**
 
@@ -793,22 +792,21 @@ Duracion: 4:58
 Resumen:<br>
 La entrevista a Leandro nos cuenta de primera mano la experiencia como practicante y como las herramientas de gestión actuales influyen. Nos cuenta que su líder de proyecto, para seguir las metodologías Ágiles, programa muchas reuniones donde en muchas se redunda en los mismos temas, y el preferiría otra forma de comunicación, problema que podría solucionarse con un programa de gestión. Menciona que una herramienta habitual es GitHub, pero lo considera poco intuitivo y difícil de dominar. Cree firmemente que es necesario una herramienta que ponga más atención en la interfaz de usuario, y a la facilidad de personalizarla.
 
-3.  Entrevista 3: <br>
-    Datos del entrevistado <br>
-    Nombre: Rodrigo <br>
-    Apellidos: Acosa Ramirez<br>
-    Edad: 22 <br>
-    Distrito: San Miguel <br>
+3. **Entrevista 3:**  
+   - **Datos del entrevistado:**  
+     Nombre: Diego 
+     Apellidos: Amasifuen Salazar  
+     Edad: 21  
+     Distrito: Villa María del Triunfo
 
-![alt text](assets/images/entrevista_Rodrigo.jpg)
+   ![image](https://github.com/user-attachments/assets/d3f77e78-25a3-4d90-aa29-3763ef29b30b)
+  
+   **URL**: [Link de entrevista](https://youtu.be/xKLzGyvXyig)  
+   **Inicio**: 0:00
+   **Duración**: 7:38
 
-URL: [Link de entrevista](https://drive.google.com/file/d/1aZ94C1wixcfQNa_dZCZSkIKiBnpPf91i/view?usp=sharing "Entrevista 3")
-
-Inicio: 0:50<br>
-Duracion: 10:19
-
-Resumen:<br>
-La entrevista con Rodrigo, reveló aspectos clave sobre cómo percibe su entorno de trabajo y los desafíos que enfrenta. Se destacó que herramientas poco intuitivas y sin seguimiente constante pueden ralentizar el trabajo, además que la flexiblidad y adaptabilidad son muy importantes a la hora de acelerar el mismo. Aunque ha logrado adaptarse a las herramientas disponibles, considera que lo detallado con aterioridad limita su eficiencia. Rodrigo espera que en el futuro se desarrollen herramientas que también ofrezcan la flexibilidad necesaria para ajustarse a diferentes entornos y metodologías de trabajo, y que implementen tecnologías emergentes.
+   **Resumen:**  
+   Diego, con 21 años y residente en Villa María, comentó que FlowStack ha facilitado su trabajo en el equipo de desarrollo, especialmente en la asignación y seguimiento de tareas. Sin embargo, mencionó que la visibilidad y el control de las tareas asignadas a cada miembro podrían mejorarse. También expresó que el sistema de gestión de tareas es efectivo, pero que sería útil incluir una opción para manejar más de un proyecto simultáneamente de manera más sencilla.
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -2025,13 +2023,9 @@ Link del prototipo IOS: https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webap
 
 El prototipo de la aplicación busca ofrecer una experiencia intuitiva para la gestión de proyectos. Las principales decisiones de interacción se centraron en la accesibilidad, permitiendo a usuarios seleccionados, en este caso los líderes, crear, editar y visualizar tareas fácilmente. Además, secciones como Proyectos, Herramientas, Seguridad y Reportes están diseñadas para asegurar una navegación clara y eficiente, optimizando la colaboración y el seguimiento del progreso en tiempo real.
 
-Link del prototipo: https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webapp-managewis?page-id=571%3A4620&node-id=593-8064&node-type=canvas&viewport=322%2C241%2C0.19&t=y2voS4erht03K4To-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=593%3A8064
-<br>
-Link del video: https://drive.google.com/drive/folders/12NAEuYcQpbOkQ6pO8YS2SoGiv-g4CQp4?usp=sharing
-
-<br>
-
 ![prototipo](/assets/images/prototype.png)
+
+Link del prototipo: https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webapp-managewis?page-id=571%3A4620&node-id=593-8064&node-type=canvas&viewport=322%2C241%2C0.19&t=y2voS4erht03K4To-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=593%3A8064
 
 ### 4.6. Domain-Driven Software Architecture
 
@@ -2720,7 +2714,13 @@ Este enfoque garantizó eficiencia, calidad y adaptabilidad a lo largo de todos 
 
 ### 5.3. Video About-the-Product.
 
-Link del video About-the-Product : https://drive.google.com/file/d/1ZAdgJaqQmdNiadyITswMFlppex-lGx59/view?usp=sharing
+ManageWise es una solución innovadora enfocada en simplificar la gestión de proyectos de software mediante funcionalidades ágiles, intuitivas y altamente integradas. Su diseño está orientado a ayudar a líderes de proyectos, Product Owners, Scrum Masters y equipos de desarrollo a organizar, planificar y ejecutar sus tareas de forma más efectiva. Esta plataforma combina la automatización, la transparencia y el control, permitiendo a los usuarios optimizar sus flujos de trabajo y tomar decisiones basadas en datos reales.
+
+<div align="center">
+    <img src="assets/images/about1.jpg"><br>
+  </div>
+
+Link del video About-the-Product : https://youtube.com/shorts/og8Ede5eYpg
 
 ## Capítulo VI: Product Verification & Validation
 
@@ -2939,22 +2939,23 @@ Estas entrevistas tienen como objetivo validar las funcionalidades y caracterís
    **Resumen:**  
    En esta entrevista, Cristian Matos, un joven de 26 años, comparte su experiencia al probar una aplicación web orientada a la gestión de proyectos. Explica cómo se pueden gestionar miembros, crear reuniones fácilmente y organizar el backlog mediante la creación de épicas y user stories con fechas límite. Cristian destaca la interfaz intuitiva y la facilidad de navegación como puntos fuertes de la herramienta, aunque menciona algunos problemas técnicos menores, como la dificultad al seleccionar roles al agregar miembros, proponiendo mejoras como un menú desplegable. También sugiere incorporar estadísticas y funciones adicionales para gestionar sprints y épicas. Finalmente, recomienda la aplicación a otros gestores de proyectos, señalando que, con algunos ajustes, podría ser aún más útil y eficiente.
 
-2. **Entrevista 2:**  
-   - **Datos del entrevistado:**  
-     Nombre: Nora  
-     Apellidos: Castro Manrique  
-     Edad: 42  
-     Distrito: Pueblo Libre
+2. **Entrevista 2:**   
+   - **Datos del entrevistado:**   
+     Nombre: Rodrigo 
+     Apellidos: Raygada
+     Edad: 22  
+     Distrito: San Borja
 
-   ![Entrevista Nora](assets/images/entrevista_Nora.jpg)  
-   **URL**: [Link de entrevista](https://drive.google.com/file/d/11xswJuEZQy51WRqAmZDu0KfjyF-6rV-F/view?usp=sharing)  
-   **Inicio**: 0:40  
-   **Duración**: 5:39
+   ![image](assets/entrevista-Rodrigo2.png)
+  
+   **URL**: [Link de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123548_upc_edu_pe/EcRAdPuBpolJlYq9e84mQOMBuCjN3hQgGelv3Ily4xvQcw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=l3Cz8l)  
+   **Inicio**: 0:00
+   **Duración**: 6:09
 
    **Resumen:**  
-   La entrevista con Nora reveló aspectos importantes sobre la gestión y flujo de trabajo. Se destacó que el trabajo en equipo es fundamental para el éxito de un proyecto, y que contar con herramientas de gestión efectivas es crucial para mantener la coordinación y el progreso del equipo.
+   Rodrigo, desarrollador de 22 años, destacó que ScrumFlow le ha facilitado la gestión de tareas y sprints en su equipo ágil, valorando especialmente su interfaz intuitiva. Sin embargo, señaló que la plataforma podría mejorar en visibilidad y control de tareas asignadas, así como en la capacidad para manejar múltiples proyectos simultáneamente de forma más fluida. También mencionó que, aunque el sistema de asignación y seguimiento es claro, extraña funcionalidades como gráficos burndown integrados y una mejor personalización de prioridades. Pese a estos puntos, recomendaría ScrumFlow a otros desarrolladores, siempre que se optimice su escalabilidad para equipos más grandes o proyectos complejos. Sugirió añadir integraciones con herramientas como Git y opciones avanzadas de filtrado para tareas.
 
-4. **Entrevista 3:**  
+ **Entrevista 3:**  
    - **Datos del entrevistado:**  
      Nombre: Gracia  
      Apellidos: Pinillos Nepochathy  
@@ -2968,10 +2969,6 @@ Estas entrevistas tienen como objetivo validar las funcionalidades y caracterís
 
    **Resumen:**  
    En esta entrevista, Gracia Pinillos, profesional de 28 años, compartió su experiencia usando ScrumFlow como herramienta de gestión ágil. Resaltó que la plataforma facilita la organización de tareas, la planificación de sprints y el seguimiento diario del equipo. Opinó que la interfaz es intuitiva, aunque sugirió mejoras en la agrupación de funciones. Mencionó algunos problemas menores, como lentitud al cargar datos y dificultades desde dispositivos móviles. Propuso funciones adicionales como integración con OKRs, alertas automáticas y dashboards más personalizables. Valoró positivamente las funcionalidades de colaboración, pero recomendó una mejor integración con canales como Slack. Finalmente, consideró que ScrumFlow es recomendable para empresas en crecimiento, siempre que se apliquen ciertos ajustes para optimizar su desempeño.
-
-
-**Resumen:**  
-En esta entrevista, Carlos Salinas, gerente de una empresa de desarrollo de software en crecimiento, relata su experiencia usando ScrumFlow como herramienta para la gestión de proyectos ágiles. Destaca que la plataforma facilita la organización de tareas, la planificación de sprints y la coordinación diaria del equipo mediante su tablero Kanban. Considera que la interfaz es bastante intuitiva, aunque con margen de mejora en la agrupación de funciones. Menciona algunos problemas técnicos menores relacionados con la carga de datos y la edición desde dispositivos móviles. Sugiere incorporar funciones como seguimiento de OKRs, alertas automatizadas y dashboards personalizables. Valora positivamente la seguridad y las funcionalidades de colaboración, aunque plantea integrar ScrumFlow con canales externos como Slack. Finalmente, recomienda la herramienta a otros líderes de desarrollo por su utilidad en contextos de empresas medianas y su capacidad de adaptación al trabajo ágil, proponiendo solo algunos ajustes para maximizar su eficiencia.
 
 ## **Segmento 2: Equipo de Desarrollo de Software**
 
@@ -3021,22 +3018,6 @@ En esta entrevista, Carlos Salinas, gerente de una empresa de desarrollo de soft
 
    **Resumen:**  
    Diego, con 21 años y residente en Villa María, comentó que FlowStack ha facilitado su trabajo en el equipo de desarrollo, especialmente en la asignación y seguimiento de tareas. Sin embargo, mencionó que la visibilidad y el control de las tareas asignadas a cada miembro podrían mejorarse. También expresó que el sistema de gestión de tareas es efectivo, pero que sería útil incluir una opción para manejar más de un proyecto simultáneamente de manera más sencilla.
-
-4. **Entrevista 4:**  
-   - **Datos del entrevistado:**   
-     Nombre: Rodrigo 
-     Apellidos: Raygada
-     Edad: 22  
-     Distrito: San Borja
-
-   ![image](assets/entrevista-Rodrigo2.png)
-  
-   **URL**: [Link de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123548_upc_edu_pe/EcRAdPuBpolJlYq9e84mQOMBuCjN3hQgGelv3Ily4xvQcw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=l3Cz8l)  
-   **Inicio**: 0:00
-   **Duración**: 6:09
-
-   **Resumen:**  
-   Rodrigo, desarrollador de 22 años, destacó que ScrumFlow le ha facilitado la gestión de tareas y sprints en su equipo ágil, valorando especialmente su interfaz intuitiva. Sin embargo, señaló que la plataforma podría mejorar en visibilidad y control de tareas asignadas, así como en la capacidad para manejar múltiples proyectos simultáneamente de forma más fluida. También mencionó que, aunque el sistema de asignación y seguimiento es claro, extraña funcionalidades como gráficos burndown integrados y una mejor personalización de prioridades. Pese a estos puntos, recomendaría ScrumFlow a otros desarrolladores, siempre que se optimice su escalabilidad para equipos más grandes o proyectos complejos. Sugirió añadir integraciones con herramientas como Git y opciones avanzadas de filtrado para tareas.
 
 ### 6.3.3. Evaluaciones según heurísticas
 
@@ -4328,6 +4309,14 @@ El siguiente Product Backlog prioriza las funcionalidades clave que se derivan d
 ## 8.6. To-Be Software Platform Pre-launch
 
 ### 8.6.1. About-the-Product Intro Video
+
+Esta sección presenta el video introductorio de ManageWise, el cual tiene como objetivo explicar de forma breve y atractiva el núcleo del producto. El video está diseñado para captar la atención de los potenciales usuarios desde el primer momento, destacando los principales beneficios y funcionalidades de la plataforma. Además, busca transmitir el propósito central de ManageWise: ofrecer una herramienta integral que potencie la productividad, la eficiencia y la colaboración en los equipos de desarrollo de software.
+
+<div align="center">
+    <img src="assets/images/about2.jpg"><br>
+  </div>
+
+Link del video About-the-Product Intro Video : https://youtube.com/shorts/0rz_QUQjkmY
 
 ### 8.6.2. About-the-Team
 
