@@ -4363,9 +4363,72 @@ Endpoint para creación de Sprints CRUD
 
 ### 8.3.4.1. Diseño de Entrevistas
 
+**Segmentos objetivos:**
+
+- **Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento (Product Owner y Scrum Master)**
+
+- **Equipo de Desarrollo de Software**
+
+Antes de realizar las entrevistas de validación, se ha llevado a cabo un análisis previo para asegurar que las preguntas formuladas aborden correctamente las necesidades y expectativas de cada segmento. El propósito de estas entrevistas es validar la efectividad y experiencia de uso de FlowStack, identificando mejoras y validando el valor real que aporta la solución.
+
+---
+
+### Preguntas para cada segmento:
+
+#### Información del Entrevistado (Ambos Segmentos):
+
+- ¿Cuál es tu nombre completo?
+- ¿Cuál es tu rol en la empresa o equipo?
+- ¿Cuántos años de experiencia tienes en entornos ágiles?
+- ¿Qué herramientas similares a FlowStack has utilizado previamente?
+- ¿Con qué frecuencia utilizas plataformas de gestión ágil?
+
+---
+
+#### Segmento Objetivo #1: **Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento (Product Owner y Scrum Master)**
+
+1. ¿Cómo calificarías la experiencia general al utilizar FlowStack para planificar y liderar proyectos ágiles?
+2. ¿El dashboard predictivo te ha permitido anticipar riesgos o cuellos de botella en tus sprints?
+3. ¿Qué tan útil te ha resultado la funcionalidad de backlog para organizar el trabajo?
+4. ¿El sistema facilita la gestión de roles, permisos y accesos del equipo?
+5. ¿Te parece clara y comprensible la interfaz de usuario en términos de navegación?
+6. ¿Has utilizado la integración con GitHub? ¿Fue efectiva para mantener sincronizado el trabajo?
+7. ¿El timeline de sprint contribuyó a una mejor visualización del flujo del proyecto?
+8. ¿Qué tan precisos consideras los reportes automáticos generados por FlowStack?
+9. ¿Has tenido algún problema al utilizar las funciones de planificación de tareas?
+10. ¿La aplicación ayudó a mejorar la comunicación con tu equipo de desarrollo?
+11. ¿Las notificaciones del sistema te ayudaron a reaccionar rápidamente ante cambios o bloqueos?
+12. ¿Consideras que FlowStack impulsa una cultura de mejora continua?
+13. ¿Qué tan personalizable encontraste la experiencia según tu flujo de trabajo?
+14. ¿Qué funcionalidad usarías más intensamente en un entorno productivo?
+15. ¿Recomendarías FlowStack a otras empresas que estén adoptando metodologías ágiles? ¿Por qué?
+
+---
+
+#### Segmento Objetivo #2: **Equipo de Desarrollo de Software**
+
+1. ¿Tuviste dificultades para empezar a usar FlowStack o fue un proceso fluido?
+2. ¿El sistema te permite identificar rápidamente tus tareas pendientes y prioridades?
+3. ¿El tutorial interactivo inicial fue útil para comprender la plataforma?
+4. ¿Qué tan clara fue la gestión de tareas asignadas y su seguimiento?
+5. ¿Las notificaciones en tiempo real te resultaron útiles para mantenerte al día?
+6. ¿El sistema de alertas tempranas te ayudó a resolver bloqueos más rápidamente?
+7. ¿Te sentiste cómodo colaborando con otros miembros del equipo dentro de FlowStack?
+8. ¿La interfaz web y móvil fue lo suficientemente responsiva y clara para tu uso diario?
+9. ¿Te pareció útil el seguimiento de tareas a través del dashboard individual?
+10. ¿El sistema fue eficiente para organizar tu tiempo y tareas diarias?
+11. ¿Tuviste problemas técnicos o errores frecuentes al usar la plataforma?
+12. ¿Pudiste integrar tu flujo de trabajo habitual con las herramientas ofrecidas?
+13. ¿Qué funciones consideras que están de más o que no utilizas nunca?
+14. ¿Qué funcionalidades adicionales sugerirías para mejorar la experiencia como desarrollador?
+15. ¿Recomendarías FlowStack a otros desarrolladores de tu entorno? ¿Por qué?
+
+---
+
 ### 8.3.4.2. Registro de Entrevistas
 
-**Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento(Product Owner y Scrum Master)**
+#### Segmento 1: **Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento (Product Owner y Scrum Master)**
+
 1. Entrevista 1: <br>
    Datos del entrevistado <br>
    Nombre: Ramiro <br>
@@ -4383,6 +4446,22 @@ Duracion: 4:55
 Resumen:<br>
 Ramiro Guzmán, CEO de una empresa de software, recomienda la herramienta Flow Stack para la gestión ágil de proyectos. Destaca su interfaz intuitiva, visualizaciones claras y funciones como el dashboard predictivo, la integración con GitHub y la línea de tiempo de sprints, que mejoran la planificación y comunicación del equipo. Aunque tuvo un pequeño error con fechas, fue resuelto rápido. Flow Stack ha facilitado el trabajo colaborativo, la gestión de tareas y fomenta la mejora continua, por lo que la considera ideal para empresas ágiles en crecimiento.
 
+ **Entrevista 2:**  
+   - **Datos del entrevistado:**  
+     Nombre: Diego 
+     Apellidos: Salazar Quispe  
+     Edad: 28  
+     Distrito: San Juan de Lurigancho
+
+   ![Foto de entrevista](assets/images/jery.jpg)  
+   **URL**: [Link de entrevista](https://drive.google.com/file/d/192tCNrS1owxMDlq46LFebaLXUOJ0O_At/view?usp=sharing)  
+   **Inicio**: 0:01  
+   **Duración**: 6:04
+
+   **Resumen:**  
+   Diego Salazar Quispe destacó una experiencia muy positiva con FlowStack, resaltando la facilidad para planificar y liderar proyectos ágiles gracias a su interfaz clara y funcionalidades clave como el dashboard predictivo, el backlog y la integración con GitHub. Señaló que la plataforma ha mejorado significativamente la organización de tareas, la visualización del progreso mediante el timeline de sprint y la comunicación del equipo mediante notificaciones efectivas. Además, valoró la capacidad de personalización y recomendó FlowStack por su utilidad, enfoque práctico y contribución a una cultura de mejora continua en entornos ágiles.
+
+#### Segmento 2: **Equipo de Desarrollo de Software**
 
 ## 8.4. Experiment Aftermath & Analysis
 
