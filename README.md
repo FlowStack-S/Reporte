@@ -4365,6 +4365,25 @@ Endpoint para creación de Sprints CRUD
 
 ### 8.3.4.2. Registro de Entrevistas
 
+**Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento(Product Owner y Scrum Master)**
+1. Entrevista 1: <br>
+   Datos del entrevistado <br>
+   Nombre: Ramiro <br>
+   Apellidos: Guzmán<br>
+   Edad: 26 <br>
+   San Miguel <br>
+
+![Encuesta FlowStack](https://i.imgur.com/xqdc175.png)
+
+URL: [Link de entrevista](https://youtu.be/lGBcCAqxEUc)
+
+Inicio: 0:00<br>
+Duracion: 4:55
+
+Resumen:<br>
+Ramiro Guzmán, CEO de una empresa de software, recomienda la herramienta Flow Stack para la gestión ágil de proyectos. Destaca su interfaz intuitiva, visualizaciones claras y funciones como el dashboard predictivo, la integración con GitHub y la línea de tiempo de sprints, que mejoran la planificación y comunicación del equipo. Aunque tuvo un pequeño error con fechas, fue resuelto rápido. Flow Stack ha facilitado el trabajo colaborativo, la gestión de tareas y fomenta la mejora continua, por lo que la considera ideal para empresas ágiles en crecimiento.
+
+
 ## 8.4. Experiment Aftermath & Analysis
 
 ### 8.4.1. Analysis and Interpretation of Results
