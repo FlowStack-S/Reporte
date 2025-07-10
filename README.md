@@ -4569,11 +4569,12 @@ Ramiro Guzmán, CEO de una empresa de software, recomienda la herramienta Flow S
      Distrito: Villa María del Triunfo
 
 <img width="1591" height="508" alt="image" src="https://github.com/user-attachments/assets/948eb588-d75b-4d7b-a584-dd198f99cd2c" />
-   **URL**: https://youtu.be/fWVa-PBfDKg
-   **Inicio**: 0:01  
-   **Duración**: 6:26
 
-   **Resumen:**  
+ - **URL**: https://youtu.be/fWVa-PBfDKg
+ - **Inicio**: 0:01  
+ - **Duración**: 6:26
+   
+ - **Resumen:**  
    Andrés comentó que el proceso de adopción de FlowStack fue bastante fluido, con un tutorial interactivo que le resultó claro y útil para comenzar. Destacó que la plataforma le permite identificar con facilidad sus tareas pendientes y prioridades, y valoró positivamente el sistema de notificaciones en tiempo real, así como las alertas tempranas, que le ayudaron a resolver bloqueos más rápido. Se sintió cómodo colaborando con su equipo dentro de la herramienta y encontró clara la gestión y seguimiento de tareas asignadas. También mencionó que tanto la interfaz web como la móvil son responsivas y adecuadas para su uso diario. El dashboard individual le pareció útil para hacer seguimiento a sus tareas, y considera que FlowStack ha sido eficiente para organizar su tiempo y trabajo diario.
 
 
