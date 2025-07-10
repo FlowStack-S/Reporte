@@ -808,6 +808,34 @@ La entrevista a Leandro nos cuenta de primera mano la experiencia como practican
    **Resumen:**  
    Diego, con 21 años y residente en Villa María, comentó que FlowStack ha facilitado su trabajo en el equipo de desarrollo, especialmente en la asignación y seguimiento de tareas. Sin embargo, mencionó que la visibilidad y el control de las tareas asignadas a cada miembro podrían mejorarse. También expresó que el sistema de gestión de tareas es efectivo, pero que sería útil incluir una opción para manejar más de un proyecto simultáneamente de manera más sencilla.
 
+
+4. **Entrevista 4:**
+  - **Datos del entrevistado:**  
+    Nombre: Pamela  
+    Apellidos: Gutierrez Luz  
+    Edad: 24  
+    Distrito: Miraflores
+
+<img src="assets/TF/ent_2_4.png" alt="Entrevista 3" width="500">
+
+   **URL**: [Link de entrevista](Link de entrevista)  
+   **Inicio**: 0:00  
+   **Duración**: 7:11
+
+   **Resumen:**  
+   Pamela, profesional de 24 años, comentó que comenzar a usar FlowStack fue una experiencia bastante sencilla. La interfaz le resultó clara e intuitiva desde el inicio, permitiéndole empezar sin depender de documentación adicional. Destacó que la organización de tareas y prioridades es uno de los puntos más fuertes de la plataforma, ayudándola a tener claridad sobre lo que debe hacer día a día.
+
+   El tutorial inicial le pareció útil para lo básico, aunque cree que podría ampliarse con ejemplos más avanzados. La gestión y seguimiento de tareas asignadas fue clara, permitiéndole visualizar el estado de cada elemento sin necesidad de apoyarse en herramientas externas.
+
+   Valoró positivamente las notificaciones en tiempo real y las alertas tempranas, ya que le permitieron actuar rápidamente ante bloqueos o cambios. También se sintió cómoda colaborando con su equipo dentro de FlowStack, gracias a la centralización de comentarios y archivos en un solo lugar.
+
+   Respecto a la interfaz, encontró que la versión web funciona muy bien, mientras que la versión móvil es útil para consultar información, aunque limitada para tareas complejas. El dashboard individual le sirvió para dar seguimiento a su productividad semanal y organizar su tiempo con mayor eficiencia.
+
+
+   Finalmente, afirmó que sí recomendaría FlowStack a otros desarrolladores, especialmente en equipos ágiles o en crecimiento, resaltando su potencial para mejorar la organización y la colaboración si se realizan algunos ajustes adicionales.
+
+
+
 ### 2.2.3. Análisis de entrevistas
 
 **Análisis Segmento 1: Líder o Gerente de Empresa de Desarrollo de Software en Crecimiento(Product Owner y Scrum Master)**
