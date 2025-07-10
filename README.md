@@ -4345,6 +4345,41 @@ Landing Page Preguntas Frecuentes y Hoja de Contacto
 
 ### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
 
+**UA01**
+<p align="center">
+  <img src="assets/TF/ua01.jpg" alt="image">
+</p>
+
+**UA02**
+<p align="center">
+  <img src="assets/TF/ua02.jpg" alt="image">
+</p>
+
+**UA03**
+<p align="center">
+  <img src="assets/TF/ua03.jpg" alt="image">
+</p>
+
+**UA04 y UA7**
+<p align="center">
+  <img src="assets/TF/ua4&7.jpg" alt="image">
+</p>
+
+**UA05 y UA6**
+<p align="center">
+  <img src="assets/TF/ua5&6.jpg" alt="image">
+</p>
+
+**UA08**
+<p align="center">
+  <img src="assets/TF/ua8.jpg" alt="image">
+</p>
+
+**UA09**
+<p align="center">
+  <img src="assets/TF/ua9.jpg" alt="image">
+</p>
+
 ### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
 
 **US06** – Se implementó un menú tipo hamburger en la versión móvil, permitiendo una navegación clara y directa entre secciones, cumpliendo con la necesidad del usuario de encontrar información rápidamente.
