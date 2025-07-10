@@ -816,22 +816,17 @@ La entrevista a Leandro nos cuenta de primera mano la experiencia como practican
     Edad: 24  
     Distrito: Miraflores
 
-<img src="assets/TF/ent_2_4.png" alt="Entrevista 3" width="500">
+  <img src="assets/TF/ent_2_4.png" alt="Entrevista 3" width="500">
 
-   **URL**: [Link de entrevista](Link de entrevista)  
+   **URL**: [Link de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202119880_upc_edu_pe/EWi0RKPvJhlGhiQpJYoo1-gBzV43NTPJm4AU7qov6aXrEQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6KMcII)  
    **Inicio**: 0:00  
    **Duración**: 7:11
 
    **Resumen:**  
    Pamela, profesional de 24 años, comentó que comenzar a usar FlowStack fue una experiencia bastante sencilla. La interfaz le resultó clara e intuitiva desde el inicio, permitiéndole empezar sin depender de documentación adicional. Destacó que la organización de tareas y prioridades es uno de los puntos más fuertes de la plataforma, ayudándola a tener claridad sobre lo que debe hacer día a día.
-
    El tutorial inicial le pareció útil para lo básico, aunque cree que podría ampliarse con ejemplos más avanzados. La gestión y seguimiento de tareas asignadas fue clara, permitiéndole visualizar el estado de cada elemento sin necesidad de apoyarse en herramientas externas.
-
    Valoró positivamente las notificaciones en tiempo real y las alertas tempranas, ya que le permitieron actuar rápidamente ante bloqueos o cambios. También se sintió cómoda colaborando con su equipo dentro de FlowStack, gracias a la centralización de comentarios y archivos en un solo lugar.
-
    Respecto a la interfaz, encontró que la versión web funciona muy bien, mientras que la versión móvil es útil para consultar información, aunque limitada para tareas complejas. El dashboard individual le sirvió para dar seguimiento a su productividad semanal y organizar su tiempo con mayor eficiencia.
-
-
    Finalmente, afirmó que sí recomendaría FlowStack a otros desarrolladores, especialmente en equipos ágiles o en crecimiento, resaltando su potencial para mejorar la organización y la colaboración si se realizan algunos ajustes adicionales.
 
 
