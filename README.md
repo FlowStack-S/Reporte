@@ -4347,6 +4347,46 @@ Landing Page Preguntas Frecuentes y Hoja de Contacto
 
 ### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
 
+**US06** – Se implementó un menú tipo hamburger en la versión móvil, permitiendo una navegación clara y directa entre secciones, cumpliendo con la necesidad del usuario de encontrar información rápidamente.
+<p align="center">
+  <img src="assets/TF/mobile_tobe_1.png" alt="image" width="200">
+</p>
+
+**US01** – Se adaptaron todas las secciones clave (Hero, Descripción, Beneficios, Nosotros, FAQ) a la versión móvil, manteniendo su finalidad original y asegurando un acceso óptimo y responsivo a la información.
+<p align="center">
+  <img src="assets/TF/mobile_tobe_2.png" alt="image" width="200">
+</p>
+
+**US34** – Se implementó un panel de estadísticas que permite visualizar el porcentaje de historias completadas por sprint, facilitando el seguimiento del rendimiento del equipo y apoyando la toma de decisiones informadas.
+<p align="center">
+  <img src="assets/TF/mobile_tobe_3.png" alt="image" width="200">
+</p>
+
+**US28** – Se implementó una vista detallada de los miembros del equipo, permitiendo visualizar roles, grupos y acceder a su información personal, lo que facilita la asignación de tareas y toma de decisiones.
+<p align="center">
+  <img src="assets/TF/mobile_tobe_4.png" alt="image" width="200">
+</p>
+
+**US18** – Se implementó una vista centralizada del backlog, permitiendo a los usuarios gestionar épicas, user stories y tareas de forma clara, interactiva y organizada, promoviendo eficiencia en la planificación del equipo.
+<p align="center">
+  <img src="assets/TF/mobile_tobe_5.png" alt="image" width="200">
+</p>
+
+**US01** – Se destacaron beneficios clave como mejora del ambiente laboral y transparencia en la landing page, ayudando al usuario potencial a comprender el valor de la plataforma antes de registrarse.
+<p align="center">
+  <img src="assets/TF/mobile_tobe_6.png" alt="image" width="200">
+</p>
+
+**US05** – Se implementó la sección “Nosotros” en la landing page, donde se muestra la misión, visión y objetivos de la empresa, brindando claridad sobre el enfoque y valores a los visitantes.
+<p align="center">
+  <img src="assets/TF/mobile_tobe_7.png" alt="image" width="200">
+</p>
+
+**US02** – Se añadieron enlaces visibles a redes sociales en el pie de página, facilitando que los usuarios puedan seguir a la empresa y mantenerse informados sobre novedades y actualizaciones de la plataforma.
+<p align="center">
+  <img src="assets/TF/mobile_tobe_8.png" alt="image" width="200">
+</p>
+
 ### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
 
 TS001	Endpoint para visualizar Miembros del equipo
