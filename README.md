@@ -4544,7 +4544,7 @@ Ramiro Guzmán, CEO de una empresa de software, recomienda la herramienta Flow S
 
 #### Segmento 2: **Equipo de Desarrollo de Software**
 
-**Entrevista 2:**  
+**Entrevista 1:**  
    - **Datos del entrevistado:**  
      Nombre: Andres 
      Apellidos: Aguilar Retamozo  
@@ -4560,6 +4560,21 @@ Ramiro Guzmán, CEO de una empresa de software, recomienda la herramienta Flow S
  - **Resumen:**  
    Andrés comentó que el proceso de adopción de FlowStack fue bastante fluido, con un tutorial interactivo que le resultó claro y útil para comenzar. Destacó que la plataforma le permite identificar con facilidad sus tareas pendientes y prioridades, y valoró positivamente el sistema de notificaciones en tiempo real, así como las alertas tempranas, que le ayudaron a resolver bloqueos más rápido. Se sintió cómodo colaborando con su equipo dentro de la herramienta y encontró clara la gestión y seguimiento de tareas asignadas. También mencionó que tanto la interfaz web como la móvil son responsivas y adecuadas para su uso diario. El dashboard individual le pareció útil para hacer seguimiento a sus tareas, y considera que FlowStack ha sido eficiente para organizar su tiempo y trabajo diario. 
 
+**Entrevista 2:**  
+   - **Datos del entrevistado:**  
+     Nombre: Rodrigo
+     Apellidos: Raygada  
+     Edad: 22  
+     Distrito: San borja
+
+<img alt="image" src="./assets/Entrevista 2. 2.png" />
+
+ - **URL**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123548_upc_edu_pe/EcRAdPuBpolJlYq9e84mQOMBuCjN3hQgGelv3Ily4xvQcw?e=iq8r9l
+ - **Inicio**: 0:01  
+ - **Duración**: 6:02
+   
+ - **Resumen:**  
+   Rodrigo destacó que FlowStack tuvo una adopción fluida frente a herramientas como Jira o Azure DevOps, aunque sugirió mejorar el tutorial con ejemplos técnicos (Git/CI/CD). Valoró el dashboard claro y las alertas tempranas para dependencias, pero pidió métricas de tiempo estimado vs. real, filtros para notificaciones (actualmente excesivas) y mayor personalización de widgets. Señaló que la interfaz web es excelente, pero la app móvil es lenta, y el chat integrado resulta básico (prefiere Slack). Mencionó bugs menores en la vista Kanban y funciones poco usadas como el "modo brainstorming". Para mejorar, propuso integraciones técnicas. 
 
 **Entrevista 3:**
 - **Datos del entrevistado:**  
@@ -4652,10 +4667,8 @@ La mayoría califica la usabilidad con 4/5, seguido por 3/5. Pocos eligieron pun
 #### Funcionalidades cubren necesidades del equipo
 
 Un 66.7% respondió "Sí", mientras que un 33.3% dijo "Parcialmente". Solo el 10% marcó "No". Esto indica que las funcionalidades básicas están cubiertas, pero hay demanda por mejoras en personalización o integraciones.
-
-
 <div align="center">
-    <img src="assets/Respuesta_Encuesta5.png"><br>
+    <img src="assets/Respuesta_Encuesta4.png"><br>
   </div>
 
 #### Frecuencia de uso de ScrumFlow
@@ -4667,12 +4680,16 @@ Un 66.7% respondió "Sí", mientras que un 33.3% dijo "Parcialmente". Solo el 10
 La herramienta es crítica para el flujo de trabajo diario en la mitad de los equipos, pero existe un segmento que la usa menos (oportunidad para explorar por qué).
 
 <div align="center">
-    <img src="assets/Respuesta_Encuesta6.png"><br>
+    <img src="assets/Respuesta_Encuesta5.png"><br>
   </div>
+
 
 #### Problemas técnicos
 
 Casi el 25% reportó problemas técnicos, mientras que el 75% no tuvo inconvenientes.
+<div align="center">
+    <img src="assets/Respuesta_Encuesta6.png"><br>
+  </div>
 
 ##### Principales problemas detectados
 
@@ -4761,9 +4778,6 @@ Link de la encuesta: https://docs.google.com/forms/d/e/1FAIpQLScSh4j1tzy1k9p5d5E
 
 ## 8.6. To-Be Software Platform Pre-launch
 
-
-
-
 ### 8.6.1. About-the-Product Intro Video
 
 Esta sección presenta el video introductorio de ManageWise, el cual tiene como objetivo explicar de forma breve y atractiva el núcleo del producto. El video está diseñado para captar la atención de los potenciales usuarios desde el primer momento, destacando los principales beneficios y funcionalidades de la plataforma. Además, busca transmitir el propósito central de ManageWise: ofrecer una herramienta integral que potencie la productividad, la eficiencia y la colaboración en los equipos de desarrollo de software.
@@ -4775,6 +4789,14 @@ Esta sección presenta el video introductorio de ManageWise, el cual tiene como 
 Link del video About-the-Product Intro Video : https://youtube.com/shorts/0rz_QUQjkmY
 
 ### 8.6.2. About-the-Team
+
+Esta sección presenta el video About-the-Team, el cual resume el proceso de trabajo y la experiencia vivida por el equipo durante el desarrollo de ManageWise. El video incluye escenas reales de las sesiones de trabajo del equipo, mostrando momentos clave de discusión, desarrollo y toma de decisiones. Además, cada integrante comparte su testimonio en cámara, explicando sus funciones, los desafíos enfrentados y los resultados obtenidos.
+
+<div align="center">
+    <img src="assets/images/team.jpg"><br>
+  </div>
+
+Link del video About-the-Team : https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211846_upc_edu_pe/EcZDqEgYs3ZFsifEXIEMA3gB2ixrazkznlPf-MM8z7W3yA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=miFZVN
 
 ### Conclusiones
 
