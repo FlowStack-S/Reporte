@@ -4457,6 +4457,8 @@ Endpoint para creación de Sprints CRUD
 
 ### 8.3.3.6. Team Collaboration Insights
 
+![Encuesta FlowStack](https://i.imgur.com/QyUZiP2.png)
+
 ## 8.3.4. To-Be Validation Interviews
 
 ### 8.3.4.1. Diseño de Entrevistas
