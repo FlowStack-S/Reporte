@@ -4760,9 +4760,6 @@ Link de la encuesta: https://docs.google.com/forms/d/e/1FAIpQLScSh4j1tzy1k9p5d5E
 
 ## 8.6. To-Be Software Platform Pre-launch
 
-
-
-
 ### 8.6.1. About-the-Product Intro Video
 
 Esta sección presenta el video introductorio de ManageWise, el cual tiene como objetivo explicar de forma breve y atractiva el núcleo del producto. El video está diseñado para captar la atención de los potenciales usuarios desde el primer momento, destacando los principales beneficios y funcionalidades de la plataforma. Además, busca transmitir el propósito central de ManageWise: ofrecer una herramienta integral que potencie la productividad, la eficiencia y la colaboración en los equipos de desarrollo de software.
@@ -4774,6 +4771,14 @@ Esta sección presenta el video introductorio de ManageWise, el cual tiene como 
 Link del video About-the-Product Intro Video : https://youtube.com/shorts/0rz_QUQjkmY
 
 ### 8.6.2. About-the-Team
+
+Esta sección presenta el video About-the-Team, el cual resume el proceso de trabajo y la experiencia vivida por el equipo durante el desarrollo de ManageWise. El video incluye escenas reales de las sesiones de trabajo del equipo, mostrando momentos clave de discusión, desarrollo y toma de decisiones. Además, cada integrante comparte su testimonio en cámara, explicando sus funciones, los desafíos enfrentados y los resultados obtenidos.
+
+<div align="center">
+    <img src="assets/images/team.jpg"><br>
+  </div>
+
+Link del video About-the-Team : https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211846_upc_edu_pe/EcZDqEgYs3ZFsifEXIEMA3gB2ixrazkznlPf-MM8z7W3yA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=miFZVN
 
 ### Conclusiones
 
