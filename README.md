@@ -4802,7 +4802,8 @@ Esta sección presenta el video introductorio de ManageWise, el cual tiene como 
     <img src="assets/images/about2.jpg"><br>
   </div>
 
-Link del video About-the-Product Intro Video : https://youtube.com/shorts/0rz_QUQjkmY
+**Link del video About-the-Product Intro Video:**  
+[https://youtube.com/shorts/0rz_QUQjkmY](https://youtube.com/shorts/0rz_QUQjkmY)
 
 ---
 
@@ -4860,7 +4861,7 @@ Esta sección presenta el video About-the-Team, el cual resume el proceso de tra
 ### Anexos
 
 **ANEXO FRONTEND Y BACKEND DESPLEGADO**  
-[https://frontend-test-managewise.vercel.app/sign-in](https://frontend-test-managewise.vercel.app/sign-in)
+[https://frontend-web-application-levt.vercel.app/statistics](https://frontend-web-application-levt.vercel.app/statistics)
 
 **ANEXO FRONTEND**  
 [https://frontend-test-managewise.vercel.app](https://frontend-test-managewise.vercel.app)
@@ -4911,4 +4912,4 @@ Esta sección presenta el video About-the-Team, el cual resume el proceso de tra
 [https://drive.google.com/file/d/1ZBLxHIVPITzhCzMB2kFKs8cTMsd5xs0f/view?usp=sharing](https://drive.google.com/file/d/1ZBLxHIVPITzhCzMB2kFKs8cTMsd5xs0f/view?usp=sharing)
 
 **Anexo Ñ: Video de la exposición TF**  
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211846_upc_edu_pe/ESEk-VxLzipJvqs4F3SP0LsBJ38pbF3J98y1uL9eEBwGgw?e=SuHDpc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211846_upc_edu_pe/ESEk-VxLzipJvqs4F3SP0LsBJ38pbF3J98y1uL9eEBwGgw?e=SuHDpc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211846_upc_edu_pe/EQkF2RpjRL1CjCai6yd3oawBKzliPJ4CU_Kez3i-Zc_W4g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4LoavP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211846_upc_edu_pe/EQkF2RpjRL1CjCai6yd3oawBKzliPJ4CU_Kez3i-Zc_W4g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4LoavP)
