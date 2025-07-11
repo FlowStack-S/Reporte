@@ -4326,37 +4326,37 @@ Landing Page Preguntas Frecuentes y Hoja de Contacto
 
 ### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
 
-**UA01**
+**UA01**: Gestión de Progreso de Tareas
 <p align="center">
   <img src="assets/TF/ua01.jpg" alt="image">
 </p>
 
-**UA02**
+**UA02**: Visualización de Backlog
 <p align="center">
   <img src="assets/TF/ua02.jpg" alt="image">
 </p>
 
-**UA03**
+**UA03**: Acceso a Tareas Pendientes
 <p align="center">
   <img src="assets/TF/ua03.jpg" alt="image">
 </p>
 
-**UA04 y UA7**
+**UA04 y UA7**: Gestión de Recursos del Equipo y Creación de Tareas de Alto Impacto
 <p align="center">
   <img src="assets/TF/ua4&7.jpg" alt="image">
 </p>
 
-**UA05 y UA6**
+**UA05 y UA6**: Notificaciones en Tiempo Real y Gestión de  Permisos
 <p align="center">
   <img src="assets/TF/ua5&6.jpg" alt="image">
 </p>
 
-**UA08**
+**UA08** Gestión de Sprint en el Timeline
 <p align="center">
   <img src="assets/TF/ua8.jpg" alt="image">
 </p>
 
-**UA09**
+**UA09** Reportes de Actividad
 <p align="center">
   <img src="assets/TF/ua9.jpg" alt="image">
 </p>
@@ -4883,5 +4883,7 @@ Anexo L: Video de la exposición TB1 : <br>https://drive.google.com/file/d/17M1x
 Anexo M: Video de la exposición TP : <br>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123548_upc_edu_pe/EcOoOudaqotIhiI-1rs1XvMBSf4R7LxuNMoO2cfDRlxsvQ?e=45yJm3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
 
 Anexo N: Video de la exposición TB2 : <br>https://drive.google.com/file/d/1ZBLxHIVPITzhCzMB2kFKs8cTMsd5xs0f/view?usp=sharing
+
+Anexo Ñ: Video de la exposición TF : <br>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211846_upc_edu_pe/ESEk-VxLzipJvqs4F3SP0LsBJ38pbF3J98y1uL9eEBwGgw?e=SuHDpc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ---
