@@ -4563,7 +4563,7 @@ Ramiro Guzmán, CEO de una empresa de software, recomienda la herramienta Flow S
 
 #### Segmento 2: **Equipo de Desarrollo de Software**
 
-**Entrevista 2:**  
+**Entrevista 1:**  
    - **Datos del entrevistado:**  
      Nombre: Andres 
      Apellidos: Aguilar Retamozo  
@@ -4579,6 +4579,21 @@ Ramiro Guzmán, CEO de una empresa de software, recomienda la herramienta Flow S
  - **Resumen:**  
    Andrés comentó que el proceso de adopción de FlowStack fue bastante fluido, con un tutorial interactivo que le resultó claro y útil para comenzar. Destacó que la plataforma le permite identificar con facilidad sus tareas pendientes y prioridades, y valoró positivamente el sistema de notificaciones en tiempo real, así como las alertas tempranas, que le ayudaron a resolver bloqueos más rápido. Se sintió cómodo colaborando con su equipo dentro de la herramienta y encontró clara la gestión y seguimiento de tareas asignadas. También mencionó que tanto la interfaz web como la móvil son responsivas y adecuadas para su uso diario. El dashboard individual le pareció útil para hacer seguimiento a sus tareas, y considera que FlowStack ha sido eficiente para organizar su tiempo y trabajo diario.
 
+**Entrevista 2:**  
+   - **Datos del entrevistado:**  
+     Nombre: Rodrigo
+     Apellidos: Raygada  
+     Edad: 22  
+     Distrito: San borja
+
+<img alt="image" src="./assets/Entrevista 2. 2.png" />
+
+ - **URL**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123548_upc_edu_pe/EcRAdPuBpolJlYq9e84mQOMBuCjN3hQgGelv3Ily4xvQcw?e=iq8r9l
+ - **Inicio**: 0:01  
+ - **Duración**: 6:02
+   
+ - **Resumen:**  
+   Rodrigo destacó que FlowStack tuvo una adopción fluida frente a herramientas como Jira o Azure DevOps, aunque sugirió mejorar el tutorial con ejemplos técnicos (Git/CI/CD). Valoró el dashboard claro y las alertas tempranas para dependencias, pero pidió métricas de tiempo estimado vs. real, filtros para notificaciones (actualmente excesivas) y mayor personalización de widgets. Señaló que la interfaz web es excelente, pero la app móvil es lenta, y el chat integrado resulta básico (prefiere Slack). Mencionó bugs menores en la vista Kanban y funciones poco usadas como el "modo brainstorming". Para mejorar, propuso integraciones técnicas. 
 
 
 
