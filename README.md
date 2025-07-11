@@ -4790,6 +4790,8 @@ Link de la encuesta: https://docs.google.com/forms/d/e/1FAIpQLScSh4j1tzy1k9p5d5E
     <img src="assets/8.5.1.2.png"><br>
   </div>
 
+---
+
 ## 8.6. To-Be Software Platform Pre-launch
 
 ### 8.6.1. About-the-Product Intro Video
@@ -4802,6 +4804,8 @@ Esta sección presenta el video introductorio de ManageWise, el cual tiene como 
 
 Link del video About-the-Product Intro Video : https://youtube.com/shorts/0rz_QUQjkmY
 
+---
+
 ### 8.6.2. About-the-Team
 
 Esta sección presenta el video About-the-Team, el cual resume el proceso de trabajo y la experiencia vivida por el equipo durante el desarrollo de ManageWise. El video incluye escenas reales de las sesiones de trabajo del equipo, mostrando momentos clave de discusión, desarrollo y toma de decisiones. Además, cada integrante comparte su testimonio en cámara, explicando sus funciones, los desafíos enfrentados y los resultados obtenidos.
@@ -4810,7 +4814,10 @@ Esta sección presenta el video About-the-Team, el cual resume el proceso de tra
     <img src="assets/images/team.jpg"><br>
   </div>
 
-Link del video About-the-Team : https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211846_upc_edu_pe/EcZDqEgYs3ZFsifEXIEMA3gB2ixrazkznlPf-MM8z7W3yA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=miFZVN
+**Link del video About-the-Team:**  
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211846_upc_edu_pe/EcZDqEgYs3ZFsifEXIEMA3gB2ixrazkznlPf-MM8z7W3yA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=miFZVN](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211846_upc_edu_pe/EcZDqEgYs3ZFsifEXIEMA3gB2ixrazkznlPf-MM8z7W3yA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=miFZVN)
+
+---
 
 ### Conclusiones
 
@@ -4848,42 +4855,60 @@ Link del video About-the-Team : https://upcedupe-my.sharepoint.com/:v:/g/persona
 
 -The C4 model for visualising software architecture. (2024). Recuperado de https://c4model.com/
 
+---
+
 ### Anexos
 
-**ANEXO FRONTEND Y BACKEND DESPLEGADO**: https://frontend-test-managewise.vercel.app/sign-in
+**ANEXO FRONTEND Y BACKEND DESPLEGADO**  
+[https://frontend-test-managewise.vercel.app/sign-in](https://frontend-test-managewise.vercel.app/sign-in)
 
-**ANEXO FRONTEND**: https://frontend-test-managewise.vercel.app
+**ANEXO FRONTEND**  
+[https://frontend-test-managewise.vercel.app](https://frontend-test-managewise.vercel.app)
 
-**ANEXO BACKEND**: https://managewise-ffbua6fpfmbteaeq.brazilsouth-01.azurewebsites.net/api/v1/
+**ANEXO BACKEND**  
+[https://managewise-ffbua6fpfmbteaeq.brazilsouth-01.azurewebsites.net/api/v1/](https://managewise-ffbua6fpfmbteaeq.brazilsouth-01.azurewebsites.net/api/v1/)
 
-Anexo A:<br>https://miro.com/welcomeonboard/NHhiOEg2U2ZETmc0SnFSTG10R3djVFdBdGVCMGQwQkVoakZxcnZNRWhpUU44d0xjMGFBWFF6dUtUTXRuNDl1eXwzNDU4NzY0NTQzNjk5MTEyMTEwfDI=?share_link_id=979016695371
+**Anexo A**  
+[https://miro.com/welcomeonboard/NHhiOEg2U2ZETmc0...](https://miro.com/welcomeonboard/NHhiOEg2U2ZETmc0SnFSTG10R3djVFdBdGVCMGQwQkVoakZxcnZNRWhpUU44d0xjMGFBWFF6dUtUTXRuNDl1eXwzNDU4NzY0NTQzNjk5MTEyMTEwfDI=?share_link_id=979016695371)
 
-Anexo B:<br>https://miro.com/welcomeonboard/NHhiOEg2U2ZETmc0SnFSTG10R3djVFdBdGVCMGQwQkVoakZxcnZNRWhpUU44d0xjMGFBWFF6dUtUTXRuNDl1eXwzNDU4NzY0NTQzNjk5MTEyMTEwfDI=?share_link_id=979016695371
+**Anexo B**  
+[https://miro.com/welcomeonboard/NHhiOEg2U2ZETmc0...](https://miro.com/welcomeonboard/NHhiOEg2U2ZETmc0SnFSTG10R3djVFdBdGVCMGQwQkVoakZxcnZNRWhpUU44d0xjMGFBWFF6dUtUTXRuNDl1eXwzNDU4NzY0NTQzNjk5MTEyMTEwfDI=?share_link_id=979016695371)
 
-Anexo C:<br>https://miro.com/welcomeonboard/NHhiOEg2U2ZETmc0SnFSTG10R3djVFdBdGVCMGQwQkVoakZxcnZNRWhpUU44d0xjMGFBWFF6dUtUTXRuNDl1eXwzNDU4NzY0NTQzNjk5MTEyMTEwfDI=?share_link_id=979016695371
+**Anexo C**  
+[https://miro.com/welcomeonboard/NHhiOEg2U2ZETmc0...](https://miro.com/welcomeonboard/NHhiOEg2U2ZETmc0SnFSTG10R3djVFdBdGVCMGQwQkVoakZxcnZNRWhpUU44d0xjMGFBWFF6dUtUTXRuNDl1eXwzNDU4NzY0NTQzNjk5MTEyMTEwfDI=?share_link_id=979016695371)
 
-Anexo D:<br>https://miro.com/welcomeonboard/NHhiOEg2U2ZETmc0SnFSTG10R3djVFdBdGVCMGQwQkVoakZxcnZNRWhpUU44d0xjMGFBWFF6dUtUTXRuNDl1eXwzNDU4NzY0NTQzNjk5MTEyMTEwfDI=?share_link_id=979016695371
+**Anexo D**  
+[https://miro.com/welcomeonboard/NHhiOEg2U2ZETmc0...](https://miro.com/welcomeonboard/NHhiOEg2U2ZETmc0SnFSTG10R3djVFdBdGVCMGQwQkVoakZxcnZNRWhpUU44d0xjMGFBWFF6dUtUTXRuNDl1eXwzNDU4NzY0NTQzNjk5MTEyMTEwfDI=?share_link_id=979016695371)
 
-Anexo E:<br>https://miro.com/welcomeonboard/RTA3b0ZrRzFmckk5Z3BneTVwc3d5Z1BBYko4c3d4SmpUaVMwTG93c0JjUmc2cERSNzJ5ZkxjOTZDWG5CbThHd3wzNDU4NzY0NTQzNjk5MTEyMTEwfDI=?share_link_id=839908059772
+**Anexo E**  
+[https://miro.com/welcomeonboard/RTA3b0ZrRzFmckk5...](https://miro.com/welcomeonboard/RTA3b0ZrRzFmckk5Z3BneTVwc3d5Z1BBYko4c3d4SmpUaVMwTG93c0JjUmc2cERSNzJ5ZkxjOTZDWG5CbThHd3wzNDU4NzY0NTQzNjk5MTEyMTEwfDI=?share_link_id=839908059772)
 
-Anexo F:<br>https://www.figma.com/design/PQMlg7QzupwYT1ef3eXdEG/LandingPage-WireFrame-ManageWise?node-id=15-131&t=DZEsag5WhuvjGmZk-1
+**Anexo F**  
+[https://www.figma.com/design/PQMlg7QzupwYT1ef3eXdEG/...](https://www.figma.com/design/PQMlg7QzupwYT1ef3eXdEG/LandingPage-WireFrame-ManageWise?node-id=15-131&t=DZEsag5WhuvjGmZk-1)
 
-Anexo G:<br>https://www.figma.com/design/mz9XRI1PRFgIvEPIuqHzgd/webapp-managewis?node-id=1-2&t=YdZHXwLmNin9xC6s-1
+**Anexo G**  
+[https://www.figma.com/design/mz9XRI1PRFgIvEPIuqHzgd/...](https://www.figma.com/design/mz9XRI1PRFgIvEPIuqHzgd/webapp-managewis?node-id=1-2&t=YdZHXwLmNin9xC6s-1)
 
-Anexo H:<br>https://lucid.app/lucidchart/1e63a43a-a627-478b-a4e2-397bbd5407b9/edit?viewport_loc=-24225%2C-5250%2C27750%2C11925%2C0_0&invitationId=inv_2dbf5bda-cf33-4d4a-bbc1-c27a42d84ac8
+**Anexo H**  
+[https://lucid.app/lucidchart/1e63a43a-a627-478b-a4e2...](https://lucid.app/lucidchart/1e63a43a-a627-478b-a4e2-397bbd5407b9/edit?viewport_loc=-24225%2C-5250%2C27750%2C11925%2C0_0&invitationId=inv_2dbf5bda-cf33-4d4a-bbc1-c27a42d84ac8)
 
-Anexo I:<br>https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webapp-managewis?page-id=1%3A2&node-id=118-122&node-type=CANVAS&viewport=-385%2C681%2C0.08&t=grI8nuvCu1Ox92G5-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=118%3A122
+**Anexo I**  
+[https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/...](https://www.figma.com/proto/mz9XRI1PRFgIvEPIuqHzgd/webapp-managewis?page-id=1%3A2&node-id=118-122&node-type=CANVAS&viewport=-385%2C681%2C0.08&t=grI8nuvCu1Ox92G5-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=118%3A122)
 
-Anexo J: Video de la Aplicación Web: <br>https://youtu.be/wM0rVK2WHug
+**Anexo J: Video de la Aplicación Web**  
+[https://youtu.be/wM0rVK2WHug](https://youtu.be/wM0rVK2WHug)
 
-Anexo K: Video de la Aplicación Mobile: <br>https://www.youtube.com/watch?v=FiJWjn0ncqg
+**Anexo K: Video de la Aplicación Mobile**  
+[https://www.youtube.com/watch?v=FiJWjn0ncqg](https://www.youtube.com/watch?v=FiJWjn0ncqg)
 
-Anexo L: Video de la exposición TB1 : <br>https://drive.google.com/file/d/17M1xVG5bLn1T3NyTwSjo50teQEmHA-bd/view?usp=sharing
+**Anexo L: Video de la exposición TB1**  
+[https://drive.google.com/file/d/17M1xVG5bLn1T3NyTwSjo50teQEmHA-bd/view?usp=sharing](https://drive.google.com/file/d/17M1xVG5bLn1T3NyTwSjo50teQEmHA-bd/view?usp=sharing)
 
-Anexo M: Video de la exposición TP : <br>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123548_upc_edu_pe/EcOoOudaqotIhiI-1rs1XvMBSf4R7LxuNMoO2cfDRlxsvQ?e=45yJm3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+**Anexo M: Video de la exposición TP**  
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123548_upc_edu_pe/EcOoOudaqotIhiI-1rs1XvMBSf4R7LxuNMoO2cfDRlxsvQ?e=45yJm3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123548_upc_edu_pe/EcOoOudaqotIhiI-1rs1XvMBSf4R7LxuNMoO2cfDRlxsvQ?e=45yJm3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Anexo N: Video de la exposición TB2 : <br>https://drive.google.com/file/d/1ZBLxHIVPITzhCzMB2kFKs8cTMsd5xs0f/view?usp=sharing
+**Anexo N: Video de la exposición TB2**  
+[https://drive.google.com/file/d/1ZBLxHIVPITzhCzMB2kFKs8cTMsd5xs0f/view?usp=sharing](https://drive.google.com/file/d/1ZBLxHIVPITzhCzMB2kFKs8cTMsd5xs0f/view?usp=sharing)
 
-Anexo Ñ: Video de la exposición TF : <br>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211846_upc_edu_pe/ESEk-VxLzipJvqs4F3SP0LsBJ38pbF3J98y1uL9eEBwGgw?e=SuHDpc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
----
+**Anexo Ñ: Video de la exposición TF**  
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211846_upc_edu_pe/ESEk-VxLzipJvqs4F3SP0LsBJ38pbF3J98y1uL9eEBwGgw?e=SuHDpc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211846_upc_edu_pe/ESEk-VxLzipJvqs4F3SP0LsBJ38pbF3J98y1uL9eEBwGgw?e=SuHDpc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
