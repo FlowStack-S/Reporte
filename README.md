@@ -4542,6 +4542,20 @@ Ramiro Guzmán, CEO de una empresa de software, recomienda la herramienta Flow S
    **Resumen:**  
    Diego Salazar Quispe destacó una experiencia muy positiva con FlowStack, resaltando la facilidad para planificar y liderar proyectos ágiles gracias a su interfaz clara y funcionalidades clave como el dashboard predictivo, el backlog y la integración con GitHub. Señaló que la plataforma ha mejorado significativamente la organización de tareas, la visualización del progreso mediante el timeline de sprint y la comunicación del equipo mediante notificaciones efectivas. Además, valoró la capacidad de personalización y recomendó FlowStack por su utilidad, enfoque práctico y contribución a una cultura de mejora continua en entornos ágiles.
 
+ **Entrevista 3:**  
+   - **Datos del entrevistado:**  
+     Nombre: Gonzalo 
+     Apellidos: Sánchez Carrión  
+     Edad: 31  
+     Distrito: Santiago de Surco
+
+   ![Foto de entrevista](assets/images/gonzalosc.jpg)  
+   **URL**: [Link de entrevista](https://youtu.be/BglcQyHZ6RM)   
+   **Duración**: 8:39
+
+   **Resumen:**  
+   Gobzalo Sánchez Carrión destacó la facilidad de uso de la aplicación así como su interfaz sencilla. Además destacó la utilidad del dashboard para mantener una visión clara de las tareas presentes en el sprint. Así mismo, señaló la utilidad del sistema de notificaciones de la aplicación y como éstas son útiles al momento de mantenerse enterado de los constantes cambios de su equipo de desarrollo. Como oportunidad de mejora, mencionó que los colores de la aplicación le saturaron la vista un poco más rápdio de lo que le gustaría pero que el resto de la interfaz le parece útil para los altos cargos de las empresas que suelen ser personas mayores.
+
 #### Segmento 2: **Equipo de Desarrollo de Software**
 
 **Entrevista 1:**  
