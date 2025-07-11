@@ -4666,10 +4666,8 @@ La mayoría califica la usabilidad con 4/5, seguido por 3/5. Pocos eligieron pun
 #### Funcionalidades cubren necesidades del equipo
 
 Un 66.7% respondió "Sí", mientras que un 33.3% dijo "Parcialmente". Solo el 10% marcó "No". Esto indica que las funcionalidades básicas están cubiertas, pero hay demanda por mejoras en personalización o integraciones.
-
-
 <div align="center">
-    <img src="assets/Respuesta_Encuesta5.png"><br>
+    <img src="assets/Respuesta_Encuesta4.png"><br>
   </div>
 
 #### Frecuencia de uso de ScrumFlow
@@ -4681,12 +4679,16 @@ Un 66.7% respondió "Sí", mientras que un 33.3% dijo "Parcialmente". Solo el 10
 La herramienta es crítica para el flujo de trabajo diario en la mitad de los equipos, pero existe un segmento que la usa menos (oportunidad para explorar por qué).
 
 <div align="center">
-    <img src="assets/Respuesta_Encuesta6.png"><br>
+    <img src="assets/Respuesta_Encuesta5.png"><br>
   </div>
+
 
 #### Problemas técnicos
 
 Casi el 25% reportó problemas técnicos, mientras que el 75% no tuvo inconvenientes.
+<div align="center">
+    <img src="assets/Respuesta_Encuesta6.png"><br>
+  </div>
 
 ##### Principales problemas detectados
 
