@@ -4584,13 +4584,182 @@ Ramiro Guzmán, CEO de una empresa de software, recomienda la herramienta Flow S
 
 ### 8.4.1. Analysis and Interpretation of Results
 
+Para este proyecto se decidió de reformular las preguntas planteadas inicialmente en las entrevistas con la finalidad de poder obtener respuestas directas y claras para poder relizar un análisis de las experiencias de los entrevsitados y usuarios adicionales. 
+
+A continuación, se presenta las preguntas reformuladas para la encuesta: 
+
+**¿Cómo calificarías tu experiencia general usando ScrumFlow para gestionar proyectos ágiles?**  
+*(Escala: 1-5)*
+
+**¿Qué tan intuitiva y fácil de usar consideras la interfaz de ScrumFlow?**  
+*(Escala: 1-5)*
+
+**¿Las funcionalidades de gestión de tareas, sprints y backlogs cubren las necesidades de tu equipo?**  
+(Sí / No / Parcialmente)
+
+**¿Con qué frecuencia usas ScrumFlow para planificar y monitorear proyectos?**  
+(Diario / Semanal / Ocasionalmente)
+
+**¿Has tenido problemas técnicos al usar ScrumFlow?**  
+(Si es sí, describe brevemente)  
+*¿Qué problemas has tenido?*
+
+**¿Cómo evalúas las herramientas de colaboración y seguimiento de tareas en ScrumFlow?**  
+*(Escala: 1-5)*
+
+**¿La aplicación cumple con tus expectativas en seguridad y privacidad de datos?**  
+(Sí / No / Neutro)
+
+**¿Recomendarías ScrumFlow a otros equipos o líderes de desarrollo de software?**  
+(Sí / No / Con reservas)
+
+**¿Qué mejorarías en ScrumFlow para que sea más útil en tu flujo de trabajo?**  
+*(Texto abierto)*
+
+Estas preguntas fueron respondidas por los entrevistados y personas adicionales que serían posibles clientes (12) mediante una encuesta. Los encuestados respondieron las preguntas basadas en su experiencia con las funcionalidades del producto.
+
+---
+
+### Resultados obtenidos e interpretaciones
+
+#### Edades
+
+La mayoría de los encuestados pertenecen al rango de 25-34 años, seguido por 18-24 años. Esto sugiere que ScrumFlow es utilizado principalmente por profesionales jóvenes o en etapas tempranas de su carrera, lo que podría indicar una adopción fuerte en startups o equipos ágiles con integrantes jóvenes. La herramienta debe mantener un equilibrio entre funcionalidad avanzada y simplicidad para adaptarse a este perfil.
+
+<div align="center">
+    <img src="assets/Respuesta_Encuesta1.png"><br>
+  </div>
+
+#### Experiencia usando ScrumFlow
+
+Predominan usuarios con 1-6 meses de experiencia, seguidos por 6-12 meses. Pocos tienen más de un año de uso. La curva de aprendizaje podría ser rápida (positivo), pero también sugiere que la retención a largo plazo necesita reforzarse (por ejemplo, con funcionalidades avanzadas para usuarios veteranos).
+
+<div align="center">
+    <img src="assets/Respuesta_Encuesta2.png"><br>
+  </div>
+
+#### Usabilidad de la interfaz
+
+La mayoría califica la usabilidad con 4/5, seguido por 3/5. Pocos eligieron puntuaciones bajas (1-2). Esto indica que la interfaz es intuitiva para la mayoría, pero hay margen para mejorar (por ejemplo, simplificar flujos de trabajo para los usuarios que dieron 3/5).
+
+<div align="center">
+    <img src="assets/Respuesta_Encuesta3.png"><br>
+  </div>
+
+#### Funcionalidades cubren necesidades del equipo
+
+Un 66.7% respondió "Sí", mientras que un 33.3% dijo "Parcialmente". Solo el 10% marcó "No". Esto indica que las funcionalidades básicas están cubiertas, pero hay demanda por mejoras en personalización o integraciones.
+
+
+<div align="center">
+    <img src="assets/Respuesta_Encuesta5.png"><br>
+  </div>
+
+#### Frecuencia de uso de ScrumFlow
+
+- 58.3% usa ScrumFlow diariamente
+- 33.3% semanalmente
+- 8.3% ocasionalmente
+
+La herramienta es crítica para el flujo de trabajo diario en la mitad de los equipos, pero existe un segmento que la usa menos (oportunidad para explorar por qué).
+
+<div align="center">
+    <img src="assets/Respuesta_Encuesta6.png"><br>
+  </div>
+
+#### Problemas técnicos
+
+Casi el 25% reportó problemas técnicos, mientras que el 75% no tuvo inconvenientes.
+
+##### Principales problemas detectados
+
+- Carga de vistas
+- Carga del dashboard del backlog
+- Problemas al crear equipo
+
+Estos aspectos deben ser priorizados para solucionar los inconvenientes más frecuentes.
+
+<div align="center">
+    <img src="assets/Respuesta_Encuesta7.png"><br>
+  </div>
+
+#### Evaluación de colaboración y seguimiento de tareas
+
+- 58.3% calificó con 5/5
+- 25% con 4/5
+
+La herramienta es satisfactoria, pero podría mejorarse con notificaciones en tiempo real o integración con otras plataformas.
+
+<div align="center">
+    <img src="assets/Respuesta_Encuesta8.png"><br>
+  </div>
+
+#### Expectativas en seguridad y privacidad
+
+91.7% de los encuestados respondió "Sí", indicando que ScrumFlow cumple con sus expectativas. Solo el 8.3% marcó "No". Esto representa una fortaleza sólida, pero se debe considerar al pequeño porcentaje disconforme.
+
+<div align="center">
+    <img src="assets/Respuesta_Encuesta9.png"><br>
+  </div>
+
+#### Recomendación
+
+- 91.7% recomendaría ScrumFlow
+- 8.3% no lo haría
+
+La herramienta tiene una base sólida de promotores, pero los que no lo recomiendan apuntan a áreas de mejora.
+
+<div align="center">
+    <img src="assets/Respuesta_Encuesta10.png"><br>
+  </div>
+
+#### Mejoras sugeridas
+
+Priorizar desarrollo en estas áreas aumentaría la satisfacción global del usuario.
+
+
+<div align="center">
+    <img src="assets/Respuesta_Encuesta11.png"><br>
+  </div>
+
 ### 8.4.2. Re-scored and Re-prioritized Question Backlog
+
+
+| **#** | **Pregunta**                                                                                   | **Prioridad** |
+|------:|-----------------------------------------------------------------------------------------------|--------------:|
+| 1     | ¿Mejorará la adopción agregando integración con GitHub?                                        | 1             |
+| 2     | ¿Disminuirá los impedimentos un sistema de alertas tempranas?                                  | 4             |
+| 3     | ¿Aumentará la satisfacción añadiendo dashboards predictivos?                                   | 5             |
+| 4     | ¿Reducirá el tiempo de onboarding un tutorial interactivo?                                     | 4             |
 
 ## 8.5. Continuous Learning
 
 ### 8.5.1. Shareback Session Artifacts: Learning Workflow
 
+### Figma (Prototipo)
+
+El prototipo interactivo desarrollado en Figma representa las interfaces y flujos de trabajo clave de ScrumFlow, diseñados a partir de los insights recopilados en la investigación de usuarios. Este artefacto visualiza las iteraciones realizadas durante el proceso de diseño, destacando cómo se ajustaron componentes como la gestión de tareas, sprints y dashboards para alinearse con las necesidades de los equipos ágiles. El prototipo sirvió como herramienta de validación temprana, permitiendo pruebas de usabilidad y feedback antes del desarrollo final.
+
+Link del Figma: https://www.figma.com/design/mz9XRI1PRFgIvEPIuqHzgd/webapp-managewis?node-id=1-2&t=YdZHXwLmNin9xC6s-1
+
+<div align="center">
+    <img src="assets/8.5.1.1.png"><br>
+  </div>
+
+### Encuesta de Google Forms
+La encuesta en Google Forms fue empleada para recopilar feedback cuantitativo y cualitativo de usuarios potenciales y actuales de ScrumFlow. Diseñada con preguntas estructuradas y abiertas, permitió validar hipótesis clave sobre usabilidad, funcionalidades y problemas técnicos. Los datos obtenidos respaldaron decisiones de mejora, como la optimización de la interfaz y la priorización de nuevas features, asegurando que los cambios reflejen las demandas reales del mercado.
+
+
+Link de la encuesta: https://docs.google.com/forms/d/e/1FAIpQLScSh4j1tzy1k9p5d5Edt-zklIyPMMESx-ZsodZj-ojTgjpuFA/viewform?usp=header
+
+<div align="center">
+    <img src="assets/8.5.1.2.png"><br>
+  </div>
+
 ## 8.6. To-Be Software Platform Pre-launch
+
+
+
 
 ### 8.6.1. About-the-Product Intro Video
 
