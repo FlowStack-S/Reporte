@@ -9,7 +9,7 @@
 </strong><br>
     <br> <strong>INFORME DE TRABAJO FINAL - TB2 </strong> 
 </p>
-<p align="center">
+<p align ="center">
     <strong>Startup: FlowStack </strong><br>
     <strong>Producto: Managewise </strong>
 </p>
